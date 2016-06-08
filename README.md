@@ -6,12 +6,13 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 * Giochi di parole
 * Generazione di testo casuale
 
-I file sono quattro al momento:
+I file sono cinque al momento:
 
 * Lista di circa 60.000 parole
 * Lista di circa 280.000 parole
 * Lista di circa 660.000 parole (grazie a [scalaWords](https://github.com/pazqo/scalaWords))
 * Lista delle 1000 parole più comuni (circa 1160 parole)
+* `parole_uniche.txt` contiene TUTTE le parole presenti nei diversi file.
 
 #### Estratto da `660000_parole_italiane.txt`
 
