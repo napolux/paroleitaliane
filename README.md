@@ -1,12 +1,12 @@
-# Lista parole italiane
+# Liste di parole italiane
 
-In questo repository potrete trovare alcuni file contenenti parole italiane (di provenienza ignota, recuperati da un vecchio hard disk) utili per:
+In questo repository potrete trovare alcuni file contenenti liste di parole italiane (alcuni di provenienza ignota, recuperati da un vecchio hard disk, altri, ove possibile con "fonte") utili per:
 
 * Dizionari
 * Giochi di parole
 * Generazione di testo casuale
 
-I file sono tre:
+I file sono quattro al momento:
 
 * Lista di circa 60.000 parole
 * Lista di circa 280.000 parole
@@ -69,18 +69,6 @@ stanzia
 stanziai
 stanziammo
 stanziamo
-stanziando
-stanziano
-stanziare
-stanziasse
-stanziassi
-stanziaste
-stanziasti
-stanziata
-stanziate
-stanziati
-stanziato
-stanziava
 ```
 #### Estratto da ``280000_parole_italiane.txt``
 
@@ -104,16 +92,7 @@ rodesiani
 rodesiano
 rodesse
 rodessero
-rodessi
-rodessimo
-rodeste
-rodesti
-rodeva
-rodevamo
-rodevano
-rodevate
-rodevi
-rodevo
+...
 rodi
 rodia
 rodiatura
