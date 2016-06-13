@@ -13,7 +13,7 @@ I file sono sei al momento:
 * Lista di circa 280.000 parole
 * Lista di circa 660.000 parole (grazie a [scalaWords](https://github.com/pazqo/scalaWords))
 * Lista delle 1000 parole più comuni (circa 1160 parole)
-* `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file.
+* `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file
 
 #### Estratto da `110000_parole_italiane_con_nomi_propri.txt`
 
@@ -31,23 +31,6 @@ ferrara
 ferrari
 feynman
 fidonet
-filippo
-filomena
-fiorella
-firenze
-forlì
-fourier
-francesca
-francesco
-francia
-gnu
-gpl
-gabriele
-gaeta
-gaetano
-galileo
-galles
-gallia
 ```
 
 #### Estratto da `660000_parole_italiane.txt`
@@ -97,19 +80,11 @@ stanino
 stanno
 stano
 stanotte
-stantuffi
-stantuffo
-stanza
-stanze
-stanzi
-stanzia
-stanziai
-stanziammo
-stanziamo
 ```
 #### Estratto da ``280000_parole_italiane.txt``
 
-```roderebbe
+```
+roderebbe
 roderebbero
 roderei
 roderemmo
@@ -123,18 +98,6 @@ rodermi
 rodero
 rodersi
 rodesia
-rodesiana
-rodesiane
-rodesiani
-rodesiano
-rodesse
-rodessero
-...
-rodi
-rodia
-rodiatura
-rodica
-rodiche
 ```
 
 #### Estratto da ``1000_parole_italiane_comuni.txt``
