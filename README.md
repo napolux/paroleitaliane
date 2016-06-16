@@ -6,14 +6,63 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 * Giochi di parole
 * Generazione di testo casuale
 
-I file sono sei al momento:
+I file sono otto al momento:
 
 * Lista di circa 60.000 parole
+* Lista di circa 95.000 parole, con nomi propri e località
+* Lista di circa 175.000 cognomi, italiani e stranieri
 * Lista di circa 110.000 parole, con nomi propri (persone e città) e termini stranieri di uso comune, anche informatico
 * Lista di circa 280.000 parole
 * Lista di circa 660.000 parole (grazie a [scalaWords](https://github.com/pazqo/scalaWords))
 * Lista delle 1000 parole più comuni (circa 1160 parole)
-* `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file
+* `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file, la dimensione attuale è di circa 900.000 parole
+
+#### Estratto da `95000_parole_italiane_con_nomi_propri.txt`
+
+```
+Volpeglino
+volpina
+volpoca
+volpona
+volsco
+volsero
+volse
+volt
+voltabile
+voltafaccia
+voltafieno
+voltagabbana
+voltaggio
+voltaico
+voltaire
+voltaismo
+voltamaschio
+```
+
+#### Estratto da `lista_cognomi.txt`
+
+```
+Vinacciuoli
+Vinadia
+Vinagli
+Vinago
+Vinaj
+Vinale
+Vinante
+Vinanti
+Vinardi
+Vinarozzi
+Vinas
+Vinaschi
+Vinasi
+Vinassa
+Vinati
+Vinattieri
+Vinatzer
+Vinay
+Vinazza
+Vinazzani
+```
 
 #### Estratto da `110000_parole_italiane_con_nomi_propri.txt`
 
