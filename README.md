@@ -6,9 +6,10 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 * Giochi di parole
 * Generazione di testo casuale
 
-I file sono otto al momento:
+I file sono nove al momento:
 
 * Lista di circa 60.000 parole
+* Lista di circa 9.000 nomi propri
 * Lista di circa 95.000 parole, con nomi propri e località
 * Lista di circa 175.000 cognomi, italiani e stranieri
 * Lista di circa 110.000 parole, con nomi propri (persone e città) e termini stranieri di uso comune, anche informatico
@@ -16,6 +17,31 @@ I file sono otto al momento:
 * Lista di circa 660.000 parole (grazie a [scalaWords](https://github.com/pazqo/scalaWords))
 * Lista delle 1000 parole più comuni (circa 1160 parole)
 * `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file, la dimensione attuale è di circa 900.000 parole
+
+#### Estratto da `9000_nomi_propri.txt`
+
+```
+fernando
+fernella
+fernero
+fernice
+fernida
+ferradino
+ferramondo
+ferranda
+ferrandina
+ferrando
+ferrante
+ferrantino
+ferrara
+ferrarina
+ferrarino
+ferraro
+ferrea
+ferrera
+ferrero
+ferri
+```
 
 #### Estratto da `95000_parole_italiane_con_nomi_propri.txt`
 
