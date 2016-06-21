@@ -24,70 +24,22 @@ I file sono nove al momento:
 fernando
 fernella
 fernero
-fernice
-fernida
-ferradino
-ferramondo
-ferranda
-ferrandina
-ferrando
-ferrante
-ferrantino
-ferrara
-ferrarina
-ferrarino
-ferraro
-ferrea
-ferrera
-ferrero
-ferri
 ```
 
 #### Estratto da `95000_parole_italiane_con_nomi_propri.txt`
 
 ```
-Volpeglino
-volpina
-volpoca
-volpona
-volsco
 volsero
 volse
 volt
-voltabile
-voltafaccia
-voltafieno
-voltagabbana
-voltaggio
-voltaico
-voltaire
-voltaismo
-voltamaschio
 ```
 
 #### Estratto da `lista_cognomi.txt`
 
 ```
-Vinacciuoli
-Vinadia
-Vinagli
-Vinago
-Vinaj
-Vinale
-Vinante
-Vinanti
-Vinardi
-Vinarozzi
-Vinas
-Vinaschi
-Vinasi
-Vinassa
-Vinati
-Vinattieri
-Vinatzer
-Vinay
-Vinazza
-Vinazzani
+vinacciuoli
+vinadia
+vinagli
 ```
 
 #### Estratto da `110000_parole_italiane_con_nomi_propri.txt`
@@ -96,16 +48,6 @@ Vinazzani
 eva
 faq
 fsf
-fabio
-faenza
-fassa
-federica
-federico
-ferdinando
-ferrara
-ferrari
-feynman
-fidonet
 ```
 
 #### Estratto da `660000_parole_italiane.txt`
@@ -114,47 +56,14 @@ fidonet
 zurlavamo
 zurlavano
 zurlavate
-zurlavi
-zurlavo
-zurlera
-zurlerai
-zurleranno
-zurlerebbe
-zurlerebbero
-zurlerei
-zurleremmo
-zurleremo
-zurlereste
-zurleresti
-zurlerete
-zurlero
-zurli
-zurliamo
-zurliate
-zurlino
-zurlo
 ```
 
 #### Estratto da `60000_parole_italiane.txt`
 
-```stanerai
+```
+stanerai
 staneranno
 stanerebbe
-stanerei
-staneremmo
-staneremo
-stanereste
-staneresti
-stanerete
-stangata
-stangate
-stani
-staniamo
-staniate
-stanino
-stanno
-stano
-stanotte
 ```
 #### Estratto da ``280000_parole_italiane.txt``
 
@@ -162,17 +71,6 @@ stanotte
 roderebbe
 roderebbero
 roderei
-roderemmo
-roderemo
-rodereste
-roderesti
-roderete
-roderla
-roderlo
-rodermi
-rodero
-rodersi
-rodesia
 ```
 
 #### Estratto da ``1000_parole_italiane_comuni.txt``
@@ -181,17 +79,6 @@ rodesia
 spazio
 speciale
 specie
-spegnere
-speranza
-sperare
-spesa
-spesso
-spettacolo
-spiegare
-spingere
-spirito
-sposare
-stabilire
 ```
 
 ### Come posso contribuire?
