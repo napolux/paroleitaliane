@@ -6,9 +6,10 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 * Giochi di parole
 * Generazione di testo casuale
 
-I file sono nove al momento:
+I file sono dieci al momento:
 
 * Lista di circa 60.000 parole
+* Lista di "bad words" (parolacce), NSFW :D
 * Lista di circa 9.000 nomi propri
 * Lista di circa 95.000 parole, con nomi propri e località
 * Lista di circa 175.000 cognomi, italiani e stranieri
@@ -17,6 +18,15 @@ I file sono nove al momento:
 * Lista di circa 660.000 parole (grazie a [scalaWords](https://github.com/pazqo/scalaWords))
 * Lista delle 1000 parole più comuni (circa 1160 parole)
 * `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file, la dimensione attuale è di circa 900.000 parole
+
+#### Estratto da `lista_badwords.txt`
+
+```
+baldracca
+baldraccacce
+baldraccaccia
+baldracche
+```
 
 #### Estratto da `9000_nomi_propri.txt`
 
