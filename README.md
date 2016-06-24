@@ -9,7 +9,7 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 I file sono dieci al momento:
 
 * Lista di circa 60.000 parole
-* Lista di "bad words" (parolacce), NSFW :D
+* Lista di circa 500 "bad words" (parolacce), NSFW :D
 * Lista di circa 9.000 nomi propri
 * Lista di circa 95.000 parole, con nomi propri e località
 * Lista di circa 175.000 cognomi, italiani e stranieri
