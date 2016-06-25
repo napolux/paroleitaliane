@@ -6,9 +6,9 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 * Giochi di parole
 * Generazione di testo casuale
 
-I file sono dieci al momento:
+I file sono undici al momento:
 
-* Lista di circa 60.000 parole
+* Lista di circa 60.000 parole italiane
 * Lista di circa 500 "bad words" (parolacce), NSFW :D
 * Lista di circa 9.000 nomi propri
 * Lista di circa 95.000 parole, con nomi propri e località
@@ -18,6 +18,16 @@ I file sono dieci al momento:
 * Lista di circa 660.000 parole (grazie a [scalaWords](https://github.com/pazqo/scalaWords))
 * Lista delle 1000 parole più comuni (circa 1160 parole)
 * `parole_uniche.txt` contiene TUTTE le parole (senza duplicati) presenti nei diversi file, la dimensione attuale è di circa 900.000 parole
+* `bruteforce.txt` (**in archivio separato**) contiene tutte le possibili date di nascita composte da 6 caratteri (esempio: `100188`che indica il 10 Gennaio 1988), un dizionario italiano, tutte le possibili combinazioni lunghe 6 caratteri composte dai numeri da 0 a 9, parolacce, parte dei termini inglesi utilizzati in Italia, parte delle password più  comuni, come `qwertyuio`.
+
+
+#### Estratto da `bruteforce.txt`
+
+```
+111105
+111106
+111107
+```
 
 #### Estratto da `lista_badwords.txt`
 
