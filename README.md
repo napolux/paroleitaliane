@@ -5,6 +5,8 @@ In questo repository potrete trovare alcuni file contenenti liste di parole ital
 * Dizionari
 * Giochi di parole
 * Generazione di testo casuale
+* "Istruzione" di sistemi di intelligenza artificiale
+* Chi più ne ha, più ne metta
 
 I file sono undici al momento:
 
