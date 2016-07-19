@@ -37,7 +37,6 @@ I file sono undici al momento:
 baldracca
 baldraccacce
 baldraccaccia
-baldracche
 ```
 
 #### Estratto da `9000_nomi_propri.txt`
