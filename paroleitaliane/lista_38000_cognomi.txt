@@ -22,7 +22,7 @@ Abatino
 Abatiscianni
 Abazia
 Abba
-Abbà
+Abba'
 Abbadelli
 Abbadessa
 Abbado
@@ -198,8 +198,7 @@ Acerra
 Acerrano
 Aceti
 Aceto
-AcetoAba
-AcetoAchenza
+Achenza
 Achiardi
 Achille
 Achilli
@@ -274,7 +273,7 @@ Ademi
 Adeodato
 Aderenti
 Aderno
-Adernò
+Aderno'
 Adessi
 Adesso
 Adiletta
@@ -398,7 +397,8 @@ Agnoletto
 Agnoli
 Agnolin
 Agnolini
-AgnoloAgnolon
+Agnolo
+Agnolon
 Agnoloni
 Agnusdei
 Agolli
@@ -439,7 +439,7 @@ Agriesti
 Agrillo
 Agrioli
 Agrippa
-Agrò
+Agro'
 Agrostelli
 Aguanno
 Agueci
@@ -494,7 +494,7 @@ Airaldo
 Airasca
 Airaudi
 Airaudo
-Airò
+Airo'
 Airola
 Airoldi
 Airoldo
@@ -554,7 +554,7 @@ Albarello
 Albari
 Albasini
 Albe
-Albè
+Albe'
 Albenga
 Albenzi
 Albenzio
@@ -597,7 +597,8 @@ Albertis
 Alberto
 Alberton
 Albertone
-AlbertoniEberto
+Albertoni
+Albertosi
 Albeverio
 Albi
 Albiani
@@ -720,7 +721,7 @@ Alessandrelli
 Alessandrello
 Alessandretti
 Alessandri
-Alessandrì
+Alessandri'
 Alessandria
 Alessandrin
 Alessandrina
@@ -775,7 +776,7 @@ Algozini
 Algozino
 Algozzini
 Algozzino
-Alì
+Ali'
 Aliani
 Aliano
 Aliardi
@@ -796,7 +797,8 @@ Alifano
 Aliffi
 Aligeri
 Aligero
-AlighieriAlighiero
+Alighieri
+Alighiero
 Aligi
 Alimena
 Alimonda
@@ -887,6 +889,7 @@ Allone
 Alloni
 Allora
 Allori
+Allorio
 Alloro
 Allosia
 Allosio
@@ -907,7 +910,7 @@ Almonte
 Almonti
 Alni
 Alno
-Alò
+Alo'
 Alocchi
 Aloe
 Aloi
@@ -917,6 +920,7 @@ Alois
 Aloise
 Aloisi
 Aloisio
+Aloj
 Aloja
 Alonci
 Alonge
@@ -974,7 +978,7 @@ Altosinno
 Altoviti
 Altruda
 Altura
-Alù
+Alu'
 Aluigi
 Aluisi
 Aluisio
@@ -995,7 +999,8 @@ Alvino
 Alvise
 Alvisi
 Alvisini
-AlvisioAlviso
+Alvisio
+Alviso
 Alviti
 Alvito
 Alzate
@@ -1194,7 +1199,8 @@ Amoretto
 Amori
 Amoriello
 Amorini
-AmorinoAmorosa
+Amorino
+Amorosa
 Amorosi
 Amoroso
 Amorusi
@@ -1238,7 +1244,7 @@ Anderloni
 Andideri
 Andidero
 Ando
-Andò
+Ando'
 Andolfato
 Andolfi
 Andolfo
@@ -1376,7 +1382,7 @@ Angiargiu
 Angieri
 Angiero
 Angileri
-Angiò
+Angio'
 Angioi
 Angioini
 Angioj
@@ -1393,7 +1399,8 @@ Angiu
 Angiuli
 Angiulli
 Angiullo
-AngiuloAngius
+Angiulo
+Angius
 Anglani
 Anglesio
 Angobaldo
@@ -1451,7 +1458,7 @@ Annunziato
 Annunzio
 Annuzzi
 Anobile
-Anoè
+Anoe'
 Ansaldi
 Ansaldo
 Ansalone
@@ -1592,7 +1599,8 @@ Apollinari
 Apollo
 Apollone
 Apolloni
-ApolloniaApollonio
+Apollonia
+Apollonio
 Aponte
 Aporti
 Apostol
@@ -1701,7 +1709,7 @@ Arbori
 Arbucci
 Arbus
 Arca
-Arcà
+Arca'
 Arcadipane
 Arcaini
 Arcamone
@@ -1774,7 +1782,7 @@ Ardesi
 Ardesio
 Ardia
 Ardigo
-Ardigò
+Ardigo'
 Ardigo’
 Ardimenti
 Ardimento
@@ -1791,7 +1799,8 @@ Ardit
 Arditi
 Ardito
 Ardizio
-ArdizziArdizzon
+Ardizzi
+Ardizzon
 Ardizzone
 Ardizzoni
 Ardoin
@@ -1833,7 +1842,7 @@ Arezio
 Arezzini
 Arezzio
 Arezzo
-Arfè
+Arfe'
 Arfelli
 Arfilli
 Argazzi
@@ -1860,7 +1869,7 @@ Argese
 Argiola
 Argiolas
 Argiolu
-Argirò
+Argiro'
 Argondizza
 Argondizzo
 Argurio
@@ -1874,7 +1883,7 @@ Ariaudo
 Arice
 Arici
 Arico
-Aricò
+Arico'
 AricÓ
 Ariente
 Arienti
@@ -1990,12 +1999,13 @@ Arnaudi
 Arnaudo
 Arneodo
 Arneri
-ArneroBaba
+Arnero
+Arnesano
 Arnetoli
 Arneudo
 Arni
 Arno
-Arnò
+Arno'
 Arnod
 Arnoffi
 Arnold
@@ -2026,7 +2036,7 @@ Arpina
 Arpinati
 Arpini
 Arpino
-Arquà
+Arqua'
 Arra
 Arras
 Arreghini
@@ -2044,7 +2054,7 @@ Arriu
 Arrivabene
 Arrivabeni
 Arru
-Arrù
+Arru'
 Arsanto
 Arseni
 Arsenio
@@ -2189,7 +2199,8 @@ Asti
 Astigiano
 Astillero
 Astolfi
-AstolfoAstolfoni
+Astolfo
+Astolfoni
 Astone
 Astore
 Astori
@@ -2231,7 +2242,7 @@ Attili
 Attilia
 Attilio
 Attina
-Attinà
+Attina'
 Attini
 Attino
 Attivissimo
@@ -2388,7 +2399,8 @@ Aviani
 Aviano
 Avicolli
 Avidano
-AviglianoAvigni
+Avigliano
+Avigni
 Avila
 Avino
 Avita
@@ -2461,7 +2473,8 @@ Azzone
 Azzoni
 Azzopardi
 Azzopardo
-AzzuAba
+Azzu
+Baba
 Babare
 Babbaro
 Babbi
@@ -2485,7 +2498,7 @@ Babolin
 Babusci
 Babuscio
 Baccaglini
-Baccalà
+Baccala'
 Baccalini
 Baccani
 Baccarani
@@ -2557,7 +2570,7 @@ Bacis
 Bacuzzi
 Badagliacca
 Badala
-Badalà
+Badala'
 Badalamenti
 Badalati
 Badalato
@@ -2660,9 +2673,8 @@ Bagnulo
 Bagnuolo
 Bagnus
 Bagolin
-BagoliniArnesano
-BagoliniBaba
-BagoliniBagolino
+Bagolini
+Bagolino
 Bagordi
 Bagordo
 Bai
@@ -2812,7 +2824,7 @@ Balestrini
 Balestrino
 Balestro
 Bali
-Balì
+Bali'
 Balia
 Balic
 Balicchi
@@ -2861,7 +2873,8 @@ Ballestriero
 Ballestro
 Balletta
 Balletti
-BallettoBalli
+Balletto
+Balli
 Balliccu
 Ballico
 Ballicu
@@ -3005,7 +3018,7 @@ Baratelli
 Baratieri
 Baratta
 Barattani
-Barattè
+Baratte'
 Barattelli
 Barattero
 Baratti
@@ -3060,7 +3073,8 @@ Barbarich
 Barbarici
 Barbarini
 Barbarino
-BarbariolBarbarioli
+Barbariol
+Barbarioli
 Barbarisi
 Barbaro
 Barbarossa
@@ -3073,7 +3087,7 @@ Barbatosta
 Barbatti
 Barbazza
 Barbazzi
-Barbè
+Barbe'
 Barbera
 Barberi
 Barberini
@@ -3156,7 +3170,7 @@ Bardin
 Bardini
 Bardino
 Bardo
-Bardò
+Bardo'
 Bardone
 Bardoni
 Bardoscia
@@ -3195,13 +3209,13 @@ Barighini
 Barigliano
 Barigozzi
 Barila
-Barilà
+Barila'
 Barilari
 Barilaro
 Barile
 Barili
 Barilla
-Barillà
+Barilla'
 Barillari
 Barillaro
 Barilli
@@ -3229,11 +3243,11 @@ Barloni
 Barmina
 Barmini
 Barna
-Barnà
+Barna'
 Barnaba
-Barnabè
+Barnabe'
 Barnabei
-Barnabò
+Barnabo'
 Barnava
 Barni
 Barnieri
@@ -3259,7 +3273,8 @@ Baroni
 Baronio
 Baronti
 Barontini
-BarontinoD Angiò
+Barontino
+Barosso
 Barotti
 Barotto
 Barovier
@@ -3372,7 +3387,7 @@ Basani
 Basanisi
 Basari
 Basarri
-Bascapè
+Bascape'
 Baschenis
 Baschi
 Baschiazzorre
@@ -3394,7 +3409,7 @@ Basileo
 Basili
 Basilicata
 Basilico
-Basilicò
+Basilico'
 Basilio
 Basilone
 Basini
@@ -3458,7 +3473,8 @@ Batildi
 Batista
 Batistelli
 Batisti
-BatistiniBatocchio
+Batistini
+Batocchio
 Batoni
 Battaggi
 Battaggia
@@ -3520,7 +3536,7 @@ Battolla
 Battolu
 Batzella
 Bau
-Baù
+Bau'
 Bauce
 Bauco
 Bauda
@@ -3638,7 +3654,7 @@ Bedetti
 Bedin
 Bedini
 Bedino
-Bedognè
+Bedogne'
 Bedogni
 Bedolis
 Bedolo
@@ -3657,7 +3673,8 @@ Beghini
 Begliomini
 Begnamini
 Begnardi
-BegnisCabani
+Begnis
+Bego
 Begotti
 Bei
 Beinat
@@ -3739,7 +3756,7 @@ Bellavista
 Bellavita
 Bellavite
 Bellaviti
-Bellè
+Belle'
 Belleboni
 Bellebono
 Bellebuono
@@ -3813,7 +3830,7 @@ Bellotti
 Bellotto
 Bellovino
 Bellu
-Bellù
+Bellu'
 Belluardo
 Bellucci
 Belluccio
@@ -3856,7 +3873,8 @@ Beltramo
 Beltran
 Beltrand
 Beltrandi
-BeltrandoBeltrani
+Beltrando
+Beltrani
 Beltrano
 Belusci
 Belvedere
@@ -3965,7 +3983,7 @@ Benin
 Beninati
 Beninato
 Beninca
-Benincà
+Beninca'
 Benincasa
 Benini
 Benino
@@ -4055,7 +4073,8 @@ Berettera
 Beretti
 Bergagna
 Bergagni
-BergagninBergagnini
+Bergagnin
+Bergagnini
 Bergalla
 Bergalli
 Bergallo
@@ -4119,7 +4138,7 @@ Berloco
 Berlucchi
 Berlusconi
 Berna
-Bernabè
+Bernabe'
 Bernabei
 Bernabini
 Bernabovi
@@ -4237,7 +4256,7 @@ Bertazzo
 Bertazzoli
 Bertazzoni
 Berte
-Bertè
+Berte'
 Bertea
 Bertella
 Bertelle
@@ -4254,7 +4273,8 @@ Bertesi
 Berti
 Bertin
 Bertina
-BertinatBertinelli
+Bertinat
+Bertinelli
 Bertinetti
 Bertinetto
 Bertini
@@ -4352,7 +4372,7 @@ Besalduch
 Besana
 Besani
 Besca
-Bescapè
+Bescape'
 Beschi
 Besco
 Besi
@@ -4385,7 +4405,7 @@ Bettati
 Bettazza
 Bettazzi
 Bettazzo
-Bettè
+Bette'
 Bettega
 Bettella
 Bettelli
@@ -4453,7 +4473,8 @@ Biamonte
 Biamonti
 Bianca
 Biancacci
-BiancalanaBiancalani
+Biancalana
+Biancalani
 Biancardi
 Biancardo
 Biancarelli
@@ -4522,7 +4543,7 @@ Biazzi
 Biazzo
 Bibbiani
 Bibbiano
-Bibbò
+Bibbo'
 Bibini
 Bibiri
 Biblico
@@ -4604,7 +4625,7 @@ Bignone
 Bignotti
 Bignotto
 Bignu
-Bignù
+Bignu'
 Bignucolo
 Bigogno
 Bigolin
@@ -4625,14 +4646,14 @@ Bilello
 Biliardi
 Bilibio
 Billai
-Billè
+Bille'
 Billeci
 Billera
 Billeri
 Billero
 Billi
 Billo
-Billò
+Billo'
 Billone
 Billoni
 BillÉ
@@ -4652,7 +4673,8 @@ Binago
 Binanti
 Binarelli
 Binaschi
-BinascoBinassi
+Binasco
+Binassi
 Binci
 Bincoletto
 Binda
@@ -4704,7 +4726,7 @@ Biraghi
 Birago
 Biral
 Birardi
-Biribò
+Biribo'
 Birindelli
 Birocchi
 Birocci
@@ -4851,7 +4873,8 @@ Blanca
 Blancardi
 Blancato
 Blanchet
-BlanchettiBlanchi
+Blanchetti
+Blanchi
 Blanchini
 Blanchod
 Blanco
@@ -4895,7 +4918,7 @@ Blundi
 Blundo
 Blunno
 Bo
-Bò
+Bo'
 Boar
 Boara
 Boaretti
@@ -5050,7 +5073,8 @@ Bolatti
 Bolatto
 Bolcato
 Boldi
-BoldinBoldini
+Boldin
+Boldini
 Boldino
 Boldo
 Boldoni
@@ -5153,7 +5177,7 @@ Bonadio
 Bonadonna
 Bonaduce
 Bonafe
-Bonafè
+Bonafe'
 Bonafede
 Bonaffine
 Bonaffini
@@ -5249,7 +5273,8 @@ Boncordi
 Boncordo
 Boncore
 Boncristiani
-BoncristianoBondanza
+Boncristiano
+Bondanza
 Bondavalli
 Bondesan
 Bondi
@@ -5272,7 +5297,7 @@ Bonetti
 Bonetto
 Bonevento
 Bonezzi
-Bonfà
+Bonfa'
 Bonfadini
 Bonfadino
 Bonfant
@@ -5308,9 +5333,9 @@ Bongiorni
 Bongiorno
 Bongiovanni
 Bongiovi
-Bongiovì
+Bongiovi'
 Boni
-Bonì
+Boni'
 Boniardi
 Bonicchio
 Bonicelli
@@ -5390,7 +5415,7 @@ Bonsi
 Bonsignore
 Bonsignori
 Bonso
-Bontà
+Bonta'
 Bontempelli
 Bontempi
 Bontempo
@@ -5448,7 +5473,8 @@ Bordino
 Bordo
 Bordogna
 Bordoli
-BordonBordonali
+Bordon
+Bordonali
 Bordonaro
 Bordone
 Bordoni
@@ -5516,7 +5542,7 @@ Borgonovo
 Borgonuovo
 Borgotti
 Borgu
-Borgù
+Borgu'
 Bori
 Boria
 Boriani
@@ -5636,7 +5662,7 @@ Borzacchielli
 Borzacchiello
 Borzelli
 Borzi
-Borzì
+Borzi'
 Borzilli
 Borzillo
 Borzini
@@ -5647,7 +5673,8 @@ Bosani
 Bosatra
 Bosc
 Bosca
-BoscagliaBoscaini
+Boscaglia
+Boscaini
 Boscaino
 Boscarato
 Boscardelli
@@ -5723,7 +5750,7 @@ Botero
 Botrugno
 Bott
 Botta
-Bottà
+Botta'
 Bottacin
 Bottai
 Bottaioli
@@ -5846,7 +5873,8 @@ Braccioni
 Bracciotti
 Bracco
 Braccone
-BracconiBraceschi
+Bracconi
+Braceschi
 Brachini
 Brachino
 Bracone
@@ -6045,7 +6073,8 @@ Bressa
 Bressan
 Bressanelli
 Bressani
-BressaninBressanini
+Bressanin
+Bressanini
 Bressano
 Bressi
 Bresso
@@ -6244,7 +6273,8 @@ Brugo
 Brugora
 Brullo
 Brumana
-BrumaniBrumano
+Brumani
+Brumano
 Brumat
 Brun
 Bruna
@@ -6417,7 +6447,7 @@ Bufani
 Bufano
 Buffa
 Buffele
-Buffelè
+Buffele'
 Buffi
 Buffini
 Buffino
@@ -6433,7 +6463,7 @@ Bufo
 Bugada
 Bugamelli
 Bugane
-Buganè
+Bugane'
 Buganza
 Bugatti
 Bugatto
@@ -6441,9 +6471,10 @@ Bugea
 Bugella
 Bugelli
 Bugge
-Buggè
-Buggì
-BuggianiBugia
+Bugge'
+Buggi'
+Buggiani
+Bugia
 Bugiani
 Bugli
 Buglia
@@ -6525,7 +6556,7 @@ Buonaiuto
 Buonamici
 Buonamico
 Buonandi
-Buonandì
+Buonandi'
 Buonanno
 Buonaparte
 Buonarota
@@ -6642,19 +6673,20 @@ Burra
 Burrafato
 Burrai
 Burrascano
-BurricoBurro
+Burrico
+Burro
 Burrone
 Burroni
 Bursacchi
 Burtone
 Burza
 Burzi
-Burzì
+Burzi'
 Burzio
 Burzo
 Bus
 Busa
-Busà
+Busa'
 Busacca
 Busaglia
 Busalacchi
@@ -6704,7 +6736,7 @@ Busincu
 Businelli
 Busiol
 Buslacchi
-Busnè
+Busne'
 Busnelli
 Buso
 Busolin
@@ -6746,7 +6778,7 @@ Butera
 Buti
 Butini
 Butta
-Buttà
+Butta'
 Buttafava
 Buttafochi
 Buttafoco
@@ -6766,7 +6798,7 @@ Butterazzi
 Butteri
 Buttero
 Butti
-Butticè
+Buttice'
 Buttieri
 Buttigli
 Buttiglia
@@ -6799,7 +6831,8 @@ Buzzini
 Buzzo
 Buzzolino
 Buzzone
-BuzzoniBaba
+Buzzoni
+Cabani
 Cabano
 Cabassi
 Cabboi
@@ -6897,7 +6930,7 @@ Caenazzo
 Caeta
 Caetani
 Caetano
-Cafà
+Cafa'
 Cafagna
 Cafarella
 Cafarelli
@@ -6998,9 +7031,8 @@ Cais
 Caito
 Caiumi
 Caivano
-CaizzaBego
-CaizzaCabani
-CaizzaCaizzi
+Caizza
+Caizzi
 Caizzo
 Cajazza
 Cajazzo
@@ -7015,10 +7047,10 @@ Calabria
 Calabritta
 Calabritto
 Calabro
-Calabrò
+Calabro'
 Calaciura
 Calafa
-Calafà
+Calafa'
 Calafata
 Calafati
 Calafato
@@ -7090,7 +7122,7 @@ Calci
 Calcia
 Calcio
 Calco
-Calcò
+Calco'
 Calcopietro
 Caldan
 Caldana
@@ -7146,7 +7178,7 @@ Calfapietra
 Calgari
 Calgaro
 Cali
-Calì
+Cali'
 Calia
 Calian
 Caliandro
@@ -7177,7 +7209,7 @@ Calimero
 Calini
 Calino
 Calio
-Caliò
+Calio'
 Caliolo
 Calipa
 Calipari
@@ -7193,13 +7225,14 @@ Calistro
 Calitri
 Calizzi
 Calla
-Callà
+Calla'
 Callara
 Callari
 Callaro
 Callea
 Calledda
-CallegariCallegarini
+Callegari
+Callegarini
 Callegaris
 Callegaro
 Callegati
@@ -7222,7 +7255,7 @@ Callozzo
 Calmi
 Calmo
 Calo
-Calò
+Calo'
 Calofaro
 Calogeri
 Calogero
@@ -7244,7 +7277,7 @@ Caltabiano
 Caltagirone
 Caltanissetta
 Calu
-Calù
+Calu'
 Calubani
 Calusi
 Calusio
@@ -7330,7 +7363,7 @@ Cambiale
 Cambiali
 Cambiasi
 Cambiaso
-Cambiè
+Cambie'
 Cambielli
 Cambieri
 Cambini
@@ -7366,7 +7399,7 @@ Camilli
 Camillieri
 Camillini
 Camillo
-Camillò
+Camillo'
 Camilloni
 Camillucci
 Camilluzzi
@@ -7398,7 +7431,8 @@ Cammia
 Cammilli
 Cammisa
 Cammoranesi
-CamnasioCamodeca
+Camnasio
+Camodeca
 Camogliano
 Camoirano
 Camoni
@@ -7556,7 +7590,7 @@ Candelo
 Candelora
 Candelori
 Candeloro
-Candelù
+Candelu'
 Candeo
 Candi
 Candia
@@ -7592,12 +7626,13 @@ Candussi
 Candussio
 CandÌla
 Cane
-Canè
+Cane'
 Canegalli
 Canegallo
 Canella
 Canelles
-CanelliCanello
+Canelli
+Canello
 Caneo
 Canepa
 Canepari
@@ -7644,7 +7679,7 @@ Cani
 Caniati
 Caniato
 Canicatti
-Canicattì
+Canicatti'
 Canidio
 Caniffi
 Caniglia
@@ -7654,7 +7689,7 @@ Canio
 Canipari
 Caniparo
 Canisi
-Canistrà
+Canistra'
 Canistraro
 Canizzaro
 Canizzo
@@ -7662,7 +7697,7 @@ Canna
 Cannara
 Cannas
 Cannata
-Cannatà
+Cannata'
 Cannataro
 Cannatella
 Cannatelli
@@ -7677,7 +7712,7 @@ Cannavale
 Cannavaro
 Cannaviello
 Cannavo
-Cannavò
+Cannavo'
 Cannavà
 Cannaò
 Canne
@@ -7695,7 +7730,7 @@ Cannetti
 Cannetto
 Canneva
 Canniello
-Cannistrà
+Cannistra'
 Cannistraro
 Cannizzaro
 Cannizzo
@@ -7775,7 +7810,7 @@ Cantore
 Cantoreggi
 Cantori
 Cantoro
-Cantù
+Cantu'
 Canu
 Canudo
 Canuti
@@ -7796,7 +7831,8 @@ Capacchione
 Capacchioni
 Capaccio
 Capaci
-CapalbiCapalbo
+Capalbi
+Capalbo
 Capaldi
 Capaldo
 Capancioni
@@ -7968,7 +8004,7 @@ Capretti
 Caprettini
 Capretto
 Capri
-Caprì
+Capri'
 Capria
 Capriati
 Caprigli
@@ -7995,7 +8031,8 @@ Caproni
 Capua
 Capuana
 Capuani
-CapuanoCapucci
+Capuano
+Capucci
 Capuccio
 Capula
 Capuozzi
@@ -8194,7 +8231,8 @@ Carfagnini
 Carfagnino
 Carfagno
 Carfi
-CarfìCarfora
+Carfi'
+Carfora
 CarfÌ
 Cargnel
 Cargnelli
@@ -8393,7 +8431,8 @@ Carpitella
 Carputi
 Carputo
 Carra
-CarràCarrabs
+Carra'
+Carrabs
 Carracoi
 Carrada
 Carradori
@@ -8411,7 +8450,7 @@ Carraro
 Carrata
 Carrato
 Carratu
-Carratù
+Carratu'
 Carrau
 Carravieri
 Carrer
@@ -8592,7 +8631,8 @@ Cascione
 Casciotti
 Casco
 Cascone
-CaseCasei
+Case
+Casei
 Casella
 Caselle
 Caselli
@@ -8673,7 +8713,7 @@ Cassataro
 Cassatella
 Casse
 Cassera
-Casserà
+Cassera'
 Cassese
 Cassetta
 Cassetti
@@ -8742,7 +8782,7 @@ Castaldo
 Castana
 Castani
 Castano
-Castanò
+Castano'
 Castegnaro
 Castegnini
 Castelfranchi
@@ -8791,12 +8831,13 @@ Castorini
 Castorino
 Castoro
 Castracane
-CastracaneiCastracani
+Castracanei
+Castracani
 Castrezzati
 Castri
 Castriciano
 Castrignano
-Castrignanò
+Castrignano'
 Castrillo
 Castrini
 Castrino
@@ -8896,7 +8937,7 @@ Catozzo
 Catracchia
 Catrame
 Catricala
-Catricalà
+Catricala'
 Catrini
 Catta
 Cattabiani
@@ -8930,7 +8971,7 @@ Cattina
 Cattini
 Cattino
 Catto
-Cattò
+Catto'
 Cattolica
 Cattolico
 Catton
@@ -8955,6 +8996,7 @@ Caudera
 Cauduro
 Causio
 Causo
+Cautero
 Cauteruccio
 Cauti
 Cauzo
@@ -8962,7 +9004,7 @@ Cava
 Cavacciuti
 Cavacece
 Cavadini
-Cavaglià
+Cavaglia'
 Cavagna
 Cavagnari
 Cavagnaro
@@ -8972,7 +9014,7 @@ Cavagnoli
 Cavagnolo
 Cavalazzi
 Cavalca
-Cavalcabò
+Cavalcabo'
 Cavalcante
 Cavalcanti
 Cavaler
@@ -8990,7 +9032,8 @@ Cavallazzi
 Cavalleri
 Cavallero
 Cavalletti
-CavallettoCavalli
+Cavalletto
+Cavalli
 Cavallin
 Cavallini
 Cavallino
@@ -9052,7 +9095,7 @@ Cavini
 Cavino
 Caviola
 Cavioni
-Cavò
+Cavo'
 Cavone
 Cavos
 Cavosi
@@ -9066,7 +9109,7 @@ Cavuto
 Cazza
 Cazzaniga
 Cazzaro
-Cazzarò
+Cazzaro'
 Cazzati
 Cazzato
 Cazzetta
@@ -9079,7 +9122,7 @@ Cazzolo
 Cazzulani
 Cazzullo
 Cazzulo
-Cè
+Ce'
 Cea
 Cebba
 Cecalupo
@@ -9142,14 +9185,14 @@ Cedro
 Cedrone
 Cedroni
 Cefala
-Cefalà
+Cefala'
 Cefali
-Cefalì
+Cefali'
 Cefalini
 Cefalo
 Cefalone
 Cefaloni
-Cefalù
+Cefalu'
 Cefarelli
 Cefariello
 Cefaro
@@ -9189,7 +9232,8 @@ Cellammare
 Cellani
 Cellari
 Cellauro
-CelleCelleri
+Celle
+Celleri
 Cellerini
 Cellesi
 Celletti
@@ -9328,7 +9372,7 @@ Cercaci
 Cercato
 Cerchiai
 Cerciello
-Cerè
+Cere'
 Cerea
 Cereda
 Cerello
@@ -9388,7 +9432,8 @@ Cerqui
 Cerra
 Cerrati
 Cerrato
-CerretaCerreti
+Cerreta
+Cerreti
 Cerreto
 Cerretti
 Cerri
@@ -9455,7 +9500,7 @@ Cesarini
 Cesario
 Cesaris
 Cesaro
-Cesarò
+Cesaro'
 Cesaroni
 Cesarotti
 Cesarotto
@@ -9533,12 +9578,17 @@ Chechi
 Checo
 Checola
 Checuz
+Chelazzi
 Cheldi
 Cheli
+Chelini
 Chelli
 Chellini
 Chellino
+Chelo
 Cheloni
+Chelotti
+Chelucci
 Chemello
 Chenal
 Chenet
@@ -9587,7 +9637,8 @@ Chianella
 Chianelli
 Chianello
 Chianese
-ChianesiChiani
+Chianesi
+Chiani
 Chianini
 Chiano
 Chiapella
@@ -9676,9 +9727,9 @@ Chicchi
 Chicchini
 Chicchino
 Chicchiricco
-Chicchiriccò
+Chicchiricco'
 Chicchirichi
-Chicchirichì
+Chicchirichi'
 Chicchirillo
 Chicco
 Chiccone
@@ -9686,10 +9737,10 @@ Chicconi
 Chicherchia
 Chichierchia
 Chichiricco
-Chichiriccò
+Chichiricco'
 Chichirichi
 Chichirico
-Chichiricò
+Chichirico'
 Chichizola
 Chicoli
 Chiea
@@ -9733,11 +9784,11 @@ Chigi
 Chignola
 Chignoli
 Chilelli
-Chillè
+Chille'
 Chillemi
 Chillon
 Chilloni
-Chilò
+Chilo'
 Chimenti
 Chimento
 Chimera
@@ -9757,7 +9808,7 @@ Chinello
 Chinetti
 Chini
 Chinigo
-Chinigò
+Chinigo'
 Chinini
 Chinnati
 Chinni
@@ -9772,6 +9823,7 @@ Chiochia
 Chioda
 Chiodarelli
 Chiodaroli
+Chiodetti
 Chiodi
 Chiodini
 Chiodo
@@ -9786,12 +9838,15 @@ Chioni
 Chionna
 Chionne
 Chionni
-ChionnoChiono
+Chionno
+Chiono
+Chiorri
+Chiorrini
 Chiosi
 Chiosini
 Chioso
 Chiove
-Chiovè
+Chiove'
 Chiozza
 Chiozzotti
 Chiozzotto
@@ -9801,7 +9856,7 @@ Chirco
 Chireleison
 Chiri
 Chiriaco
-Chiriacò
+Chiriaco'
 Chiriatti
 Chiriatto
 Chirici
@@ -9835,7 +9890,7 @@ Chiti
 Chito
 Chitti
 Chitto
-Chittò
+Chitto'
 Chiucchi
 Chiucconi
 Chiuch
@@ -9985,7 +10040,8 @@ Cicciari
 Ciccio
 Cicciomessere
 Ciccione
-CiccioniCiccirelli
+Ciccioni
+Ciccirelli
 Ciccirello
 Cicco
 Ciccolecchia
@@ -10158,7 +10214,7 @@ Cioce
 Cioci
 Ciocia
 Ciocio
-Cioè
+Cioe'
 Cioeta
 Cioetto
 Ciofetti
@@ -10184,7 +10240,8 @@ Ciorli
 Ciorra
 Ciorri
 Ciorro
-CiotolaCiotta
+Ciotola
+Ciotta
 Ciotti
 Ciotto
 Cipelli
@@ -10220,7 +10277,7 @@ Cipullo
 Ciquera
 Cira
 Ciraci
-Ciracì
+Ciraci'
 Ciraco
 Ciraldi
 Ciraldo
@@ -10279,7 +10336,7 @@ Cisali
 Cisamolo
 Cisari
 Cisario
-Cisarò
+Cisaro'
 Ciserani
 Ciseri
 Cislacchi
@@ -10383,7 +10440,8 @@ Clarini
 Claris
 Claro
 Clasadonte
-ClaudiClaudia
+Claudi
+Claudia
 Claudiani
 Claudiano
 Claudini
@@ -10417,7 +10475,7 @@ Clozza
 Cludi
 Clun
 Co
-Cò
+Co'
 Coana
 Coati
 Coato
@@ -10441,9 +10499,9 @@ Cocciolone
 Coccione
 Coccioni
 Cocco
-Coccodè
+Coccode'
 Coccodi
-Coccodì
+Coccodi'
 Coccollone
 Coccolone
 Cocconcelli
@@ -10473,8 +10531,8 @@ Codazzi
 Coddura
 Code
 Codebo
-Codebò
-Codecà
+Codebo'
+Codeca'
 Codecasa
 Codega
 Codeghini
@@ -10582,7 +10640,8 @@ Colaninno
 Colanni
 Colantoni
 Colantonio
-ColantuoniColantuono
+Colantuoni
+Colantuono
 Colao
 Colapietra
 Colapietro
@@ -10663,12 +10722,12 @@ Collostide
 Collovati
 Collu
 Collura
-Collurà
+Collura'
 Colmegna
 Colnaghi
 Colnago
 Colo
-Colò
+Colo'
 Colocresi
 Colofeo
 Cologna
@@ -10737,10 +10796,10 @@ Comacchi
 Comacchio
 Comai
 Comand
-Comandè
+Comande'
 Comandi
 Comandini
-Comandù
+Comandu'
 Comaro
 Comaroli
 Comaschi
@@ -10781,7 +10840,8 @@ Comino
 Cominotti
 Cominotto
 Cominu
-ComiottoComiran
+Comiotto
+Comiran
 Comis
 Comisso
 Comita
@@ -10845,13 +10905,13 @@ Condello
 Condemi
 Condipodaro
 Condipodero
-Condò
+Condo'
 Condoleo
 Condoluci
 Condorelli
 Condosta
 Condro
-Condrò
+Condro'
 Coneglian
 Conegliani
 Conegliano
@@ -10980,7 +11040,8 @@ Coppolino
 Coppolone
 Coppone
 Copponi
-CoppotelliCorà
+Coppotelli
+Cora'
 Coradazzi
 Coraggi
 Coraggio
@@ -11041,7 +11102,7 @@ Cordero
 Cordeschi
 Cordesco
 Cordi
-Cordì
+Cordi'
 Cordini
 Cordioli
 Cordischi
@@ -11076,7 +11137,7 @@ Corleone
 Corleta
 Corleto
 Corliano
-Corlianò
+Corliano'
 Corna
 Cornacchi
 Cornacchia
@@ -11107,7 +11168,7 @@ Corni
 Cornia
 Cornigliaro
 Corno
-Corò
+Coro'
 Corodda
 Coroli
 Corona
@@ -11125,7 +11186,7 @@ Corpi
 Corpo
 Corpus
 Corra
-Corrà
+Corra'
 Corrada
 Corradazzi
 Corradazzo
@@ -11159,7 +11220,7 @@ Corrias
 Corridoni
 Corridori
 Corru
-Corrù
+Corru'
 Corrò
 Corsa
 Corsale
@@ -11179,7 +11240,8 @@ Corso
 Cortazza
 Cortazzi
 Cortazzo
-CorteCortecci
+Corte
+Cortecci
 Corteccia
 Corteggiani
 Corteggiano
@@ -11378,7 +11440,8 @@ Crabu
 Cracchi
 Cracchiolo
 Cracco
-CracòCraighero
+Craco'
+Craighero
 Cramaro
 Cramer
 Crameri
@@ -11389,7 +11452,7 @@ Cranco
 Crapanzano
 Crapulli
 Crasci
-Crascì
+Crasci'
 Crast
 Crasta
 Crastan
@@ -11478,13 +11541,13 @@ Cricella
 Cricelli
 Crifasi
 Crifo
-Crifò
+Crifo'
 Crim
 Crimaldi
 Crimaldo
 Crimi
 Crippa
-Crisà
+Crisa'
 Crisafi
 Crisafio
 Crisafulli
@@ -11506,7 +11569,7 @@ Criscito
 Crisconio
 Criscuolo
 Crisolia
-Crisonà
+Crisona'
 Crisostomi
 Crisostomo
 Crispano
@@ -11570,14 +11633,15 @@ Crivelli
 Crivellini
 Crivellino
 Crivello
-Crò
+Cro'
 Croati
 Croato
 Croatti
 Croattini
 Croattino
 Croatto
-CrobisCrobu
+Crobis
+Crobu
 Crocco
 Croccoli
 Croccolo
@@ -11636,7 +11700,7 @@ Cruciano
 Cruciati
 Cruciato
 Crucilla
-Crucillà
+Crucilla'
 Crucitti
 Crudele
 Crudeli
@@ -11746,8 +11810,8 @@ Cumino
 Cummo
 Cuna
 Cundari
-Cundò
-Cundrò
+Cundo'
+Cundro'
 Cunegati
 Cunegato
 Cunegatti
@@ -11764,7 +11828,7 @@ Cunietti
 Cuniglio
 Cunsolo
 Cuntro
-Cuntrò
+Cuntro'
 Cuoco
 Cuoghi
 Cuogo
@@ -11776,7 +11840,8 @@ Cuorgentile
 Cuozzo
 Cupaioli
 Cupaiolo
-CupaiuoliCupaiuolo
+Cupaiuoli
+Cupaiuolo
 Cupelli
 Cupellini
 Cupello
@@ -11792,7 +11857,7 @@ Cuppi
 Cuppini
 Cuppo
 Cuppone
-Curà
+Cura'
 Curatelli
 Curatola
 Curatoli
@@ -11827,7 +11892,7 @@ Currau
 Curreli
 Curri
 Curridori
-Currò
+Curro'
 Currò
 Cursietti
 Cursio
@@ -11844,9 +11909,9 @@ Cusanelli
 Cusani
 Cusano
 Cuscona
-Cusconà
+Cuscona'
 Cuscuna
-Cuscunà
+Cuscuna'
 Cuscusa
 Cusenza
 Cusimano
@@ -11855,7 +11920,7 @@ Cusinati
 Cusinato
 Cusini
 Cusma
-Cusmà
+Cusma'
 Cusmano
 Cuspilici
 Cuspolici
@@ -11898,8 +11963,9 @@ Cuzzolino
 Cuzzubbo
 Cuzzuol
 Cuzzupe
-Cuzzupè
-CuzzupoliCabani
+Cuzzupe'
+Cuzzupoli
+D Angio'
 D'Abronzo
 D'Abrosca
 D'Accardo
@@ -11945,11 +12011,12 @@ D'Alessandro
 D'Alessio
 D'Alfonso
 D'Alfonzo
-D'Alì
+D'Ali'
 D'Alife
 D'Alise
 D'Alisera
-D'Alò
+D'Alo'
+D'Aloi
 D'Aloia
 D'Aloisio
 D'Aloja
@@ -11958,8 +12025,9 @@ D'Alonzo
 D'Alterio
 D'Altiero
 D'Altobrando
-D'Alù
+D'Alu'
 D'Aluisio
+D'Alò
 D'Amaddio
 D'Amadio
 D'Amante
@@ -12009,7 +12077,7 @@ D'Annibale
 D'Annunzio
 D'Antino
 D'Anto
-D'Antò
+D'Anto'
 D'Antona
 D'Antone
 D'Antoni
@@ -12021,7 +12089,7 @@ D'Aponte
 D'Aprea
 D'Aprile
 D'Aquanno
-D'Aquì
+D'Aqui'
 D'Aquila
 D'Aquino
 D'Aragona
@@ -12039,7 +12107,7 @@ D'Arpa
 D'Arpizio
 D'Arrigo
 D'Arsie
-D'Arsiè
+D'Arsie'
 D'Ascanio
 D'Ascenzi
 D'Ascenzio
@@ -12098,9 +12166,8 @@ D'Ettorre
 D'Eugenio
 D'Eusanio
 D'Eustacchio
-D'EustachioBarosso
-D'EustachioD Angiò
-D'EustachioD'Herin
+D'Eustachio
+D'Herin
 D'Ianni
 D'Ignazi
 D'Ignazio
@@ -12142,7 +12209,7 @@ D'Ursi
 D'Urso
 D'Uva
 Da Bariano
-Da Bò
+Da Bo'
 Da Cerreto
 Da Cha
 Da Col
@@ -12154,7 +12221,7 @@ Da Dalt
 Da Dalto
 Da Dio
 Da Forno
-Da Frè
+Da Fre'
 Da Gradi
 Da Malta
 Da Maren
@@ -12166,10 +12233,10 @@ Da Polenta
 Da Pos
 Da Pozzo
 Da Pra
-Da Prà
-Da Prelà
+Da Pra'
+Da Prela'
 Da Re
-Da Rè
+Da Re'
 Da Rio
 Da Riz
 Da Rodda
@@ -12178,7 +12245,7 @@ Da Rolt
 Da Ronco
 Da Ros
 Da Ru
-Da Rù
+Da Ru'
 Da Ruos
 Da Valle
 Da Venezia
@@ -12187,7 +12254,7 @@ Dabbene
 Dabbeni
 Dabellani
 Dacchille
-Daccò
+Dacco'
 Dachille
 Dacol
 Dacomi
@@ -12195,11 +12262,11 @@ Dacomo
 Dadalt
 Dadda
 Daddario
-Dadiè
+Dadie'
 Dadone
 Daelli
 Daffonchio
-Dafrè
+Dafre'
 Daga
 Daggiano
 Daglia
@@ -12215,7 +12282,7 @@ Dagrezia
 Dagrezio
 Daguanno
 Daguati
-Dahò
+Daho'
 Dai Campi
 Daicampi
 Daidone
@@ -12234,7 +12301,7 @@ Dal Bello
 Dal Ben
 Dal Bianco
 Dal Bo
-Dal Bò
+Dal Bo'
 Dal Borgo
 Dal Bosco
 Dal Brollo
@@ -12272,7 +12339,7 @@ Dal Porto
 Dal Pos
 Dal Pozzo
 Dal Pra
-Dal Prà
+Dal Pra'
 Dal Rio
 Dal Santo
 Dal Sie
@@ -12299,7 +12366,8 @@ Dalfini
 Dalfino
 Dalfovo
 Dall'Acqua
-Dall'AgataDall'Aglio
+Dall'Agata
+Dall'Aglio
 Dall'Agnol
 Dall'Antonia
 Dall'Ara
@@ -12331,7 +12399,7 @@ Dalla Lunga
 Dalla Marta
 Dalla Monica
 Dalla Monta
-Dalla Montà
+Dalla Monta'
 Dalla Noce
 Dalla Pasqua
 Dalla Porta
@@ -12410,7 +12478,7 @@ Danesi
 Danesini
 Danetra
 Dangelo
-Dangiò
+Dangio'
 Dani
 Daniel
 Daniela
@@ -12446,7 +12514,7 @@ Daponte
 Daporto
 Dapporto
 Daprea
-Daprelà
+Daprela'
 Dara
 Darchi
 Darchini
@@ -12457,7 +12525,7 @@ Dardano
 Dardi
 Dardo
 Dare
-Darè
+Dare'
 Darelli
 Darello
 Dargenio
@@ -12469,19 +12537,19 @@ Darmian
 Daronco
 Daros
 Darsie
-Darsiè
+Darsie'
 Dartora
 Daru
-Darù
+Daru'
 Daruos
 Dascoli
 Dasero
 Dassani
 Dassano
-Dassè
+Dasse'
 Dassiani
 Dassie
-Dassiè
+Dassie'
 Data
 Dati
 Dato
@@ -12495,10 +12563,11 @@ Davenia
 Daveri
 Daverio
 Davi
-Davì
+Davi'
 Davico
 David
-DaviddeDaviddi
+Davidde
+Daviddi
 Davide
 Davidi
 Davighi
@@ -12529,7 +12598,7 @@ De Amici
 De Amicis
 De Amico
 De Andrade
-De Andrè
+De Andre'
 De Andreis
 De Angeli
 De Angelis
@@ -12697,7 +12766,8 @@ De Federici
 De Felice
 De Felici
 De Felicibus
-De FendiDe Fendis
+De Fendi
+De Fendis
 De Fent
 De Feo
 De Ferrari
@@ -12827,6 +12897,7 @@ De Lapa
 De Laurenti
 De Laurentiis
 De Laurentis
+De Laurenzis
 De Lazzari
 De Ledda
 De Lelli
@@ -12870,11 +12941,13 @@ De Luigi
 De Luis
 De Luise
 De Luisi
+De Luna
 De Lussu
 De Luzi
 De Maestri
 De Maggi
 De Maggio
+De Magistri
 De Magistris
 De Maglie
 De Maio
@@ -12891,19 +12964,21 @@ De Maria
 De Marinis
 De Marino
 De Mario
+De Marsico
 De Marta
 De Martiis
 De Martin
 De Martini
 De Martinis
-De MartinoDe Martis
+De Martino
+De Martis
 De Marzi
 De Marziis
 De Mas
 De Masi
 De Maso
 De Massari
-De Mattè
+De Matte'
 De Mattei
 De Matteis
 De Matteo
@@ -12913,16 +12988,20 @@ De Mattio
 De Mauro
 De Mecco
 De Medici
+De Medicis
 De Meis
 De Melas
 De Meneghi
 De Meo
+De Mercurio
 De Mestria
 De Mestrio
 De Metri
+De Metris
 De Micco
 De Michele
 De Micheli
+De Michelis
 De Miere
 De Mieri
 De Milato
@@ -12936,12 +13015,14 @@ De Monte
 De Monti
 De Montis
 De Mori
+De Morra
 De Mulini
 De Munari
 De Munda
 De Mundo
 De Muner
 De Munno
+De Mura
 De Muro
 De Murtas
 De Muru
@@ -12957,12 +13038,12 @@ De Natale
 De Negri
 De Negris
 De Niccolo
-De Niccolò
+De Niccolo'
 De Nichilo
 De Nicola
 De Nicolai
 De Nicolo
-De Nicolò
+De Nicolo'
 De Nigri
 De Nigris
 De Nilo
@@ -13032,7 +13113,7 @@ De Piero
 De Pietri
 De Pietro
 De Pilla
-De Pinè
+De Pine'
 De Pinto
 De Pisa
 De Piscopo
@@ -13045,7 +13126,7 @@ De Pompeis
 De Ponti
 De Porzio
 De Pra
-De Prà
+De Pra'
 De Prato
 De Presbiteris
 De Prete
@@ -13058,13 +13139,14 @@ De Raho
 De Rai
 De Raimondo
 De Re
-De Rè
+De Re'
 De Rege
 De Regibus
 De Regis
 De Rentiis
 De Renzi
 De Renzio
+De Renzis
 De Renzo
 De Rienzi
 De Rienzo
@@ -13095,7 +13177,8 @@ De Ruggiero
 De Russo
 De Ruvo
 De Sabato
-De SalvoDe Sanctis
+De Salvo
+De Sanctis
 De Sanso
 De Sante
 De Santi
@@ -13219,7 +13302,7 @@ Decimo
 Decol
 Decorato
 Dedda
-Dedè
+Dede'
 Dedeo
 Dedoni
 Deduonni
@@ -13275,7 +13358,7 @@ Degregoriis
 Degregorio
 Degrossi
 Deho
-Dehò
+Deho'
 Dei
 Dei Cas
 Dei Giudici
@@ -13294,7 +13377,8 @@ Deiure
 Dejala
 Dejana
 Dejoannon
-DejossoDejure
+Dejosso
+Dejure
 Del Balio
 Del Balzi
 Del Balzo
@@ -13305,7 +13389,7 @@ Del Bene
 Del Bianco
 Del Bino
 Del Bo
-Del Bò
+Del Bo'
 Del Bono
 Del Borrello
 Del Bosco
@@ -13359,6 +13443,7 @@ Del Guercio
 Del Magro
 Del Mastro
 Del Mese
+Del Mestri
 Del Miglio
 Del Molino
 Del Monaco
@@ -13390,7 +13475,7 @@ Del Poio
 Del Ponte
 Del Popolo
 Del Pra
-Del Prà
+Del Pra'
 Del Prato
 Del Preite
 Del Prete
@@ -13428,7 +13513,7 @@ Del Vescovo
 Del Vincio
 Del Viscovo
 Del Vo
-Del Vò
+Del Vo'
 Del Zotti
 Del Zotto
 Delai
@@ -13493,7 +13578,8 @@ Dell'Oso
 Dell'Oste
 Dell'Utri
 Della Bella
-Della BiancaDella Bona
+Della Bianca
+Della Bona
 Della Bruna
 Della Campa
 Della Casa
@@ -13522,6 +13608,7 @@ Della Greca
 Della Grotta
 Della Libera
 Della Lode
+Della Luna
 Della Lunga
 Della Maddalena
 Della Maggiora
@@ -13633,11 +13720,11 @@ Delussu
 Delvai
 Delvecchio
 Delvo
-Delvò
+Delvo'
 Demaestri
 Demagistris
 Demalde
-Demaldè
+Demalde'
 Demarchi
 Demarchis
 Demarco
@@ -13651,7 +13738,7 @@ Demartino
 Demartis
 Demasi
 Dematte
-Demattè
+Dematte'
 Demattio
 Demauro
 Demelas
@@ -13692,7 +13779,8 @@ Denitti
 Denittis
 Denitto
 Denni
-DenottiDenovellis
+Denotti
+Denovellis
 Dente
 Denti
 Dentone
@@ -13716,12 +13804,12 @@ Depero
 Deperu
 Depetris
 Depine
-Depinè
+Depine'
 Deplano
 Deplanu
 Depresbiteris
 Deramo
-Derè
+Dere'
 Deregibus
 Derio
 Derisi
@@ -13765,7 +13853,7 @@ Desortes
 Despirito
 Dessena
 Dessi
-Dessì
+Dessi'
 Deste
 Destefani
 Destefanis
@@ -13812,7 +13900,7 @@ Dezordo
 Dezorzi
 Dezza
 Dho
-Dhò
+Dho'
 Di Anastasio
 Di Angelantonio
 Di Anna
@@ -13891,7 +13979,8 @@ Di Ciancio
 Di Cianno
 Di Cicco
 Di Cillo
-Di CioDi Ciò
+Di Cio
+Di Cio'
 Di Ciocco
 Di Ciommo
 Di Clemente
@@ -13973,7 +14062,7 @@ Di Gennai
 Di Gennaro
 Di Geronimo
 Di Gesu
-Di Gesù
+Di Gesu'
 Di Giacobbe
 Di Giacomo
 Di Giambattista
@@ -14083,6 +14172,7 @@ Di Marzo
 Di Masi
 Di Massa
 Di Mastrantonio
+Di Mattei
 Di Matteo
 Di Mattia
 Di Mauro
@@ -14090,7 +14180,8 @@ Di Meglio
 Di Melfi
 Di Meo
 Di Metri
-Di MiccoDi Miceli
+Di Micco
+Di Miceli
 Di Michele
 Di Micheli
 Di Mico
@@ -14107,6 +14198,7 @@ Di Molfetta
 Di Monaco
 Di Monda
 Di Monte
+Di Morra
 Di Muccio
 Di Mundo
 Di Munno
@@ -14289,7 +14381,8 @@ Diana
 Diane
 Diani
 Dianni
-DianoDianò
+Diano
+Diano'
 Dianti
 Dianto
 Diantonio
@@ -14330,7 +14423,7 @@ Difelice
 Difronzo
 Digennaro
 Digesu
-Digesù
+Digesu'
 Digiesi
 Digiglio
 Digiorgio
@@ -14379,6 +14472,7 @@ Dimondo
 Dimonte
 Dimundo
 Dimunno
+Dimuro
 Din
 Dinale
 Dinali
@@ -14442,7 +14536,7 @@ Diroma
 Disabato
 Disanti
 Disaro
-Disarò
+Disaro'
 Discacciati
 Discepoli
 Discepolo
@@ -14477,7 +14571,7 @@ Divito
 Dixit
 Dixit Dominus
 Dizzia
-Dò
+Do'
 Docimo
 Doddo
 Dodera
@@ -14488,7 +14582,8 @@ Dogana
 Doglia
 Dogliani
 Doglio
-DogniniDoi
+Dognini
+Doi
 Dolabella
 Dolabelli
 Dolazza
@@ -14559,7 +14654,7 @@ Don
 Don Giacomo
 Don Giovanni
 Dona
-Donà
+Dona'
 Donadei
 Donadel
 Donadelli
@@ -14584,7 +14679,7 @@ Donato
 Donatone
 Donatoni
 Donatucci
-Dondè
+Donde'
 Dondelli
 Dondi
 Dondini
@@ -14687,7 +14782,8 @@ Drago
 Dragone
 Dragonetti
 Dragoni
-DragottiDraicchio
+Dragotti
+Draicchio
 Draisci
 Dreas
 Dreis
@@ -14739,7 +14835,8 @@ Dusino
 Dusio
 Duso
 Dutti
-DuttoD Angiò
+Dutto
+Eberto
 Eboli
 Ebrei
 Ebreo
@@ -14770,6 +14867,7 @@ Eleuteri
 Eleuterio
 Elia
 Elias
+Eligio
 Elisabettini
 Eliseo
 Ellaro
@@ -14866,7 +14964,7 @@ Erba
 Erbani
 Erbetta
 Erbi
-Erbì
+Erbi'
 Erbini
 Erbogasto
 Erby
@@ -14903,6 +15001,9 @@ Erminia
 Erminio
 Ermocida
 Ermogida
+Ermolai
+Ermolao
+Ermolli
 Ernandes
 Ernandez
 Ernesti
@@ -14938,12 +15039,8 @@ Estro
 Esu
 Eterni
 Eterno
-EttoreAlbertosi
-EttoreEberto
-EttoreEttori
-EttoreFa
-EttoreGabaldi
-EttoreUbaldi
+Ettore
+Ettori
 Ettorre
 Ettorri
 Etzi
@@ -14970,9 +15067,10 @@ Evarista
 Evaristi
 Evaristo
 Ezza
-EzzisEberto
+Ezzis
+Fa
 Faa
-Faà
+Faa'
 Fabbi
 Fabbian
 Fabbianelli
@@ -15072,7 +15170,7 @@ Faeta
 Faeti
 Faeto
 Faga
-Fagà
+Faga'
 Fagan
 Faganelli
 Faganello
@@ -15129,7 +15227,7 @@ Fais
 Faita
 Fajella
 Fajeti
-Falà
+Fala'
 Falace
 Falaci
 Falaguerra
@@ -15163,15 +15261,14 @@ Falcione
 Falcioni
 Falck
 Falco
-Falcomatà
+Falcomata'
 Falcomer
 Falcon
 Falconcini
 Falcone
 Falconer
-FalconettiEberto
-FalconettiFa
-FalconettiFalconi
+Falconetti
+Falconi
 Falconieri
 Falconio
 Falcoz
@@ -15222,7 +15319,7 @@ Falzetto
 Falzon
 Falzone
 Falzoni
-Famà
+Fama'
 Famegli
 Fameli
 Famigli
@@ -15275,7 +15372,7 @@ Fantacchiotti
 Fantacci
 Fantaccini
 Fantappie
-Fantappiè
+Fantappie'
 Fantasia
 Fantato
 Fantauzzi
@@ -15295,7 +15392,7 @@ Fantinato
 Fantinelli
 Fantini
 Fantino
-Fantò
+Fanto'
 Fantocci
 Fantoli
 Fantolini
@@ -15337,7 +15434,7 @@ Faravolo
 Farci
 Fardin
 Fardini
-Farè
+Fare'
 Farella
 Fares
 Farese
@@ -15366,11 +15463,12 @@ Fariolo
 Farisei
 Fariselli
 Fariseo
-Farnè
+Farne'
 Farnella
 Farnelli
 Farnello
-FarneseFarnesi
+Farnese
+Farnesi
 Farneti
 Farnetti
 Farnia
@@ -15470,7 +15568,7 @@ Favareto
 Favaretto
 Favari
 Favaro
-Favarò
+Favaro'
 Favaron
 Favarotto
 Favasuli
@@ -15565,11 +15663,12 @@ Fedrizzi
 Feduzi
 Feduzzi
 Fefe
-Fefè
+Fefe'
 Fei
 Felappi
 Feletti
-FelettoFelice
+Feletto
+Felice
 Felicetta
 Felicetti
 Felici
@@ -15768,7 +15867,8 @@ Ferraris
 Ferraro
 Ferrarotto
 Ferrata
-FerratiFerrato
+Ferrati
+Ferrato
 Ferrau
 Ferrazza
 Ferrazzano
@@ -15777,7 +15877,7 @@ Ferrazzo
 Ferrazzoli
 Ferrazzolo
 FerraÚ
-Ferrè
+Ferre'
 Ferrea
 Ferreguti
 Ferregutti
@@ -15822,7 +15922,7 @@ Ferroni
 Ferrosi
 Ferroso
 Ferru
-Ferrù
+Ferru'
 Ferrua
 Ferrucci
 Ferruccio
@@ -15926,7 +16026,7 @@ Filanino
 Filannino
 Filati
 Filato
-Filè
+File'
 Filemone
 Filemoni
 Filia
@@ -15967,7 +16067,8 @@ Filippucci
 Filipputti
 Filiputti
 Filisetti
-FiliziuFilocamo
+Filiziu
+Filocamo
 Filocomo
 Filogamo
 Filomarino
@@ -16166,7 +16267,8 @@ Floran
 Flore
 Florean
 Floreancig
-FloreaniFloreano
+Floreani
+Floreano
 Floreddu
 Florentino
 Florenza
@@ -16199,9 +16301,9 @@ Flumini
 Fluri
 Fo
 Foa
-Foà
+Foa'
 Fobini
-Focà
+Foca'
 Focaccia
 Focardi
 Foccardi
@@ -16278,12 +16380,14 @@ Folladore
 Folladori
 Follari
 Follaro
+Follera
 Folleri
 Follero
 Follese
 Folletti
 Folletto
 Folli
+Follieri
 Folliero
 Folligno
 Follina
@@ -16365,7 +16469,8 @@ Forfaro
 Forghieri
 Forgi
 Forgiarini
-ForgioneForgioni
+Forgione
+Forgioni
 Forgnone
 Forgnoni
 Forini
@@ -16374,10 +16479,10 @@ Forlan
 Forlani
 Forlanini
 Forlano
-Forlè
+Forle'
 Forlenza
 Forleo
-Forlì
+Forli'
 Forliani
 Forliano
 Forlini
@@ -16524,7 +16629,7 @@ Fraci
 Frada
 Fradelizio
 Fragala
-Fragalà
+Fragala'
 Fragale
 FragalÁ
 Fragapane
@@ -16564,7 +16669,8 @@ Francescati
 Francescato
 Francescatti
 Franceschelli
-FranceschelloFranceschet
+Franceschello
+Franceschet
 Franceschetti
 Franceschetto
 Franceschi
@@ -16641,7 +16747,7 @@ Franza
 Franzan
 Franzante
 Franzaroli
-Franzè
+Franze'
 Franzella
 Franzelli
 Franzese
@@ -16653,7 +16759,7 @@ Franzinelli
 Franzini
 Franzino
 Franzo
-Franzò
+Franzo'
 Franzoi
 Franzoia
 Franzoli
@@ -16676,7 +16782,7 @@ Fraraccio
 Frare
 Frari
 Frasca
-Frascà
+Frasca'
 Frascani
 Frascari
 Frascaroli
@@ -16763,7 +16869,8 @@ Fregna
 Fregni
 Fregno
 Fregona
-FregoneseFregonesi
+Fregonese
+Fregonesi
 Fregoni
 Fregosi
 Fregoso
@@ -16790,11 +16897,12 @@ Frezzolino
 Frezzotti
 Fricano
 Fridegotto
+Friello
 Frigati
 Frigato
 Frigatti
 Frigau
-Frigè
+Frige'
 Frigeni
 Frigenti
 Frigento
@@ -16851,6 +16959,7 @@ Frontera
 Fronti
 Frontini
 Frosi
+Frosina
 Frosini
 Frosio
 Frosone
@@ -16887,10 +16996,10 @@ Frutto
 Fruttu
 Fruzzetti
 Fua
-Fuà
+Fua'
 Fuardo
 Fubini
-Fucà
+Fuca'
 Fucarini
 Fucarino
 Fucci
@@ -16962,7 +17071,8 @@ Fundoni
 Fune
 Funes
 Funetta
-FunettiFuni
+Funetti
+Funi
 Fuoco
 Fuocovivo
 Furcas
@@ -16997,7 +17107,7 @@ Furlotti
 Furnari
 Furnaro
 Furno
-Furnò
+Furno'
 Furnò
 Furoni
 Furru
@@ -17037,7 +17147,8 @@ Fusti
 Fustini
 Fusto
 Fuzio
-FòFa
+Fò
+Gabaldi
 Gabaldo
 Gaballo
 Gabanella
@@ -17170,7 +17281,7 @@ Gaiti
 Gaito
 Gaj
 Gala
-Galà
+Gala'
 Galan
 Galanda
 Galano
@@ -17187,7 +17298,7 @@ Galasso
 Galastri
 Galastro
 Galata
-Galatà
+Galata'
 Galatei
 Galateo
 Galateri
@@ -17236,9 +17347,8 @@ Galeone
 Galeoni
 Galeota
 Galeoto
-GaleottaEberto
-GaleottaGabaldi
-GaleottaGaleotti
+Galeotta
+Galeotti
 Galeotto
 Galestri
 Galestro
@@ -17256,7 +17366,7 @@ Galiardi
 Galiazzi
 Galiazzo
 Galie
-Galiè
+Galie'
 Galiena
 Galieni
 Galieno
@@ -17284,7 +17394,7 @@ Galizia
 Galizzi
 Galizzia
 Galla
-Gallà
+Galla'
 Gallacci
 Gallaccio
 Galland
@@ -17437,7 +17547,8 @@ Gammacurta
 Gammauta
 Gammi
 Gammo
-GammoneIabichino
+Gammone
+Gamper
 Gamuzza
 Ganado
 Ganadu
@@ -17614,7 +17725,7 @@ Garraffa
 Garraffo
 Garrapa
 Garre
-Garrè
+Garre'
 Garreffa
 Garreffi
 Garrini
@@ -17636,7 +17747,8 @@ Garuffo
 Garufi
 Garufo
 Garulli
-GarulloGaruti
+Garullo
+Garuti
 Garutti
 Garuzzi
 Garuzzo
@@ -17835,7 +17947,8 @@ Gelsomoro
 Gelsone
 Gemellaro
 Gemelli
-GemelloGementi
+Gemello
+Gementi
 Gemi
 Gemignani
 Gemignano
@@ -18034,7 +18147,8 @@ Gessaroli
 Gessate
 Gessati
 Gessi
-GessoGesù
+Gesso
+Gesu'
 Gesualdi
 Gesualdo
 Gesuele
@@ -18185,14 +18299,14 @@ Ghizzo
 Ghizzone
 Ghizzoni
 Gho
-Ghò
+Gho'
 Giacalone
 Giacardi
 Giacaz
 Giaccari
 Giaccaria
 Giaccaro
-Giacchè
+Giacche'
 Giaccherini
 Giacchetti
 Giacchetto
@@ -18216,7 +18330,7 @@ Giacinti
 Giacinto
 Giacintucci
 Giaco
-Giacò
+Giaco'
 Giacobazzi
 Giacobbe
 Giacobbi
@@ -18233,7 +18347,8 @@ Giacomazzo
 Giacomelli
 Giacomello
 Giacometti
-GiacomettoGiacomi
+Giacometto
+Giacomi
 Giacomin
 Giacomini
 Giacomo
@@ -18284,7 +18399,7 @@ Giambelli
 Giambenedetti
 Giambi
 Giambo
-Giambò
+Giambo'
 Giamboi
 Giambone
 Giamboni
@@ -18366,7 +18481,7 @@ Giangrande
 Giangrandi
 Giangreco
 Giani
-Gianì
+Giani'
 Gianicolo
 Gianleonardo
 Gianlonardo
@@ -18394,7 +18509,7 @@ Giannetto
 Giannettone
 Giannettoni
 Gianni
-Giannì
+Gianni'
 Giannicchi
 Giannichedda
 Giannichi
@@ -18402,7 +18517,7 @@ Giannico
 Giannicola
 Giannini
 Giannino
-Gianninò
+Giannino'
 Giannitrapani
 Giannoccari
 Giannoccaro
@@ -18432,7 +18547,8 @@ Gianoncelli
 Gianotti
 Gianpellegrini
 Gianpiccolo
-GianquintaGianquinto
+Gianquinta
+Gianquinto
 Giansante
 Giansanti
 Giansoldati
@@ -18584,15 +18700,15 @@ Gioco
 Gioconda
 Giocondi
 Giocondo
-Gioè
+Gioe'
 Gioele
 Gioeli
-Gioffrè
+Gioffre'
 Gioffreda
 Gioffredi
 Gioffredo
 Gioffrida
-Giofrè
+Giofre'
 Giogli
 Gioglio
 Gioi
@@ -18631,7 +18747,8 @@ Giorgesco
 Giorgetta
 Giorgetti
 Giorgi
-GiorgiaGiorgianni
+Giorgia
+Giorgianni
 Giorgilli
 Giorgini
 Giorgino
@@ -18760,7 +18877,7 @@ Giudici
 Giudicianni
 Giudissi
 Giuffra
-Giuffrè
+Giuffre'
 Giuffreda
 Giuffredi
 Giuffrida
@@ -18830,7 +18947,8 @@ Giuseppin
 Giuseppina
 Giuseppini
 Giuseppino
-GiuseppoliGiuseppone
+Giuseppoli
+Giuseppone
 Giusepponi
 Giuseppucci
 Giusini
@@ -18898,7 +19016,7 @@ Gnone
 Gnudi
 Gnutti
 Go
-Gò
+Go'
 Gobbato
 Gobbetti
 Gobbetto
@@ -19029,7 +19147,8 @@ Gossi
 Gosso
 Gosta
 Gosti
-GostiniGostinicchi
+Gostini
+Gostinicchi
 Gostino
 Gosto
 Gostoli
@@ -19093,7 +19212,7 @@ Grammatico
 Grampa
 Grampastore
 Gramsci
-Granà
+Grana'
 Granaroli
 Granarolo
 Granata
@@ -19228,7 +19347,8 @@ Greppi
 Greppo
 Grespan
 Gresta
-GrestiGri
+Gresti
+Gri
 Griandi
 Grianti
 Gribaldi
@@ -19244,7 +19364,7 @@ Griffini
 Griffo
 Grifi
 Grifo
-Grifò
+Grifo'
 Griggio
 Grigiotti
 Grignani
@@ -19337,7 +19457,7 @@ Grottole
 Grottoli
 Gruarin
 Gruber
-Grufè
+Grufe'
 Grugni
 Grumelli
 Grungo
@@ -19419,7 +19539,7 @@ Guarasco
 Guarato
 Guarda
 Guardala
-Guardalà
+Guardala'
 Guardamagna
 Guardamagni
 Guardascione
@@ -19427,7 +19547,8 @@ Guardati
 Guardavaglia
 Guardavalle
 Guardi
-GuardiaGuardian
+Guardia
+Guardian
 Guardiani
 Guardiano
 Guardigli
@@ -19626,7 +19747,8 @@ Guizzo
 Gulfarini
 Gulfi
 Gulfo
-GuliGulinati
+Guli
+Gulinati
 Gulinelli
 Gulini
 Gulino
@@ -19635,7 +19757,7 @@ Gulizia
 Gulla
 Gulle
 Gulli
-Gullì
+Gulli'
 Gullini
 Gullino
 Gullo
@@ -19694,7 +19816,8 @@ Guzzinati
 Guzzini
 Guzzino
 Guzzo
-GuzzonGabaldi
+Guzzon
+Iabichino
 Iaboni
 Iaccarini
 Iaccarino
@@ -19879,7 +20002,7 @@ Idda
 Iddas
 Iddau
 Iddiolosa
-Iddiolosà
+Iddiolosa'
 Idile
 Idili
 Idini
@@ -19893,9 +20016,8 @@ Ielardi
 Iellamo
 Ielo
 Ielpa
-IelpoGamper
-IelpoIabichino
-IelpoIeluzzi
+Ielpo
+Ieluzzi
 Ieluzzo
 Iemma
 Iemme
@@ -20072,7 +20194,7 @@ Ingraldo
 Ingrami
 Ingrao
 Ingrasci
-Ingrascì
+Ingrasci'
 Ingrassia
 Ingrisani
 Ingrisano
@@ -20094,7 +20216,8 @@ Innocenza
 Innocenzi
 Innocenzo
 Insegno
-InserraInsigna
+Inserra
+Insigna
 Insigne
 Insigno
 Insinga
@@ -20153,7 +20276,7 @@ Ioime
 Iommi
 Ion
 Iona
-Ionà
+Iona'
 Ione
 Ioni
 Ioppi
@@ -20293,7 +20416,8 @@ Iuvara
 Iuvarra
 Ivagnes
 Ivaldi
-IvaldoIvan
+Ivaldo
+Ivan
 Ivancic
 Ivani
 Ivanovich
@@ -20303,7 +20427,8 @@ Izza
 Izzi
 Izzia
 Izzillo
-IzzoMabilia
+Izzo
+L'Abate
 L'Acqua
 L'Afflitto
 L'Ammendola
@@ -20355,6 +20480,8 @@ La Leggia
 La Legname
 La Licata
 La Loggia
+La Lomia
+La Lumia
 La Macchia
 La Magna
 La Maida
@@ -20431,7 +20558,7 @@ Labella
 Labemano
 Labianca
 Labieni
-Labò
+Labo'
 Laboni
 Labonia
 Labori
@@ -20470,7 +20597,7 @@ Lafortezza
 Lafranchi
 Lafranconi
 Lagana
-Laganà
+Lagana'
 Laganara
 Lagemma
 Laggetta
@@ -20502,9 +20629,8 @@ Laita
 Laiti
 Lajno
 Lajolo
-LalaIabichino
-LalaL'Abate
-LalaLalinga
+Lala
+Lalinga
 Lalla
 Lallai
 Lalli
@@ -20624,7 +20750,7 @@ Lanfri
 Lang
 Langaro
 Lange
-Langè
+Lange'
 Langella
 Langelli
 Langello
@@ -20677,7 +20803,7 @@ Lanzotto
 Lanzuise
 Lanzuisi
 Lao
-Laò
+Lao'
 Lapa
 Lapadula
 Lapai
@@ -20702,8 +20828,9 @@ Laratta
 Larceri
 Larcinese
 Larcinesi
-Lardì
-LardonLardone
+Lardi'
+Lardon
+Lardone
 Lardoni
 Lari
 Laria
@@ -20809,10 +20936,12 @@ Lauriani
 Lauriano
 Laurianti
 Lauricella
+Lauriello
 Laurini
 Laurino
 Lauriola
 Laurita
+Lauritano
 Laurito
 Lauro
 Laurora
@@ -20902,7 +21031,8 @@ Leano
 Leante
 Leanti
 Leanza
-LeanziLeardi
+Leanzi
+Leardi
 Leardini
 Leardo
 Lebani
@@ -20933,7 +21063,7 @@ Lefevre
 Lefons
 Legati
 Legato
-Legè
+Lege'
 Legena
 Leggeri
 Leggero
@@ -21101,7 +21231,8 @@ Lezza
 Lezzi
 Lezzo
 Li Cari
-Li CastriLi Causi
+Li Castri
+Li Causi
 Li Destri
 Li Donni
 Li Donnici
@@ -21124,7 +21255,7 @@ Libanoro
 Libardi
 Libardo
 Libardoni
-Libè
+Libe'
 Libener
 Libera
 Liberalato
@@ -21175,7 +21306,7 @@ Licciardello
 Licciardi
 Licciardiello
 Licciardo
-Licciardò
+Licciardo'
 Licciardò
 Lichelli
 Licheri
@@ -21201,7 +21332,7 @@ Liffredo
 Lifredi
 Lifredo
 Ligabo
-Ligabò
+Ligabo'
 Ligabue
 Ligambi
 Ligas
@@ -21238,6 +21369,7 @@ Limongella
 Limongelli
 Limongello
 Limongi
+Limoni
 Limonta
 Limosani
 Limosano
@@ -21300,7 +21432,8 @@ Lisandri
 Lisandrini
 Lisandrino
 Lisandro
-LisandroniLisanti
+Lisandroni
+Lisanti
 Lisari
 Lisario
 Lisbona
@@ -21422,6 +21555,8 @@ Lo Jacono
 Lo Joco
 Lo Manto
 Lo Mascolo
+Lo Masto
+Lo Mastro
 Lo Mazzo
 Lo Monaco
 Lo Monte
@@ -21476,6 +21611,7 @@ Lobascio
 Lobbia
 Loberti
 Loberto
+Lobetti
 Lobianco
 Lobina
 Lobono
@@ -21499,7 +21635,8 @@ Locelso
 Loche
 Lochi
 Lochis
-LoconsoleLoconsolo
+Loconsole
+Loconsolo
 Loconte
 Locorotondo
 Locri
@@ -21582,7 +21719,9 @@ Lomonaco
 Lonardelli
 Lonardi
 Lonardo
+Lonate
 Lonati
+Lonato
 Londa
 Londi
 Londini
@@ -21650,8 +21789,9 @@ Lorai
 Lorandi
 Lorandini
 Lorando
+Loraschi
 Lore
-Lorè
+Lore'
 Loredan
 Loredani
 Lorefice
@@ -21673,6 +21813,7 @@ Lorenzon
 Lorenzone
 Lorenzoni
 Lorenzotti
+Lorenzutti
 Loreo
 Loretani
 Loretano
@@ -21698,7 +21839,8 @@ Losacco
 Losano
 Losapio
 Losappio
-LosavioLoscalzo
+Losavio
+Loscalzo
 Loschi
 Loschiavo
 Loschiavone
@@ -21752,14 +21894,20 @@ Loviso
 Lovison
 Lovisone
 Lovisoni
+Loy
 Lualdi
 Lubatti
 Luberti
 Luberto
+Lubiana
+Lubiani
+Lubiano
+Lubich
+Lubicz
 Lubrano
 Luc
 Luca
-Lucà
+Luca'
 Lucadamo
 Lucanera
 Lucanero
@@ -21878,13 +22026,16 @@ Lugato
 Luggesi
 Luggisi
 Lughi
+Lughini
 Lugli
 Lugliengo
 Luglio
 Lugo
+Lugoni
 Lugrini
 Lui
 Luigi
+Luinetti
 Luini
 Luino
 Luis
@@ -21897,7 +22048,8 @@ Luisini
 Luiso
 Luison
 Luitprandi
-LukanLuks
+Lukan
+Luks
 Luli
 Lulli
 Lullo
@@ -21918,6 +22070,9 @@ Lunardo
 Lunardon
 Lunardoni
 Lunati
+Lunato
+Lunella
+Lunelli
 Lunetta
 Lungagnani
 Lungarini
@@ -21930,24 +22085,41 @@ Lungo
 Lunz
 Luongo
 Luoni
+Luotto
 Lupardi
 Lupardini
+Lupari
 Luparini
 Lupatini
+Lupattelli
+Lupatti
+Lupelli
 Luperini
 Luperti
 Luperto
+Lupetti
 Lupi
 Lupica
+Lupicini
 Lupidi
 Lupieri
+Lupigno
 Lupinacci
 Lupini
+Lupino
 Lupis
 Lupo
 Lupoli
+Lupone
+Luponi
+Lupori
+Luporini
 Luppi
 Luppino
+Luppis
+Luppo
+Luppoli
+Luppolo
 Lupu
 Luraghi
 Lurago
@@ -21965,6 +22137,8 @@ Lusitano
 Lusiti
 Lussana
 Lussardi
+Lussato
+Lussatto
 Lussignoli
 Lussin
 Lussini
@@ -21983,8 +22157,11 @@ Luti
 Lutri
 Lutro
 Lutzu
-Luvarà
+Luvara'
 Luvieri
+Luvini
+Luvino
+Luvotti
 Lux
 Luxardi
 Luxardo
@@ -21994,6 +22171,8 @@ Luzardo
 Luzi
 Luzio
 Luzzardi
+Luzzati
+Luzzato
 Luzzatti
 Luzzatto
 Luzzetti
@@ -22001,13 +22180,16 @@ Luzzi
 Luzzini
 Luzzio
 Luzzitelli
-LuzzoL'Abate
+Luzzo
+Mabilia
 Macaddino
 Macalusi
 Macaluso
 Macalusso
 Macari
+Macarini
 Macario
+Macarone
 Macauda
 Maccabei
 Maccabelli
@@ -22020,6 +22202,7 @@ Maccagno
 Maccalli
 Maccaluso
 Maccanti
+Maccarelli
 Maccari
 Maccarinelli
 Maccarini
@@ -22027,13 +22210,20 @@ Maccario
 Maccarone
 Maccaroni
 Maccarrone
+Maccarucci
+Maccaruzzi
+Maccherone
+Maccheroni
 Macchetta
 Macchi
 Macchia
 Macchiagodena
+Macchiaioli
+Macchiaiolo
 Macchiarola
 Macchiaroli
 Macchiarolo
+Macchiati
 Macchiavelli
 Macchiavello
 Macchieraldo
@@ -22046,7 +22236,7 @@ Macchitello
 Macci
 Maccini
 Maccio
-Macciò
+Maccio'
 Macciocco
 Maccioccu
 Maccione
@@ -22071,8 +22261,9 @@ Macheda
 Machelli
 Machello
 Machi
-Machì
+Machi'
 Machiavelli
+Machiavello
 Machieraldo
 Maci
 Macii
@@ -22080,21 +22271,30 @@ Macini
 Maciocco
 Macioccu
 Maciotta
+Maciotti
 Macis
 Macocco
+Macola
+Macoli
 Macone
 Maconi
 Macor
 Macoric
 Macorich
 Macorig
+Macorini
 Macri
-Macrì
+Macri'
+Macrillo
+Macrina
 Macrini
 Macrino
 Macripo
-Macripò
+Macripo'
 Macrobio
+Macula
+Maculani
+Maculi
 Madaffari
 Madaffaro
 Madafferi
@@ -22113,22 +22313,24 @@ Maddalozzo
 Maddaluno
 Maddau
 Madde
-Maddè
+Madde'
 Maddei
 Maddeo
 Maddi
-Maddì
+Maddi'
 Maddii
 Maddio
 Maddonna
 Maddonni
 Made
-Madè
+Made'
 Madeddu
 Madei
 Madeo
 Mader
 Maderna
+Maderni
+Maderno
 Madia
 Madini
 Madio
@@ -22153,24 +22355,30 @@ Maestrone
 Maestroni
 Mafezzoli
 Mafezzoni
-Maffè
+Maffe'
 Maffei
 Maffeis
 Maffeo
+Maffetti
 Maffezzoli
 Maffezzoni
 Maffi
 Maffia
 Maffii
+Maffina
 Maffini
 Maffio
 Maffioletti
 Maffioli
+Maffione
+Maffiotti
+Maffone
 Maffri
 Maffucci
 Maffuccio
 Mafrica
 Mafrici
+Mafucci
 Magaddino
 Magagna
 Magagni
@@ -22179,6 +22387,7 @@ Magagnini
 Magagnino
 Magagno
 Magaldi
+Magaldo
 Magaletta
 Magaletti
 Magaletto
@@ -22190,19 +22399,20 @@ Maganuco
 Maganza
 Maganzi
 Magarelli
+Magari
+Magario
 Magaton
 Magazu
-Magazù
-Magazzù
+Magazu'
+Magazzu'
 Magenes
 Magenis
 Magenta
 Maggetti
 Maggetto
 Maggi
-MaggialettiL'Abate
-MaggialettiMabilia
-MaggialettiMaggiani
+Maggialetti
+Maggiani
 Maggini
 Maggino
 Maggio
@@ -22215,7 +22425,11 @@ Maggioni
 Maggiora
 Maggiore
 Maggiori
+Maghelli
 Maghernino
+Maghetti
+Maghetto
+Maghi
 Maghini
 Magi
 Magini
@@ -22224,6 +22438,7 @@ Magisano
 Magistrani
 Magistrelli
 Magistrello
+Magistretti
 Magistri
 Magistris
 Magistro
@@ -22231,6 +22446,7 @@ Magli
 Maglia
 Magliani
 Magliano
+Magliavacca
 Maglie
 Maglio
 Magliocca
@@ -22257,8 +22473,11 @@ Magnarapa
 Magnarape
 Magnaschi
 Magnasco
+Magnavacca
+Magnavacchi
 Magnavita
 Magnelli
+Magnetti
 Magni
 Magnifico
 Magnin
@@ -22268,7 +22487,9 @@ Magno
 Magnocavalli
 Magnocavallo
 Magnolfi
+Magnone
 Magnoni
+Magnozzi
 Magon
 Magone
 Magoni
@@ -22277,14 +22498,20 @@ Magonzi
 Magossi
 Magosso
 Magotti
+Magrelli
+Magretti
 Magri
-Magrì
+Magri'
 Magrin
 Magrini
 Magrino
 Magripo
-Magripò
+Magripo'
+Magris
 Magro
+Magrone
+Magroni
+Magrotti
 Magurno
 Mai
 Maia
@@ -22308,12 +22535,15 @@ Maifredi
 Maimone
 Maimoni
 Maina
+Mainaldi
 Mainardi
 Mainardis
 Mainas
 Mainella
 Mainelli
 Mainello
+Mainente
+Mainenti
 Maineri
 Mainero
 Mainetti
@@ -22325,8 +22555,11 @@ Mainini
 Mainino
 Maino
 Mainoldi
+Mainoldo
 Mainolfi
 Mainolfo
+Mainoli
+Mainulfo
 Maio
 Maiocca
 Maiocchi
@@ -22348,7 +22581,10 @@ Mair
 Maisani
 Maisano
 Maisto
+Maistrelli
+Maistrello
 Maistri
+Maistro
 Maitini
 Maitino
 Maitre
@@ -22361,6 +22597,8 @@ Majani
 Majano
 Majellaro
 Majer
+Majni
+Majno
 Majo
 Majocchi
 Majocco
@@ -22382,17 +22620,17 @@ Malacco
 Malacri
 Malacrida
 Malacrino
-Malacrinò
+Malacrino'
 Malafronte
 Malafronti
 Malaggi
-Malagò
+Malago'
 Malagodi
 Malagola
 Malagoli
 Malagolo
 Malagrino
-Malagrinò
+Malagrino'
 Malaguti
 Malaguzzi
 Malambri
@@ -22401,7 +22639,8 @@ Malan
 Malanca
 Malanchi
 Malanchini
-MalandraMalandri
+Malandra
+Malandri
 Malandrini
 Malandrino
 Malandro
@@ -22435,6 +22674,7 @@ Malesani
 Malesardi
 Maletta
 Malfa
+Malfara
 Malfatti
 Malfatto
 Malfer
@@ -22442,6 +22682,7 @@ Malfetani
 Malfi
 Malfitani
 Malfitano
+Malgara
 Malgari
 Malgarin
 Malgarini
@@ -22449,6 +22690,7 @@ Malgarotti
 Malgarotto
 Malgeri
 Malgherini
+Malgieri
 Malgioglio
 Malgiolio
 Malgrati
@@ -22553,6 +22795,9 @@ Manai
 Manaigo
 Manaldi
 Manara
+Manardi
+Manaresi
+Manarini
 Manca
 Mancaniello
 Mancardi
@@ -22577,11 +22822,11 @@ Mancuso
 Mancusu
 Manda
 Mandaglio
-Mandalà
+Mandala'
 Mandalari
 Mandaliti
 Mandanici
-Mandarà
+Mandara'
 Mandaradoni
 Mandarà
 Mandati
@@ -22600,7 +22845,8 @@ Mandotti
 Mandozzi
 Mandozzo
 Mandra
-MandràMandracchia
+Mandra'
+Mandracchia
 Mandrelli
 Mandrile
 Mandrilli
@@ -22619,6 +22865,7 @@ Manelli
 Manello
 Manente
 Manenti
+Maneo
 Manera
 Maneri
 Manero
@@ -22626,8 +22873,12 @@ Manes
 Manetta
 Manetti
 Manetto
+Manfellotti
+Manferdini
+Manferlotti
+Manfra
 Manfre
-Manfrè
+Manfre'
 Manfreda
 Manfredella
 Manfredelli
@@ -22638,17 +22889,22 @@ Manfredone
 Manfredoni
 Manfredonia
 Manfredonio
+Manfrellotti
+Manfriani
 Manfrida
 Manfridi
+Manfriello
 Manfrin
 Manfrinati
 Manfrinato
 Manfrini
 Manfrino
 Manfro
+Manfroi
 Manfron
 Manfrone
 Manfroni
+Manfrotto
 Manganaro
 Manganella
 Manganelli
@@ -22682,6 +22938,7 @@ Mangiarape
 Mangiardi
 Mangiarotti
 Mangiaterra
+Mangiatordi
 Mangiavacca
 Mangiavacchi
 Mangiavillani
@@ -22727,12 +22984,14 @@ Maninchedda
 Manini
 Manino
 Manis
+Maniscalchi
 Maniscalco
 Manitto
 Manli
 Manlio
 Manna
 Mannai
+Mannalà
 Mannari
 Mannarini
 Mannarino
@@ -22771,6 +23030,7 @@ Manta
 Manteca
 Mantega
 Mantegazza
+Mantegazzini
 Mantegna
 Mantellassi
 Mantelli
@@ -22799,7 +23059,8 @@ Manuello
 Manunta
 Manunza
 Manus
-ManusardiManuzio
+Manusardi
+Manuzio
 Manuzzi
 Manzan
 Manzanelli
@@ -22821,11 +23082,13 @@ Manzin
 Manzini
 Manzino
 Manzo
+Manzoli
 Manzon
 Manzone
 Manzoni
 Manzotti
 Manzotto
+Manzu
 Manzulli
 Manzullo
 Mapelli
@@ -22909,6 +23172,7 @@ Marazzotta
 Marcacci
 Marcaccini
 Marcaccio
+Marcalli
 Marcangeli
 Marcangelo
 Marcani
@@ -22934,6 +23198,7 @@ Marcelliano
 Marcellini
 Marcellino
 Marcello
+Marcenaro
 Marche
 Marcheggiani
 Marcheggiano
@@ -22971,7 +23236,10 @@ Marchigiani
 Marchigiano
 Marchini
 Marchio
-Marchiò
+Marchio'
+Marchionda
+Marchiondelli
+Marchiondi
 Marchione
 Marchioni
 Marchionibus
@@ -22992,13 +23260,14 @@ Marcia
 Marcialis
 Marcianesi
 Marciano
-Marcianò
+Marciano'
 Marcias
 Marcigaglia
 Marcigliano
 Marcis
 Marco
-MarcoaldiMarcoionni
+Marcoaldi
+Marcoionni
 Marcoleoni
 Marcolfi
 Marcolfo
@@ -23051,6 +23320,8 @@ Mares
 Maresca
 Marescalchi
 Marescalco
+Marescialli
+Maresciallo
 Maretti
 Maretto
 Marfella
@@ -23074,6 +23345,8 @@ Margiotte
 Margiotti
 Margiotto
 Margon
+Margonari
+Margone
 Margoni
 Margozzi
 Margozzini
@@ -23092,6 +23365,7 @@ Mariconda
 Mariconti
 Mariga
 Marighi
+Marigliani
 Marigliano
 Marignani
 Marignano
@@ -23132,6 +23406,7 @@ Mariottini
 Mariottino
 Mariotto
 Maris
+Mariscalchi
 Mariscalco
 Maritan
 Maritani
@@ -23148,6 +23423,8 @@ Mariz
 Marizza
 Marletta
 Marlia
+Marliani
+Marliano
 Marmiroli
 Marmo
 Marmora
@@ -23175,9 +23452,13 @@ Marovello
 Marozzi
 Marquez
 Marra
+Marracci
+Marradi
+Marradini
 Marraffa
 Marraffini
 Marraffino
+Marranci
 Marrani
 Marrano
 Marranzini
@@ -23185,11 +23466,14 @@ Marranzino
 Marrapese
 Marrapodi
 Marras
+Marrazza
+Marrazzi
 Marrazzo
 Marrella
 Marretta
 Marretti
 Marri
+Marrini
 Marro
 Marrocco
 Marroccu
@@ -23197,7 +23481,9 @@ Marrocu
 Marrone
 Marroni
 Marrosu
-MarrusoMarsala
+Marruso
+Marsala
+Marsali
 Marsano
 Marsciani
 Marseglia
@@ -23205,6 +23491,7 @@ Marsella
 Marsetti
 Marseu
 Marsi
+Marsicano
 Marsico
 Marsigli
 Marsiglia
@@ -23226,11 +23513,20 @@ Martell
 Martella
 Martellacci
 Martellaccio
+Martellani
+Martellato
 Martellenghi
 Martelli
+Martellina
 Martellini
+Martellino
 Martello
+Martelloni
+Martellotta
+Martellotti
+Martellotto
 Martemucci
+Martiello
 Martignago
 Martignon
 Martignone
@@ -23312,6 +23608,7 @@ Maruzzo
 Marvaldi
 Marveggio
 Marventano
+Marzadori
 Marzadri
 Marzadro
 Marzaduri
@@ -23394,9 +23691,10 @@ Masciarelli
 Masciari
 Masciaro
 Masciave
-Masciavè
+Masciave'
 Mascini
-MascinoMascio
+Mascino
+Mascio
 Masciocchi
 Mascioli
 Mascione
@@ -23410,12 +23708,13 @@ Mascolini
 Mascolino
 Mascolo
 Mase
-Masè
+Mase'
 Masella
 Maselli
 Masello
 Masera
 Maserati
+Masero
 Maset
 Masetti
 Masetto
@@ -23424,6 +23723,7 @@ Masia
 Masielli
 Masiello
 Masier
+Masieri
 Masiero
 Masile
 Masili
@@ -23464,6 +23764,7 @@ Massagli
 Massaglia
 Massagni
 Massagrande
+Massai
 Massaini
 Massali
 Massani
@@ -23478,17 +23779,25 @@ Massarello
 Massarente
 Massarenti
 Massari
+Massarin
+Massarini
 Massariol
+Massariolo
 Massaro
+Massaroli
+Massarolli
 Massaron
 Massarone
 Massaroni
 Massarotti
 Massarotto
+Massarut
+Massarutti
 Massascusa
 Massasogni
 Massazza
-Massè
+Masse'
+Massei
 Massella
 Masselli
 Massello
@@ -23538,6 +23847,7 @@ Mastino
 Mastinu
 Mastio
 Mastiu
+Masto
 Mastrandrea
 Mastrangeli
 Mastrangelo
@@ -23546,9 +23856,12 @@ Mastrantonio
 Mastrantuoni
 Mastrantuono
 Mastrapasqua
+Mastrarosa
 Mastrecchia
 Mastri
 Mastria
+Mastrilli
+Mastrillo
 Mastripieri
 Mastro
 Mastroboni
@@ -23571,9 +23884,11 @@ Mastrofini
 Mastroforti
 Mastrogiacomi
 Mastrogiacomo
+Mastrogiovanni
 Mastrogirolamo
 Mastrogiuseppe
 Mastroiaco
+Mastroiani
 Mastroianne
 Mastroianni
 Mastrojeni
@@ -23595,15 +23910,20 @@ Mastrone
 Mastroni
 Mastronzo
 Mastropaolo
-MastropasquaMastropiero
+Mastropasqua
+Mastropiero
+Mastropierro
 Mastropietri
 Mastropietro
 Mastrorazio
 Mastrorilli
 Mastrorillo
+Mastrorosa
 Mastrota
 Mastrototaro
+Mastroviti
 Mastrovito
+Mastruzzo
 Mastursi
 Masturzi
 Masturzo
@@ -23634,7 +23954,7 @@ Matasci
 Matassa
 Matassi
 Matassoni
-Matè
+Mate'
 Matel
 Matelic
 Matelich
@@ -23644,7 +23964,7 @@ Materazzi
 Materazzo
 Materesi
 Matha
-Mathà
+Matha'
 Matichecchia
 Matino
 Matiz
@@ -23668,9 +23988,13 @@ Mattarocci
 Mattarollo
 Mattarozzi
 Mattavelli
-Mattè
+Matte'
 Mattea
+Matteacci
+Mattedi
 Mattei
+Matteia
+Matteini
 Matteis
 Mattel
 Mattelic
@@ -23679,18 +24003,23 @@ Mattelig
 Matteligh
 Matteo
 Matteoli
+Matteoni
 Matteotti
 Mattera
 Matteucci
 Matteuzzi
+Mattevi
 Matti
 Mattia
 Mattiacci
 Mattiaccia
 Mattiaccio
 Mattiace
+Mattiassi
+Mattiato
 Mattiazzi
 Mattiazzo
+Mattielli
 Mattiello
 Mattina
 Mattiola
@@ -23703,15 +24032,18 @@ Mattirolo
 Mattiucci
 Mattiussi
 Mattiuz
+Mattiuzzi
 Mattiuzzo
 Matto
 Mattonai
 Mattone
 Mattoni
 Mattu
+Matucci
 Maturi
 Maturo
 Mauceri
+Maucieri
 Maugeri
 Maule
 Mauli
@@ -23742,7 +24074,9 @@ Mavric
 Mavrici
 Maxenti
 Maxia
+Mayda
 Mayer
+Mayerle
 Mazella
 Mazelli
 Mazer
@@ -23794,7 +24128,8 @@ Mazzer
 Mazzeranghi
 Mazzetta
 Mazzetti
-MazzettoMazzi
+Mazzetto
+Mazzi
 Mazzieri
 Mazzilli
 Mazzillo
@@ -23874,6 +24209,10 @@ Medeo
 Medeot
 Medetti
 Medici
+Medicina
+Medicini
+Medicino
+Medicis
 Medico
 Medin
 Medina
@@ -23911,6 +24250,7 @@ Mejer
 Mejr
 Mela
 Melacarne
+Melai
 Melan
 Melandri
 Melandro
@@ -23922,7 +24262,12 @@ Melas
 Melati
 Melato
 Melcarne
+Melchiodi
 Melchionda
+Melchioni
+Melchionna
+Melchionni
+Melchionno
 Melchior
 Melchiori
 Melchiorre
@@ -23935,9 +24280,9 @@ Meletti
 Meletto
 Melfi
 Meli
-Melì
+Meli'
 Meliado
-Meliadò
+Meliado'
 Melibei
 Melibeo
 Melica
@@ -23993,9 +24338,10 @@ Melpi
 Melpignano
 Melucci
 Meluccio
-MelusoMelzi
+Meluso
+Melzi
 MelÍ
-Memè
+Meme'
 Memeo
 Memi
 Memmi
@@ -24046,7 +24392,7 @@ Mendoza
 Mendozza
 Menduni
 Menduno
-Menè
+Mene'
 Menecali
 Menechini
 Menega
@@ -24184,10 +24530,17 @@ Mercantelli
 Mercanti
 Mercantini
 Mercatali
+Mercati
+Mercatini
+Mercato
+Mercenari
+Mercenaro
 Mercia
+Merciai
 Mercogliano
 Mercorella
 Mercorelli
+Mercorio
 Mercurella
 Mercurelli
 Mercuri
@@ -24201,6 +24554,7 @@ Merelli
 Merello
 Merenda
 Mereu
+Mergoni
 Mergozzi
 Merici
 Merico
@@ -24245,8 +24599,10 @@ Messinese
 Messinesi
 Messironi
 Messori
+Mestre
 Mestri
 Mestria
+Mestriner
 Metelli
 Meucci
 Meuzzi
@@ -24264,6 +24620,7 @@ Mezzetti
 Mezzi
 Mezzogori
 Mi
+Miai
 Miale
 Miali
 Miandri
@@ -24281,16 +24638,18 @@ Micacci
 Micaccio
 Micaelli
 Micale
+Micalella
 Micaletti
 Micaletto
 Micali
 Micalizzi
+Micarelli
 Micari
 Micca
 Miccadei
 Micchi
-Miccicchè
-Miccichè
+Miccicche'
+Micciche'
 Miccio
 Micciulla
 Micciulli
@@ -24305,7 +24664,11 @@ Micelli
 Micera
 Miceri
 Micero
+Michela
 Michelacci
+Michelaccio
+Michelan
+Michelangeli
 Michelassi
 Michelatti
 Michelazzi
@@ -24324,23 +24687,31 @@ Michelon
 Michelone
 Micheloni
 Michelotti
+Michelozzi
+Michelucci
 Michelussi
 Michelutti
+Micheluz
+Micheluzzi
 Michetti
 Michetto
+Michi
 Michielazzo
+Michieletti
 Michieli
 Michielin
+Michielon
 Michielotto
 Michienzi
 Michini
 Michino
-Micicchè
+Micicche'
 Micieli
 Micillo
 Miclavez
 Mico
 Micol
+Micoli
 Micone
 Miconi
 Micossi
@@ -24368,6 +24739,7 @@ Migale
 Migali
 Migani
 Migano
+Migheli
 Mighetti
 Mighetto
 Migli
@@ -24392,9 +24764,13 @@ Miglionico
 Miglior
 Migliora
 Miglioranza
-MiglioratiMigliorato
+Migliorati
+Migliorato
 Migliore
+Miglioretti
+Miglioretto
 Migliori
+Migliorin
 Migliorina
 Migliorini
 Migliorino
@@ -24466,7 +24842,7 @@ Milzani
 Mimmo
 Mimun
 Mina
-Minà
+Mina'
 Minacapilli
 Minacci
 Minafra
@@ -24591,11 +24967,16 @@ Minzoni
 Miocaro
 Miola
 Miolla
-MiolliMiollo
+Miolli
+Miollo
 Mion
 Mione
 Mioni
 Mior
+Mioranza
+Miorelli
+Miori
+Miorin
 Mioso
 Miosotis
 Miot
@@ -24613,6 +24994,7 @@ Mirabile
 Mirabili
 Mirabilia
 Mirabilio
+Mirabito
 Miracola
 Miracoli
 Miracolo
@@ -24649,6 +25031,7 @@ Mirsi
 Mirti
 Mirtini
 Mirto
+Mirtoni
 Miscali
 Miscera
 Misci
@@ -24694,6 +25077,7 @@ Mitrale
 Mitrani
 Mitrano
 Mitri
+Mitro
 Mitta
 Mitti
 Mittini
@@ -24730,8 +25114,10 @@ Mocettini
 Mochen
 Mochi
 Mochiutti
+Modaffari
 Modafferi
 Modena
+Modenato
 Modenese
 Modenesi
 Modeo
@@ -24751,6 +25137,7 @@ Modino
 Modio
 Modoli
 Modolo
+Modonese
 Modoni
 Modonutti
 Modonutto
@@ -24785,12 +25172,16 @@ Mojano
 Mojola
 Mola
 Moladori
+Molai
 Molara
 Molari
 Molaro
 Molaschi
-Molè
-MolentiniMolentino
+Mole'
+Molea
+Molentini
+Molentino
+Moleo
 Moles
 Molesin
 Molesini
@@ -24827,9 +25218,11 @@ Molone
 Moloni
 Moltedo
 Molteni
+Molteno
 Molterni
 Moltocaro
 Mombelli
+Mombello
 Momi
 Momigliano
 Momo
@@ -24878,7 +25271,7 @@ Mondin
 Mondini
 Mondino
 Mondo
-Mondò
+Mondo'
 Mondolfi
 Mondolfo
 Mondon
@@ -24896,7 +25289,7 @@ Moneta
 Monetti
 Monetto
 Monfera
-Monferà
+Monfera'
 Monferrati
 Monferrato
 Monforte
@@ -24910,7 +25303,7 @@ Mongelli
 Mongello
 Monghi
 Mongillo
-Mongiovì
+Mongiovi'
 Mongittu
 Mongiu
 Mongiusti
@@ -24933,8 +25326,8 @@ Monreale
 Monselesan
 Monsellato
 Monserrato
-Monsurrò
-Montà
+Monsurro'
+Monta'
 Montacuti
 Montagano
 Montagna
@@ -24946,7 +25339,7 @@ Montagnolo
 Montalbani
 Montalbano
 Montalbetti
-Montalbò
+Montalbo'
 Montaldi
 Montaldo
 Montale
@@ -24973,6 +25366,7 @@ Montarulo
 Montauti
 Monte
 Monteaperto
+Montebelli
 Montebello
 Montecalvo
 Montecchi
@@ -24989,7 +25383,8 @@ Montefusco
 Montelanico
 Monteleone
 Montelione
-MontellaMontellanico
+Montella
+Montellanico
 Montelli
 Montello
 Montelongo
@@ -25069,7 +25464,7 @@ Monzino
 Monzon
 Monzone
 Monzoni
-Monzù
+Monzu'
 Mor
 Mora
 Morabito
@@ -25100,6 +25495,7 @@ Morasso
 Morassutti
 Morassutto
 Moratti
+Moravia
 Morazzi
 Morazzo
 Morazzone
@@ -25121,7 +25517,7 @@ Morchio
 Morciano
 Morcone
 Mordacci
-Morè
+More'
 Morea
 Moreira
 Morellato
@@ -25188,7 +25584,8 @@ Morlando
 Morleo
 Morlino
 Mormandi
-MormileMoro
+Mormile
+Moro
 Morocco
 Morocutti
 Moroni
@@ -25197,6 +25594,7 @@ Morosini
 Morosino
 Morosinotto
 Morotti
+Morpurgo
 Morra
 Morreale
 Morrese
@@ -25204,13 +25602,18 @@ Morresi
 Morri
 Morricone
 Morriconi
+Morrione
+Morrioni
 Morrisi
 Morrone
+Morroni
 Morselli
 Morsini
 Morstabilini
 Morsut
+Mortara
 Mortari
+Mortarini
 Mortaro
 Mortillaro
 Mortoni
@@ -25253,11 +25656,16 @@ Moscone
 Mosconi
 Moscuzza
 Mose
-Mosè
+Mose'
+Mosella
+Moselli
 Moser
+Moses
 Mosetti
 Mosetto
+Mosi
 Mosna
+Moso
 Mossa
 Mossenta
 Mossi
@@ -25292,6 +25700,7 @@ Motton
 Mottura
 Motzo
 Moxedano
+Moze
 Mozzanica
 Mozzi
 Mozzilli
@@ -25337,7 +25746,10 @@ Muffo
 Mugavero
 Mugeo
 Muggeo
+Muggi
 Muggia
+Muggiani
+Muggiano
 Muggiolu
 Mugheddu
 Mugnai
@@ -25353,8 +25765,11 @@ Mulatto
 Mulazzani
 Mulazzano
 Mule
-Mulè
+Mule'
+Mulea
 Muleddu
+Muleni
+Muleo
 Mulic
 Mullano
 Mullanu
@@ -25362,8 +25777,8 @@ Muller
 Mullig
 Mulliri
 Multari
-Munacò
-Munafò
+Munaco'
+Munafo'
 Munaretti
 Munaretto
 Munari
@@ -25387,7 +25802,9 @@ Muoio
 Mura
 Murabito
 Muraca
-MuraceMuraci
+Murace
+Muraci
+Murador
 Muraglia
 Muraglie
 Muranella
@@ -25395,6 +25812,7 @@ Murani
 Murano
 Murari
 Muraro
+Muras
 Murasecchi
 Murasecco
 Muratore
@@ -25407,7 +25825,11 @@ Murer
 Muresu
 Murgante
 Murganti
+Murgeri
 Murgia
+Murgieri
+Murialdi
+Murialdo
 Muriglio
 Murillo
 Murini
@@ -25415,6 +25837,7 @@ Murino
 Murinu
 Murisasco
 Murno
+Muro
 Murola
 Muroli
 Murolo
@@ -25429,6 +25852,7 @@ Murta
 Murtas
 Murtinu
 Muru
+Murè
 Musa
 Musacchi
 Musacchia
@@ -25436,13 +25860,13 @@ Musacchio
 Musacco
 Musarella
 Musaro
-Musarò
+Musaro'
 Musarra
 Musati
 Musazzi
 Musca
 Muscara
-Muscarà
+Muscara'
 Muscariello
 Muscas
 Muscatelli
@@ -25505,6 +25929,7 @@ Mussino
 Mussner
 Musso
 Mussoi
+Mussola
 Mussolini
 Mussolino
 Mussomeli
@@ -25515,6 +25940,7 @@ Mustu
 Musu
 Musumarra
 Musumeci
+Mutarelli
 Muti
 Mutinelli
 Mutini
@@ -25525,11 +25951,17 @@ Muttini
 Muttoni
 Mutzette
 Muzi
+Muziano
+Muzii
 Muzin
 Muzio
 Muzioli
 Muziotti
+Muzj
+Muzza
 Muzzapappa
+Muzzarelli
+Muzzarini
 Muzzatti
 Muzzette
 Muzzi
@@ -25537,12 +25969,16 @@ Muzzicato
 Muzzillo
 Muzzin
 Muzzini
+Muzzio
+Muzzioli
+Muzzo
 Muzzolon
 Muzzopappa
 Muzzupappa
 My
 Myosotis
-MÜllerMabilia
+MÜller
+Nacar
 Nacari
 Nacca
 Naccarati
@@ -25563,10 +25999,16 @@ Nadal
 Nadalet
 Nadaletti
 Nadaletto
+Nadali
+Nadalin
 Nadalini
 Nadalino
+Nadalutti
 Naddei
 Naddeo
+Nadi
+Nadin
+Nadini
 Naggi
 Naggia
 Nahum
@@ -25617,9 +26059,11 @@ Napoletani
 Napoletano
 Napoli
 Napoliello
+Napolioni
 Napolitano
 Nappa
 Nappi
+Nappini
 Nappo
 Narangio
 Narcisi
@@ -25684,7 +26128,7 @@ Nasto
 Nasuti
 Nasuto
 Natale
-Natalè
+Natale'
 Natalello
 Nataletti
 Natali
@@ -25701,14 +26145,22 @@ Natalotto
 Natalucci
 Natarella
 Natarelli
+Natella
+Natelli
+Natello
 Nateri
 Natero
 Nati
+Natiello
+Natilli
+Natillo
 Nativi
 Nativo
 Nato
 Natola
 Natoli
+Natolini
+Natolo
 Natta
 Nattero
 Natti
@@ -25741,9 +26193,8 @@ Nebulone
 Nebuloni
 Necca
 Necchi
-NecciEberto
-NecciNacar
-NecciNecciai
+Necci
+Necciai
 Necco
 Neglia
 Negrelli
@@ -25764,8 +26215,11 @@ Nemesi
 Nemesia
 Nemesio
 Nemour
+Nencetti
 Nenci
 Nencini
+Nencioli
+Nenciolini
 Nencioni
 Nenna
 Nepi
@@ -25793,7 +26247,7 @@ Nespoli
 Nespolo
 Nesta
 Nesti
-Nesticò
+Nestico'
 Nesto
 Nestola
 Nestoli
@@ -25802,6 +26256,7 @@ Nettini
 Netto
 Nevi
 Nevola
+Nevoli
 Niada
 Nibale
 Nibali
@@ -25834,7 +26289,7 @@ Nicolardi
 Nicolazzi
 Nicolazzo
 Nicole
-Nicolè
+Nicole'
 Nicolella
 Nicolello
 Nicolet
@@ -25842,7 +26297,7 @@ Nicoletta
 Nicoletti
 Nicoletto
 Nicoli
-Nicolì
+Nicoli'
 Nicolia
 Nicoliello
 Nicolin
@@ -25850,7 +26305,7 @@ Nicolini
 Nicolino
 Nicolis
 Nicolo
-Nicolò
+Nicolo'
 Nicolosi
 Nicoloso
 Nicolotti
@@ -25911,7 +26366,7 @@ Nissardi
 Nissola
 Nista
 Nisti
-Nisticò
+Nistico'
 Nisto
 Nistri
 Nistro
@@ -25919,6 +26374,7 @@ Nitri
 Nitro
 Nitti
 Nitto
+Nivola
 Nivoli
 Nivolo
 Nizzardi
@@ -25942,7 +26398,8 @@ Noce
 Nocella
 Nocenti
 Nocentini
-NocentinoNocera
+Nocentino
+Nocera
 Nocerini
 Nocerino
 Noceti
@@ -25955,7 +26412,7 @@ Nocito
 Nodari
 Nodaro
 Noe
-Noè
+Noe'
 Noeri
 Noero
 Nogara
@@ -26000,7 +26457,7 @@ Norrito
 Noschese
 Nosdeo
 Nose
-Nosè
+Nose'
 Noseda
 Nosenzo
 Nossa
@@ -26053,13 +26510,14 @@ Novi
 Novia
 Noviello
 Novita
-Novità
+Novita'
 Novo
 Nozza
 Nozzi
 Nozzoli
 Nozzolini
 Nuara
+Nubila
 Nucara
 Nuccelli
 Nucci
@@ -26096,11 +26554,13 @@ Nutriti
 Nutrito
 Nuvolari
 Nuvoli
+Nuvoloni
 Nuzzachi
 Nuzzaci
 Nuzzaco
 Nuzzi
-NuzzoQuadrana
+Nuzzo
+Oballa
 Obbili
 Oberti
 Oberto
@@ -26299,10 +26759,8 @@ Oppi
 Oppia
 Oppini
 Oppio
-OppioliNacar
-OppioliOballa
-OppioliOppizi
-OppioliPaba
+Oppioli
+Oppizi
 Oppizio
 Oppizzi
 Oppo
@@ -26389,7 +26847,7 @@ Orri
 Orria
 Orrico
 Orritos
-Orrù
+Orru'
 OrrÍa
 Orsani
 Orsanigo
@@ -26501,7 +26959,8 @@ Ottolia
 Ottolin
 Ottolina
 Ottolini
-OttomanaOttomanelli
+Ottomana
+Ottomanelli
 Ottomani
 Ottomaniello
 Ottomano
@@ -26515,7 +26974,8 @@ Ovidio
 Oxilia
 Ozza
 Ozzella
-OzzelloOballa
+Ozzello
+Paba
 Pacca
 Paccaduscio
 Paccagna
@@ -26714,9 +27174,8 @@ Palandri
 Palandrini
 Palandro
 Palavanchi
-PalavicinoOballa
-PalavicinoPaba
-PalavicinoPalazzese
+Palavicino
+Palazzese
 Palazzesi
 Palazzi
 Palazzini
@@ -26844,7 +27303,7 @@ Panaro
 Panarone
 Panaroni
 Panasci
-Panascì
+Panasci'
 Panato
 Panatta
 Panatti
@@ -26915,7 +27374,8 @@ Panigazzi
 Panighi
 Panigo
 Panini
-PaninoPanis
+Panino
+Panis
 Panisi
 Paniz
 Panizza
@@ -26960,7 +27420,7 @@ Pantalone
 Pantaloni
 Pantani
 Pantano
-Pantè
+Pante'
 Pantella
 Pantelli
 Pantera
@@ -26970,7 +27430,7 @@ Panti
 Pantini
 Pantino
 Panto
-Pantò
+Panto'
 Pantoni
 Panucci
 Panuccio
@@ -27029,7 +27489,7 @@ Papacci
 Papaccio
 Papace
 Papada
-Papadà
+Papada'
 Papadia
 Papadopoli
 Papagni
@@ -27082,7 +27542,7 @@ Pappa
 Pappacena
 Pappaceno
 Pappada
-Pappadà
+Pappada'
 Pappadopoli
 Pappalardi
 Pappalardo
@@ -27114,7 +27574,8 @@ Parapugna
 Parascandolo
 Parasecoli
 Parasecolo
-ParasilitiParasole
+Parasiliti
+Parasole
 Parata
 Parati
 Parato
@@ -27292,7 +27753,7 @@ Pasquariello
 Pasquato
 Pasquazzi
 Pasquazzo
-Pasquè
+Pasque'
 Pasquelli
 Pasquesi
 Pasquet
@@ -27313,7 +27774,8 @@ Pasquoni
 Pasquot
 Pasquotti
 Pasquotto
-PassadorPassadore
+Passador
+Passadore
 Passadori
 Passafari
 Passafaro
@@ -27343,7 +27805,7 @@ Passatore
 Passatori
 Passavante
 Passavanti
-Passè
+Passe'
 Passera
 Passerani
 Passeretti
@@ -27388,7 +27850,7 @@ Patalini
 Patalino
 Patamia
 Patane
-Patanè
+Patane'
 Patania
 Patarga
 Patari
@@ -27404,7 +27866,7 @@ Paterna
 Paterni
 Paterniti
 Paterno
-Paternò
+Paterno'
 Paternoster
 Paternostri
 Paternostro
@@ -27512,7 +27974,8 @@ Peccio
 Pecis
 Pecol
 Pecora
-PecorariPecoraro
+Pecorari
+Pecoraro
 Pecorella
 Pecorelli
 Pecorello
@@ -27542,7 +28005,7 @@ Pederzoli
 Pederzolli
 Pedi
 Pedio
-Pedò
+Pedo'
 Pedone
 Pedoni
 Pedot
@@ -27586,7 +28049,7 @@ Peiretti
 Peirone
 Peita
 Peiti
-Pelà
+Pela'
 Pelacani
 Pelacci
 Pelaccia
@@ -27651,7 +28114,7 @@ Pelletto
 Pelli
 Pellicani
 Pellicano
-Pellicanò
+Pellicano'
 Pellicari
 Pellicci
 Pelliccia
@@ -27679,7 +28142,7 @@ Pellizzola
 Pellizzon
 Pellizzoni
 Pello
-Pellò
+Pello'
 Pellosi
 Pelloso
 Pelonero
@@ -27687,7 +28150,7 @@ Pelosi
 Pelosini
 Peloso
 Pelu
-Pelù
+Pelu'
 Pelucchi
 Pelucchini
 Peluchi
@@ -27711,7 +28174,8 @@ Penino
 Penitente
 Penitenti
 Penna
-PennacchiPennacchia
+Pennacchi
+Pennacchia
 Pennacchietti
 Pennacchio
 Pennaccini
@@ -27760,7 +28224,7 @@ Peppetti
 Peppi
 Pera
 Perabo
-Perabò
+Perabo'
 Peracchi
 Peracchini
 Peracchino
@@ -27910,7 +28374,8 @@ Perrelli
 Perrello
 Perret
 Perretta
-PerrettiPerretto
+Perretti
+Perretto
 Perri
 Perricone
 Perriconi
@@ -28029,8 +28494,8 @@ Petazzini
 Petazzo
 Petazzoni
 Petelin
-Petenà
-Petenò
+Petena'
+Peteno'
 Petercini
 Peterlongo
 Petilli
@@ -28098,7 +28563,7 @@ Petris
 Petrizzi
 Petrizzo
 Petro
-Petrò
+Petro'
 Petroccelli
 Petrocchi
 Petrocci
@@ -28109,7 +28574,8 @@ Petrolino
 Petrolo
 Petronacci
 Petronaci
-PetronePetronelli
+Petrone
+Petronelli
 Petrongaro
 Petroni
 Petronilla
@@ -28155,7 +28621,7 @@ Petta
 Pettazzi
 Pettazzoni
 Pettenati
-Pettenò
+Petteno'
 Petti
 Pettinari
 Pettinaro
@@ -28308,7 +28774,8 @@ Picchetti
 Picchetto
 Picchi
 Picchiarelli
-PicchierriPicchini
+Picchierri
+Picchini
 Picchio
 Picci
 Picciarella
@@ -28507,7 +28974,8 @@ Pillon
 Pillonca
 Pillone
 Pilloni
-PillosuPilo
+Pillosu
+Pilo
 Pilon
 Pilone
 Piloni
@@ -28706,7 +29174,8 @@ Pischiuti
 Pischiutta
 Pischiutti
 Pisci
-PisciavinoPiscicelli
+Pisciavino
+Piscicelli
 Piscina
 Piscioneri
 Piscionieri
@@ -28779,9 +29248,9 @@ Pitocco
 Pitott
 Pitt
 Pitta
-Pittà
+Pitta'
 Pittala
-Pittalà
+Pittala'
 Pittalis
 Pittaluga
 Pittamiglio
@@ -28905,15 +29374,16 @@ Pizzullo
 Pizzulo
 Pizzurro
 Pizzuti
-PizzutoPlaca
+Pizzuto
+Placa
 Placanica
 Placente
 Placenti
 Placido
 Planca
-Platanè
+Platane'
 Platani
-Platanì
+Platani'
 Platania
 Platano
 Plataroti
@@ -28949,7 +29419,7 @@ Poddine
 Poddo
 Poddu
 Podenzani
-Podestà
+Podesta'
 Podetti
 Podorieszach
 Podrecca
@@ -29034,7 +29504,7 @@ Polissena
 Polisseni
 Polistena
 Politano
-Politanò
+Politano'
 Politelli
 Politi
 Polito
@@ -29104,7 +29574,8 @@ Pomillo
 Pomin
 Pomini
 Pomino
-PomoPomogranato
+Pomo
+Pomogranato
 Pomoni
 Pomozzi
 Pompa
@@ -29275,7 +29746,7 @@ Potecchi
 Potente
 Potenza
 Potere
-Potestà
+Potesta'
 Potestia
 Potestio
 Poti
@@ -29303,7 +29774,8 @@ Pozzetto
 Pozzi
 Pozzo
 Pozzobon
-PozzoliPozzolo
+Pozzoli
+Pozzolo
 Pozzoni
 Pracca
 Prada
@@ -29313,7 +29785,7 @@ Pradelli
 Praderi
 Praderio
 Pradolin
-Praianò
+Praiano'
 Prampolini
 Prandera
 Prandi
@@ -29330,13 +29802,13 @@ Pratellesi
 Pratese
 Pratesi
 Prati
-Praticò
+Pratico'
 Pratiffi
 Prato
 Pratolongo
 Pratolungo
 Pratti
-Pratticò
+Prattico'
 Pravadelli
 Pravettoni
 Preabianca
@@ -29353,11 +29825,11 @@ Preganelli
 Pregiato
 Pregnolato
 Preiano
-Preianò
+Preiano'
 Preitano
 Preite
 Preiti
-Prejanò
+Prejano'
 Prelati
 Prelato
 Prelle
@@ -29470,7 +29942,7 @@ Priori
 Prisco
 Prisinzano
 Pristera
-Pristerà
+Pristera'
 Pristeri
 Priuli
 Privenzano
@@ -29502,7 +29974,8 @@ Proli
 Prolo
 Promenzio
 Promontorio
-PronatProne
+Pronat
+Prone
 Pronesti
 Pronestì
 Prontera
@@ -29686,7 +30159,8 @@ Puzzi
 Puzzillo
 Puzzo
 Puzzone
-PuzzuPaba
+Puzzu
+Quadrana
 Quadrani
 Quadrano
 Quadrari
@@ -29768,7 +30242,7 @@ Queri
 Quero
 Querques
 Querze
-Querzè
+Querze'
 Querzola
 Questioni
 Quida
@@ -29777,10 +30251,10 @@ Quilici
 Quilico
 Quinci
 Quinque
-Quintabà
+Quintaba'
 Quintarelli
 Quintavalle
-Quintè
+Quinte'
 Quinti
 Quintili
 Quintilia
@@ -29813,10 +30287,8 @@ Quondam Carlo
 Quondamangelomaria
 Quondamatteo
 Quondamcarlo
-QuosOballa
-QuosQuadrana
-QuosRabagliati
-QuosTabacchi
+Quos
+Rabagliati
 Rabai
 Rabatti
 Rabbai
@@ -29960,7 +30432,7 @@ Raimondi
 Raimondo
 Raina
 Rainaldi
-Rainè
+Raine'
 Raineri
 Raini
 Rainini
@@ -30015,9 +30487,8 @@ Ramirez
 Ramolivaz
 Ramolivo
 Ramon
-RamondaQuadrana
-RamondaRabagliati
-RamondaRamondi
+Ramonda
+Ramondi
 Ramondini
 Ramondino
 Ramondo
@@ -30072,7 +30543,7 @@ Rannisi
 Ranoisio
 Ranoldi
 Ranone
-Ranù
+Ranu'
 Ranucci
 Ranuccio
 Ranzani
@@ -30085,9 +30556,9 @@ Rapaccini
 Rapaccio
 Rapaccioni
 Rapaglia
-Rapaglià
+Rapaglia'
 Rapagna
-Rapagnà
+Rapagna'
 Rapagnani
 Rapagni
 Rapallo
@@ -30181,7 +30652,7 @@ Ravesi
 Ravezzani
 Ravi
 Ravida
-Ravidà
+Ravida'
 Raviele
 Ravignani
 Raviola
@@ -30216,7 +30687,8 @@ Reali
 Realini
 Reani
 Reano
-ReatiReato
+Reati
+Reato
 Rebagliati
 Rebasti
 Rebaudengo
@@ -30350,10 +30822,13 @@ Renai
 Renaioli
 Renazzi
 Renda
+Rendace
+Rendaci
 Rende
 Rendina
 Rendine
 Rendini
+Rendo
 Renga
 Reni
 Renier
@@ -30362,6 +30837,7 @@ Reniero
 Renis
 Renna
 Renne
+Renno
 Reno
 Renoldi
 Renzetti
@@ -30372,6 +30848,7 @@ Renzo
 Renzone
 Renzoni
 Renzulli
+Renzullo
 Repaci
 Repetti
 Repetto
@@ -30415,7 +30892,8 @@ Reynaud
 Reynaudi
 Reynaudo
 Reyneri
-ReyneroReza
+Reynero
+Reza
 Rezoagli
 Rezza
 Rezzaghi
@@ -30505,7 +30983,7 @@ Riccioni
 Ricciuti
 Ricciuto
 Ricco
-Riccò
+Ricco'
 Riccobaldi
 Riccobene
 Riccobon
@@ -30563,7 +31041,7 @@ Riganella
 Riganelli
 Riganello
 Rigano
-Riganò
+Rigano'
 Rigante
 Riganti
 Rigatelli
@@ -30614,7 +31092,8 @@ Rijtano
 Rimedio
 Rimini
 Rimola
-RimoldiRimoli
+Rimoldi
+Rimoli
 Rimolo
 Rimondi
 Rimondini
@@ -30813,7 +31292,8 @@ Rocchino
 Rocchio
 Rocci
 Roccia
-RoccoRoccolano
+Rocco
+Roccolano
 Roccon
 Rocconi
 Roccuzzo
@@ -30840,14 +31320,14 @@ Rodigliano
 Rodin
 Rodini
 Rodino
-Rodinò
+Rodino'
 Rodio
 Rodolatti
 Rodolfi
 Rodolfo
 Rodomonte
 Rodomonti
-Rodotà
+Rodota'
 Rodoti
 Rodrighi
 Rodrigo
@@ -30898,7 +31378,7 @@ Rolgi
 Roll
 Rolla
 Rolle
-Rollè
+Rolle'
 Rolli
 Rollo
 Roma
@@ -30924,7 +31404,7 @@ Romanin
 Romanini
 Romanino
 Romano
-Romanò
+Romano'
 Romanoni
 Rombaldi
 Rombaldo
@@ -31012,7 +31492,9 @@ Ronni
 Ronza
 Ronzan
 Ronzana
-RonzaniRonzano
+Ronzani
+Ronzano
+Ronzi
 Ronzino
 Ronzon
 Ronzone
@@ -31161,7 +31643,7 @@ Rozzi
 Rozzo
 Rozzoni
 Rua
-Ruà
+Rua'
 Ruani
 Ruano
 Rubagotti
@@ -31211,7 +31693,8 @@ Ruffillo
 Ruffinengo
 Ruffini
 Ruffinnelli
-RuffinoRuffinoni
+Ruffino
+Ruffinoni
 Ruffo
 Ruffoli
 Ruffolo
@@ -31360,7 +31843,8 @@ Ruzzanti
 Ruzzene
 Ruzziconi
 Ruzzolini
-RuzzolinoRabagliati
+Ruzzolino
+Saba
 Sabadini
 Sabadotto
 Sabatani
@@ -31393,7 +31877,7 @@ Sabini
 Sabino
 Sabio
 Sabiu
-Saccà
+Sacca'
 Saccani
 Saccardi
 Saccardo
@@ -31439,6 +31923,7 @@ Sagliano
 Saglimbene
 Saglimbeni
 Saglio
+Sagnibene
 Saia
 Saiani
 Saiano
@@ -31518,6 +32003,7 @@ Saligari
 Salimbena
 Salimbene
 Salimbeni
+Salimei
 Salin
 Salina
 Salini
@@ -31559,9 +32045,8 @@ Saltaformaggio
 Saltalamacchia
 Saltarel
 Saltarelli
-SaltarelloQuadrana
-SaltarelloSaba
-SaltarelloSalterelli
+Saltarello
+Salterelli
 Salteri
 Salterio
 Salucci
@@ -31574,7 +32059,7 @@ Salustro
 Salute
 Saluti
 Saluzzi
-Salvà
+Salva'
 Salvadei
 Salvadeo
 Salvaderi
@@ -31654,7 +32139,7 @@ Sammartino
 Sammataro
 Sammauro
 Sammito
-Samorè
+Samore'
 Samperi
 Sampieri
 Sampietro
@@ -31687,7 +32172,7 @@ Sandano
 Sandella
 Sandomenico
 Sandon
-Sandonà
+Sandona'
 Sandonini
 Sandonnini
 Sandra
@@ -31760,7 +32245,8 @@ Sanseverini
 Sanseverino
 Sansevero
 Sansimone
-SansiverinoSansò
+Sansiverino
+Sanso'
 Sanson
 Sansone
 Sansonetti
@@ -31808,10 +32294,10 @@ Santeramo
 Santese
 Santesi
 Santeufemia
-Santhià
+Santhia'
 Santi
 Santia
-Santià
+Santia'
 Santilli
 Santillo
 Santimaria
@@ -31907,7 +32393,7 @@ Sarais
 Sarandrea
 Sarandria
 Saranga
-Saraò
+Sarao'
 Sarasin
 Sarasini
 Sarasino
@@ -31915,7 +32401,7 @@ Sarazin
 Sarbia
 Sarchi
 Sarci
-Sarcì
+Sarci'
 Sarcina
 Sarcinelli
 Sarcone
@@ -31959,7 +32445,8 @@ Sarrubbi
 Sarrubbo
 Sarta
 Sartarelli
-SartelliSarti
+Sartelli
+Sarti
 Sartini
 Sartino
 Sartirana
@@ -31970,7 +32457,7 @@ Sartore
 Sartorelli
 Sartori
 Sartorio
-Sarù
+Saru'
 Sarubbi
 Sarubbo
 Saruggia
@@ -32097,7 +32584,7 @@ Sbrizzai
 Sbrizzi
 Sbrizzo
 Sbroggio
-Sbroggiò
+Sbroggio'
 Sbrolla
 Sbrolli
 Sbrollini
@@ -32158,7 +32645,8 @@ Scandurra
 Scannapieco
 Scannapiecoro
 Scannarotti
-ScannoneScano
+Scannone
+Scano
 Scantamburlo
 Scanu
 Scanzani
@@ -32231,10 +32719,10 @@ Scardovi
 Scarenzi
 Scarenzio
 Scarfi
-Scarfì
+Scarfi'
 Scarfia
 Scarfo
-Scarfò
+Scarfo'
 Scariati
 Scaricamazza
 Scarimbola
@@ -32286,7 +32774,7 @@ Scassaioli
 Scassi
 Scasso
 Scata
-Scatà
+Scata'
 Scatigna
 Scatigni
 Scatigno
@@ -32357,7 +32845,8 @@ Schiavini
 Schiavino
 Schiavitti
 Schiavitto
-SchiavoSchiavoi
+Schiavo
+Schiavoi
 Schiavolin
 Schiavolini
 Schiavon
@@ -32380,10 +32869,10 @@ Schifini
 Schifino
 Schifo
 Schiliro
-Schilirò
+Schiliro'
 Schillaci
 Schilliro
-Schillirò
+Schilliro'
 Schina
 Schinai
 Schinaia
@@ -32396,7 +32885,7 @@ Schinella
 Schinelli
 Schinello
 Schini
-Schininà
+Schinina'
 Schino
 Schintu
 Schipa
@@ -32412,7 +32901,7 @@ Schiratti
 Schiratto
 Schirinzi
 Schiro
-Schirò
+Schiro'
 Schirone
 Schironi
 Schiros
@@ -32440,10 +32929,10 @@ Schulz
 Schulze
 Schweiger
 Sciabarra
-Sciabarrà
+Sciabarra'
 Sciabarrasi
 Sciabbarra
-Sciabbarrà
+Sciabbarra'
 Sciabbarrasi
 Sciabbica
 Sciabica
@@ -32456,7 +32945,7 @@ Scialla
 Scialli
 Sciallino
 Sciallo
-Scialò
+Scialo'
 Scialoia
 Scialpi
 Sciamanna
@@ -32506,10 +32995,10 @@ Scilanga
 Scilini
 Scilla
 Scillama
-Scillamà
+Scillama'
 Scillia
 Scime
-Scimè
+Scime'
 Scimemi
 Scimenes
 Scimone
@@ -32517,9 +33006,9 @@ Scimonelli
 Scimonello
 Scimoni
 Scina
-Scinà
+Scina'
 Scintu
-Sciò
+Scio'
 Scioli
 Sciolla
 Sciorati
@@ -32539,7 +33028,7 @@ Scipio
 Scipione
 Scipioni
 Scire
-Scirè
+Scire'
 Scirea
 Sciri
 Sciria
@@ -32548,7 +33037,7 @@ Scisciolo
 Scisco
 Sciumbata
 Sciume
-Sciumè
+Sciume'
 Sciusco
 Sciuteri
 Sciuti
@@ -32556,7 +33045,8 @@ Sciuto
 Sciutti
 Sciutto
 Scivaro
-ScivettiScivittaro
+Scivetti
+Scivittaro
 Scivoli
 Sclafani
 Sclano
@@ -32701,7 +33191,7 @@ Sech
 Seche
 Sechi
 Secli
-Seclì
+Secli'
 Secoli
 Secolo
 Secondi
@@ -32742,7 +33232,7 @@ Segnan
 Segneri
 Segoloni
 Segre
-Segrè
+Segre'
 Segreti
 Segreto
 Seguin
@@ -32755,7 +33245,8 @@ Selini
 Selis
 Selitto
 Sella
-SellanSellari
+Sellan
+Sellari
 Sellarione
 Sellaro
 Selleri
@@ -32895,7 +33386,7 @@ Serraino
 Serrajotto
 Serrani
 Serrano
-Serranò
+Serrano'
 Serrao
 Serrapica
 Serrapico
@@ -32954,7 +33445,8 @@ Sessenio
 Sessennio
 Sessi
 Sesso
-SestagalliSestegalli
+Sestagalli
+Sestegalli
 Sesti
 Sestili
 Sestini
@@ -33041,7 +33533,7 @@ Sgobi
 Sgobio
 Sgotti
 Sgro
-Sgrò
+Sgro'
 Sgroi
 Sgroia
 Sgromo
@@ -33114,7 +33606,7 @@ Sigalini
 Sighieri
 Sighinolfi
 Sigillo
-Sigillò
+Sigillo'
 Sigismondi
 Sigismondo
 Signanini
@@ -33153,7 +33645,8 @@ Silini
 Silino
 Silio
 Silipo
-SiliquaSiliquini
+Siliqua
+Siliquini
 Silla
 Silletta
 Silletti
@@ -33257,7 +33750,7 @@ Siniscalco
 Sinisgalli
 Sinisi
 Sinito
-Sinitò
+Sinito'
 Sinni
 Sinno
 Sinopoli
@@ -33352,7 +33845,9 @@ Smeraldina
 Smeraldini
 Smeraldino
 Smeraldo
-SmerghettoSmider
+Smerghetto
+Smergo
+Smider
 Smiderle
 Smigliani
 Smiraglia
@@ -33418,7 +33913,7 @@ Solato
 Solazzi
 Solazzo
 Solbiati
-Soldà
+Solda'
 Soldani
 Soldano
 Soldarini
@@ -33473,7 +33968,7 @@ Solombrini
 Solombrino
 Soloperta
 Soloperto
-Somà
+Soma'
 Somacal
 Somaini
 Somarelli
@@ -33551,7 +34046,8 @@ Sorgente
 Sorgi
 Sorgiovanni
 Sorgo
-SorgonSoria
+Sorgon
+Soria
 Soriani
 Soriano
 Sorice
@@ -33585,7 +34081,7 @@ Soteri
 Sotero
 Sotgia
 Sotgiu
-Sotgiù
+Sotgiu'
 Sotgiù
 Sotira
 Sotiri
@@ -33657,7 +34153,7 @@ Spampanato
 Spampinato
 Spanalatte
 Spano
-Spanò
+Spano'
 Spanu
 Sparace
 Sparacello
@@ -33672,7 +34168,7 @@ Sparaventi
 Sparnocchia
 Sparoni
 Sparta
-Spartà
+Sparta'
 Spartano
 Sparvoli
 Spasiano
@@ -33750,7 +34246,8 @@ Spidalieri
 Spiezie
 Spiezio
 Spiga
-SpigarelliSpigaroli
+Spigarelli
+Spigaroli
 Spigarolo
 Spigola
 Spigolon
@@ -33763,7 +34260,7 @@ Spilleri
 Spina
 Spinaci
 Spinas
-Spinazzè
+Spinazze'
 Spinazzi
 Spinazzola
 Spinella
@@ -33943,13 +34440,14 @@ Stanzani
 Stanzione
 Stanzioni
 Stanzu
-Stanzù
+Stanzu'
 Stara
 Starace
 Staraci
 Starita
 Starnuto
-StaropoliStartari
+Staropoli
+Startari
 Starteri
 Stasi
 Stasino
@@ -33973,7 +34471,7 @@ Stefana
 Stefanacci
 Stefanachi
 Stefanazzi
-Stefanè
+Stefane'
 Stefanel
 Stefanelli
 Stefanello
@@ -34145,10 +34643,11 @@ Strappazzon
 Strata
 Strati
 Stratico
-Straticò
-Stratigò
+Stratico'
+Stratigo'
 Stratoti
-StratotoStraziota
+Stratoto
+Straziota
 Strazullo
 Strazzera
 Strazzeri
@@ -34273,7 +34772,8 @@ Suzzani
 Suzzi
 Svaldi
 Sverberi
-SvizzeroSaba
+Svizzero
+Tabacchi
 Tabacco
 Tabaglio
 Taban
@@ -34317,11 +34817,11 @@ Tacconi
 Taccori
 Taci
 Tacus
-Taddè
+Tadde'
 Taddei
 Taddeo
 Taddia
-Tadè
+Tade'
 Tadei
 Tadeo
 Tadiello
@@ -34381,7 +34881,7 @@ Taiano
 Taiariol
 Taibbi
 Taibi
-Taiè
+Taie'
 Taini
 Taino
 Taiocchi
@@ -34392,7 +34892,7 @@ Taita
 Tajani
 Tajariol
 Taje
-Tajè
+Taje'
 Tajocchi
 Tajola
 Tajoli
@@ -34416,6 +34916,7 @@ Taliento
 Taliercio
 Tallarico
 Tallevi
+Talli
 Tallini
 Tallino
 Tallone
@@ -34424,8 +34925,9 @@ Talloru
 Talluto
 Talmone
 Taloni
+Talotti
 Tam
-Tamà
+Tama'
 Tamagni
 Tamagnini
 Tamagno
@@ -34460,7 +34962,7 @@ Tamburri
 Tamburrini
 Tamburrino
 Tamburro
-Tamè
+Tame'
 Tamelli
 Tamellin
 Tamellini
@@ -34472,9 +34974,8 @@ Tammacco
 Tammaro
 Tammeo
 Tamone
-TamoniSaba
-TamoniTabacchi
-TamoniTampieri
+Tamoni
+Tampieri
 Tamponi
 Tamurri
 Tana
@@ -34565,7 +35066,7 @@ Tarenzi
 Targa
 Targia
 Targioni
-Tarì
+Tari'
 Taribella
 Taribelli
 Taribello
@@ -34673,7 +35174,8 @@ Taurini
 Taurino
 Tauro
 Taus
-TausaniTavani
+Tausani
+Tavani
 Tavano
 Tavanti
 Tavazzi
@@ -34702,6 +35204,7 @@ Tavolaro
 Tavoloni
 Tazzari
 Tazzioli
+Tea
 Tealdi
 Tealdo
 Teani
@@ -34726,6 +35229,7 @@ Tedone
 Tegas
 Tegner
 Tegon
+Teia
 Tel
 Tela
 Telesca
@@ -34872,7 +35376,8 @@ Tessa
 Tessadri
 Tessadro
 Tessari
-TessarinTessaro
+Tessarin
+Tessaro
 Tessaroli
 Tessarolo
 Tessarotto
@@ -34890,7 +35395,7 @@ Testaferrata
 Testagrossa
 Testaguzza
 Testai
-Testaì
+Testai'
 Testasecca
 Testatonda
 Testaverde
@@ -35071,7 +35576,8 @@ Tivoli
 Tizi
 Tiziana
 Tiziani
-TizianoTizio
+Tiziano
+Tizio
 Tizza
 Tizzani
 Tizzano
@@ -35238,7 +35744,7 @@ Tombola
 Tombolato
 Tomboli
 Tomboloni
-Tomè
+Tome'
 Tomea
 Tomei
 Tomeo
@@ -35270,7 +35776,8 @@ Tomo
 Tona
 Tonani
 Tonante
-TonantiTonarelli
+Tonanti
+Tonarelli
 Tondelli
 Tondi
 Tondin
@@ -35469,7 +35976,8 @@ Tosone
 Tosoni
 Tossut
 Tossuti
-TossutoTosti
+Tossuto
+Tosti
 Tosto
 Tot
 Tota
@@ -35477,7 +35985,7 @@ Totaro
 Toti
 Totis
 Toto
-Totò
+Toto'
 Totolo
 Totti
 Tottoli
@@ -35509,7 +36017,7 @@ Traccanelli
 Traccitto
 Tracitto
 Traclo
-Traclò
+Traclo'
 Tradii
 Tradori
 Traettini
@@ -35559,7 +36067,7 @@ Trapani
 Trapassi
 Trapasso
 Trapattoni
-Trapè
+Trape'
 Trapella
 Trapelli
 Trapletti
@@ -35600,7 +36108,7 @@ Traverso
 Travuzzi
 Traxino
 Tre Re
-Tre Rè
+Tre Re'
 Treachi
 Trebaldi
 Trebbi
@@ -35635,7 +36143,7 @@ Trentini
 Trento
 Trequattrini
 Trere
-Trerè
+Trere'
 Trerotola
 Trerotoli
 Tres
@@ -35668,16 +36176,17 @@ Tribuzio
 Tricarico
 Tricerri
 Trichilo
-TricoliTrida
+Tricoli
+Trida
 Tridico
 Triestini
 Triestino
-Trifarò
-Triferò
+Trifaro'
+Trifero'
 Trifilo
-Trifilò
+Trifilo'
 Trifiro
-Trifirò
+Trifiro'
 Trifoli
 Triggiani
 Triggiano
@@ -35858,7 +36367,7 @@ Tulli
 Tullio
 Tullo
 Tuma
-Tumà
+Tuma'
 Tumatis
 Tumedei
 Tumello
@@ -35867,7 +36376,8 @@ Tumidei
 Tuminelli
 Tuminello
 Tumminelli
-TumminelloTumminia
+Tumminello
+Tumminia
 Tummino
 Tummolo
 Tumolo
@@ -35980,7 +36490,8 @@ Tuzzeo
 Tuzzi
 Tuzzio
 Tuzzo
-TuzzolinoTabacchi
+Tuzzolino
+Ubaldi
 Ubaldini
 Ubalducci
 Ubbiali
@@ -36007,7 +36518,7 @@ Ugaro
 Ugazio
 Ugdulena
 Ugenti
-Uggè
+Ugge'
 Uggenti
 Uggeri
 Uggetti
@@ -36023,6 +36534,8 @@ Ugolotto
 Ugon
 Ugone
 Ugoni
+Uika
+Ujka
 Ulemi
 Uleri
 Ulian
@@ -36082,7 +36595,7 @@ Urriani
 Urriano
 Urrico
 Urru
-Urrù
+Urru'
 Urrù
 Ursella
 Urselli
@@ -36120,9 +36633,8 @@ Uttusu
 Utzeri
 Uva
 Uzzi
-UzzoNacar
-UzzoUbaldi
-UzzoVacalebre
+Uzzo
+Vacalebre
 Vacante
 Vacanti
 Vacca
@@ -36153,7 +36665,7 @@ Vacondio
 Vada
 Vadacca
 Vadala
-Vadalà
+Vadala'
 Vadalà
 Vadilonga
 Vaenti
@@ -36237,7 +36749,7 @@ Valerio
 Valesi
 Valesin
 Valesini
-Valfrè
+Valfre'
 Valgolio
 Valguarnera
 Valiani
@@ -36321,10 +36833,8 @@ Vanelli
 Vanello
 Vanesi
 Vanesio
-VangeliUbaldi
-VangeliVacalebre
-VangeliVangelio
-VangeliZacà
+Vangeli
+Vangelio
 Vangelista
 Vangelisti
 Vangelo
@@ -36409,7 +36919,7 @@ Varisi
 Varlerio
 Varliero
 Varnava
-Varnavà
+Varnava'
 Varner
 Varnerin
 Varnerini
@@ -36423,7 +36933,7 @@ Varotta
 Varotti
 Varotto
 Varra
-Varrà
+Varra'
 Varriale
 Varrica
 Varricchio
@@ -36523,7 +37033,8 @@ Vecchione
 Vecchioni
 Vecchiotti
 Vecchiutti
-VecelliVecellio
+Vecelli
+Vecellio
 Vecil
 Vedana
 Vedda
@@ -36722,7 +37233,8 @@ Verrengia
 Verri
 Verrocchi
 Verrocchio
-VerruaVerrucchi
+Verrua
+Verrucchi
 Verrucchio
 Versace
 Vertemati
@@ -36840,7 +37352,7 @@ Viezzoli
 Viganego
 Vigani
 Vigano
-Viganò
+Vigano'
 Viganò
 Vigevani
 Vigevano
@@ -36921,7 +37433,8 @@ Villini
 Villino
 Villis
 Villoresi
-VillottiVimercati
+Villotti
+Vimercati
 Vinai
 Vinardi
 Vinattieri
@@ -36980,7 +37493,7 @@ Viri
 Viroli
 Virtuani
 Virzi
-Virzì
+Virzi'
 Virzio
 Virzo
 Visalli
@@ -37014,7 +37527,7 @@ Vismara
 Visocaro
 Visocchi
 Visona
-Visonà
+Visona'
 Visone
 Vissani
 Vissio
@@ -37120,7 +37633,8 @@ Vlah
 Vlahov
 Vlahovich
 Voccia
-VoceVoci
+Voce
+Voci
 Vodopivec
 Voerzio
 Voghera
@@ -37141,9 +37655,9 @@ Volio
 Vollaro
 Volli
 Volo
-Volonà
+Volona'
 Volonghi
-Volontè
+Volonte'
 Volpat
 Volpati
 Volpato
@@ -37209,9 +37723,10 @@ Vultaggio
 Vuoli
 Vuolo
 Vuono
-VuosoVacalebre
+Vuoso
+Zaca'
 Zacaria
-Zaccà
+Zacca'
 Zaccagni
 Zaccagnini
 Zaccagnino
@@ -37407,10 +37922,9 @@ Zancanaro
 Zancarella
 Zancarelli
 Zancarello
-Zanchè
-ZanchetVacalebre
-ZanchetZacà
-ZanchetZanchetta
+Zanche'
+Zanchet
+Zanchetta
 Zanchetti
 Zanchetto
 Zanchi
@@ -37522,7 +38036,7 @@ Zaoli
 Zapata
 Zappa
 Zappacosta
-Zappalà
+Zappala'
 Zappalaglio
 Zappale
 Zappalorti
@@ -37601,7 +38115,7 @@ Zaverini
 Zaverio
 Zavettieri
 Zaza
-Zazà
+Zaza'
 Zazza
 Zazzara
 Zazzarini
@@ -37609,7 +38123,8 @@ Zazzarino
 Zazzaro
 Zazzaroni
 Zazzeri
-ZazzeroZazzeroni
+Zazzero
+Zazzeroni
 Zeba
 Zecca
 Zecchi
@@ -37769,7 +38284,7 @@ Zingone
 Zini
 Zinicola
 Zinna
-Zinnà
+Zinna'
 Zinni
 Zinno
 Zintilini
@@ -37808,7 +38323,8 @@ Zocastello
 Zocca
 Zoccarato
 Zoccari
-ZoccaroZoccastello
+Zoccaro
+Zoccastello
 Zocchi
 Zocco
 Zoccola
@@ -37906,7 +38422,7 @@ Zuari
 Zuaro
 Zubani
 Zucca
-Zuccalà
+Zuccala'
 Zuccarelli
 Zuccarello
 Zuccari
@@ -37968,4 +38484,4 @@ Zurolo
 Zurri
 Zurrida
 Zurro
-ZurruZacà
+Zurru
