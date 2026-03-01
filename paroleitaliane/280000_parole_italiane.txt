@@ -150054,6 +150054,7 @@ ocellati
 ocellato
 ocelli
 ocello
+ocelot
 ocelotti
 ocelotto
 oche
