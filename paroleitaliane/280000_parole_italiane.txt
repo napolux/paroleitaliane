@@ -13440,6 +13440,7 @@ aizzatrice
 aizzatrici
 aizzava
 aizzavano
+aizzavi
 aizzera
 aizzeranno
 aizzerebbe
@@ -16503,6 +16504,7 @@ amabilita
 amabilmente
 amaca
 amache
+amaci
 amadriade
 amadriadi
 amagnetica
@@ -16579,6 +16581,7 @@ amamelidale
 amamelidali
 amamelide
 amamelidi
+amami
 amammo
 amando
 amandoci
@@ -20201,6 +20204,7 @@ aneddotiste
 aneddotisti
 aneddoto
 anela
+anelai
 anelando
 anelano
 anelante
@@ -20811,6 +20815,7 @@ angustioso
 angusto
 angustura
 angusture
+ani
 anice
 anici
 anicini
@@ -27972,6 +27977,7 @@ arefatta
 arefatte
 arefatti
 arefatto
+arei
 areica
 areiche
 areici
@@ -28157,6 +28163,7 @@ argina
 arginai
 arginale
 arginali
+arginalo
 arginamenti
 arginamento
 arginammo
@@ -34113,6 +34120,8 @@ astila
 astile
 astili
 astilo
+astina
+astine
 astinente
 astinenti
 astinenza
@@ -35442,6 +35451,7 @@ attintura
 attinture
 attira
 attirai
+attirami
 attirammo
 attirando
 attirandoci
@@ -36100,6 +36110,7 @@ attualizziate
 attualizzino
 attualizzo
 attualmente
+attualo
 attuamenti
 attuamento
 attuammo
@@ -37978,6 +37989,7 @@ avevate
 avevi
 avevo
 avi
+aviano
 aviari
 aviaria
 aviarie
@@ -38691,6 +38703,7 @@ avviano
 avviare
 avviarono
 avviarsi
+avviarti
 avviasse
 avviassero
 avviassi
@@ -39330,6 +39343,9 @@ axoni
 ayatollah
 azalea
 azalee
+azere
+azeri
+azero
 azienda
 aziendale
 aziendali
@@ -43624,6 +43640,7 @@ beauty
 beauvoir
 beava
 beavano
+beavo
 bebe
 becca
 beccacce
@@ -53086,6 +53103,9 @@ cabrate
 cabriole
 cabriolet
 cabriolets
+caca
+cacami
+cacano
 cacao
 cacare
 cacarella
@@ -53300,6 +53320,8 @@ cafonesche
 cafoneschi
 cafonesco
 cafoni
+caga
+cagai
 cagare
 cagato
 caghetta
@@ -53457,6 +53479,7 @@ calcareo
 calcari
 calcarone
 calcaroni
+calcata
 calcato
 calcatoi
 calcatoio
@@ -54664,6 +54687,7 @@ cantai
 cantami
 cantammo
 cantando
+cantane
 cantano
 cantante
 cantanti
@@ -54961,6 +54985,7 @@ capistazione
 capiste
 capisti
 capita
+capitai
 capitale
 capitali
 capitalismi
@@ -55483,6 +55508,7 @@ carciofi
 carciofo
 carco
 carda
+cardai
 cardamomi
 cardamomo
 cardani
@@ -55492,6 +55518,8 @@ cardanici
 cardanico
 cardano
 cardare
+cardata
+cardati
 cardatore
 cardatori
 cardatrice
@@ -55830,12 +55858,16 @@ carpiata
 carpiate
 carpiati
 carpiato
+carpii
 carpine
 carpini
 carpio
 carpione
 carpioni
 carpire
+carpita
+carpiti
+carpito
 carpo
 carpologia
 carpologie
@@ -55931,6 +55963,7 @@ carsici
 carsico
 carsismi
 carsismo
+carso
 carta
 cartacarbone
 cartacce
@@ -56310,6 +56343,8 @@ castori
 castorini
 castorino
 castoro
+castra
+castrali
 castrametazione
 castrametazioni
 castrare
@@ -56584,6 +56619,7 @@ cattiverie
 cattivi
 cattivita
 cattivo
+cattivona
 cattolica
 cattolicamente
 cattolicesimi
@@ -56773,6 +56809,7 @@ cavalocchi
 cavalocchio
 cavammo
 cavando
+cavane
 cavano
 cavapietre
 cavare
@@ -56929,6 +56966,7 @@ cecoslovacchia
 cecoslovacco
 cecubi
 cecubo
+ceda
 cede
 cedente
 cedere
@@ -56950,6 +56988,7 @@ cediglia
 cediglie
 cedimenti
 cedimento
+cedo
 cedola
 cedolare
 cedolari
@@ -57418,6 +57457,7 @@ centoni
 centopiedi
 centotredici
 centotrenta
+centra
 centraggi
 centraggio
 centrale
@@ -57436,6 +57476,7 @@ centralizzati
 centralizzato
 centralizzazione
 centralizzazioni
+centrano
 centrare
 centrata
 centrate
@@ -58817,6 +58858,7 @@ cieli
 cielo
 cifosi
 cifra
+cifrai
 cifrare
 cifrari
 cifrario
@@ -58825,6 +58867,7 @@ cifrate
 cifrati
 cifrato
 cifre
+cifri
 cigli
 ciglia
 cigliata
@@ -58915,15 +58958,24 @@ cilizi
 cilizio
 cima
 cimabue
+cimai
+cimando
+cimare
 cimare
 cimasa
 cimase
+cimasti
+cimate
+cimati
+cimato
 cimatore
 cimatori
 cimatrice
 cimatrici
 cimatura
 cimature
+cimavi
+cimavo
 cimbali
 cimbalo
 cime
@@ -58956,6 +59008,7 @@ cimentiamo
 cimentiate
 cimentino
 cimento
+cimi
 cimice
 cimici
 cimiciai
@@ -58972,6 +59025,7 @@ cimiteri
 cimiteriale
 cimiteriali
 cimitero
+cimo
 cimoli
 cimolo
 cimosa
@@ -59470,6 +59524,7 @@ citabili
 citai
 citammo
 citando
+citane
 citano
 citante
 citanti
@@ -65430,7 +65485,10 @@ coprifuochi
 coprifuoco
 coprigiunti
 coprigiunto
+coprila
+coprile
 copriletto
+coprilo
 coprimmo
 coprimozzo
 coprira
@@ -65617,6 +65675,7 @@ cordofoni
 cordofono
 cordogli
 cordoglio
+cordoli
 cordonale
 cordonali
 cordonata
@@ -66878,6 +66937,7 @@ creai
 cream
 creammo
 creando
+creane
 creano
 creanza
 creanze
@@ -67498,6 +67558,8 @@ crivellero
 crivelli
 crivellino
 crivello
+croata
+croate
 croati
 croato
 croazia
@@ -67860,6 +67922,7 @@ cuccume
 cuce
 cuci
 cuciamo
+cucii
 cucina
 cucinai
 cucinammo
@@ -68161,7 +68224,9 @@ cuproleghe
 cura
 curabile
 curabili
+curaci
 curai
+curali
 curammo
 curando
 curano
@@ -68207,6 +68272,9 @@ curbasci
 curbascio
 curculione
 curculioni
+curda
+curde
+curdi
 curdo
 cure
 curera
@@ -68432,6 +68500,7 @@ dall
 dalla
 dallato
 dalle
+dalli
 dallo
 dalmata
 dalmate
@@ -69371,6 +69440,7 @@ decontaminazione
 decontestualizzare
 decontrazione
 decontrazioni
+decora
 decorare
 decorata
 decorate
@@ -71723,6 +71793,8 @@ dettagliati
 dettagliato
 dettaglio
 dettai
+dettala
+dettali
 dettame
 dettami
 dettammo
@@ -71849,6 +71921,7 @@ deve
 deverbale
 deverbali
 devi
+devia
 deviamenti
 deviamento
 deviante
@@ -71866,6 +71939,8 @@ deviatore
 deviatori
 deviatrice
 deviatrici
+deviava
+deviavo
 deviazione
 deviazioni
 deviazionismi
@@ -73561,6 +73636,7 @@ direi
 diremmo
 diremo
 diresse
+direste
 diresti
 direte
 diretta
@@ -73672,6 +73748,7 @@ dirizzone
 dirizzoni
 dirla
 dirle
+dirli
 dirlo
 dirmelo
 dirmi
@@ -78731,8 +78808,11 @@ elicotteri
 elicottero
 elidere
 elidersi
+elido
 elimina
 eliminai
+eliminala
+eliminali
 eliminammo
 eliminando
 eliminano
@@ -80075,6 +80155,7 @@ enunziato
 enunzio
 enuresi
 environment
+enza
 enzima
 enzimamtica
 enzimamtiche
@@ -80304,6 +80385,7 @@ epinicio
 epiontologia
 epiploite
 epiploon
+epiro
 epirogenesi
 epirogenetico
 epirrema
@@ -80809,8 +80891,10 @@ ergastolano
 ergastoli
 ergastolo
 ergativo
+erge
 ergere
 ergersi
+ergi
 ergo
 ergodica
 ergodiche
@@ -81123,6 +81207,7 @@ erroneita
 erroneo
 errore
 errori
+ersi
 erta
 erte
 erti
@@ -81969,6 +82054,7 @@ esita
 esitabile
 esitabili
 esitabondo
+esitai
 esitando
 esitano
 esitante
@@ -82938,6 +83024,7 @@ estraggono
 estragiudiziale
 estragiudiziali
 estragone
+estrai
 estraibile
 estraibili
 estrale
@@ -83771,6 +83858,8 @@ evirati
 evirato
 evirazione
 evirazioni
+eviri
+eviro
 eviscerare
 eviscerata
 eviscerate
@@ -85134,6 +85223,7 @@ fatidica
 fatidiche
 fatidici
 fatidico
+fatine
 fatiscente
 fato
 fatta
@@ -85159,6 +85249,7 @@ fattivo
 fattizio
 fatto
 fattoci
+fattone
 fattore
 fattoressa
 fattoresse
@@ -85795,6 +85886,7 @@ fermai
 fermamente
 fermammo
 fermando
+fermane
 fermanelli
 fermanello
 fermano
@@ -92388,6 +92480,7 @@ garresi
 garretti
 garretto
 garri
+garrii
 garrimento
 garrire
 garrirono
@@ -92725,6 +92818,7 @@ gavotta
 gavotte
 gavroche
 gay
+gaza
 gazare
 gazatore
 gazatori
@@ -92994,6 +93088,7 @@ gemmologia
 gemmologie
 gemmula
 gemmulario
+gemo
 gemoglia
 gemono
 genarca
@@ -93233,6 +93328,7 @@ genoani
 genoano
 genocidi
 genocidio
+genomi
 genotipi
 genotipica
 genotipiche
@@ -93321,6 +93417,7 @@ geocentrismo
 geochimica
 geochimiche
 geocronologia
+geode
 geode
 geodesia
 geodesie
@@ -94992,6 +95089,7 @@ giramaschi
 giramaschio
 giramenti
 giramento
+girami
 girammo
 giramondo
 giranastri
@@ -95023,6 +95121,7 @@ girarono
 girarrosti
 girarrosto
 girarsi
+girarti
 girasole
 girasoli
 girasse
@@ -97711,6 +97810,7 @@ gridii
 gridino
 gridio
 grido
+gridolino
 grifagna
 grifagne
 grifagni
@@ -98748,6 +98848,7 @@ gustarlo
 gustarne
 gustarono
 gustarsela
+gustarti
 gustasse
 gustassero
 gustassi
@@ -123218,6 +123319,8 @@ israelitiche
 israelitici
 israelitico
 issa
+issai
+issalo
 issammo
 issando
 issandosi
@@ -123239,6 +123342,7 @@ issera
 isseranno
 isseremo
 issero
+issi
 issiamo
 isso
 issopi
@@ -124804,6 +124908,7 @@ lamprede
 lampredotti
 lampredotto
 lana
+lanai
 lanaiola
 lanaiole
 lanaioli
@@ -125624,6 +125729,7 @@ latitanti
 latitanza
 latitanze
 latitare
+latito
 latitudinale
 latitudinali
 latitudinari
@@ -125973,6 +126079,7 @@ lavandini
 lavandino
 lavando
 lavandolo
+lavane
 lavano
 lavaocchi
 lavapiatti
@@ -136353,6 +136460,7 @@ melense
 melensi
 melenso
 meleti
+meleti
 meleto
 melfese
 melfesi
@@ -139162,6 +139270,8 @@ mignon
 mignonette
 mignotta
 mignotte
+migra
+migrai
 migrano
 migranti
 migrare
@@ -139174,6 +139284,7 @@ migratrice
 migratrici
 migrazione
 migrazioni
+migro
 miiasi
 mikado
 milady
@@ -139324,6 +139435,7 @@ millantavano
 millantavi
 millanteria
 millanterie
+millanti
 mille
 millecento
 millecinquecento
@@ -139575,6 +139687,7 @@ minacciosamente
 minacciose
 minacciosi
 minaccioso
+minai
 minando
 minano
 minare
@@ -139593,6 +139706,7 @@ minatorie
 minatorio
 minatrice
 minatrici
+minava
 minavano
 minchia
 minchiata
@@ -140041,6 +140155,7 @@ miraggio
 miragli
 miraglio
 mirai
+miralo
 mirammo
 miran
 miranda
@@ -141253,6 +141368,7 @@ moire
 moivre
 moka
 mola
+molai
 molale
 molali
 molalita
@@ -141630,6 +141746,7 @@ monco
 moncone
 monconi
 monda
+mondai
 mondami
 mondana
 mondane
@@ -144028,6 +144145,7 @@ multeranno
 multerebbe
 multerebbero
 multi
+multi
 multiarticolata
 multiarticolate
 multiarticolati
@@ -144453,6 +144571,7 @@ muraglia
 muraglie
 muraglione
 muraglioni
+murai
 muraiola
 muraiole
 muraioli
@@ -144463,6 +144582,7 @@ murales
 murali
 muralista
 muralisti
+murami
 murano
 murare
 murari
@@ -144925,9 +145045,9 @@ namibiana
 namibiane
 namibiani
 namibiano
+nana
 nanchino
 nandu
-nana
 nane
 naneria
 nanerie
@@ -148261,6 +148381,7 @@ notai
 notaia
 notaie
 notaio
+notami
 notammo
 notando
 notano
@@ -149997,11 +150118,15 @@ odalisca
 odalische
 ode
 odeon
+odessa
 odi
 odia
 odiabile
 odiabili
 odiai
+odiala
+odiale
+odiami
 odiammo
 odiamo
 odiando
@@ -150776,6 +150901,7 @@ oliare
 oliari
 oliario
 oliarono
+oliarsi
 oliasse
 oliassero
 oliassi
@@ -152233,6 +152359,7 @@ operar
 operare
 operarono
 operarsi
+operarti
 operasse
 operassero
 operassi
@@ -152689,6 +152816,7 @@ orange
 oranghi
 orango
 orangutan
+orano
 orante
 oranti
 orare
@@ -152698,6 +152826,7 @@ orarie
 orario
 orata
 orate
+orato
 oratore
 oratori
 oratoria
@@ -152847,6 +152976,7 @@ ordalie
 orde
 ordendo
 order
+ordi
 ordiamo
 ordiate
 ordigni
@@ -153451,6 +153581,7 @@ origliero
 origlino
 origlio
 orina
+orinai
 orinale
 orinali
 orinano
@@ -155696,6 +155827,7 @@ ovvero
 ovverosia
 ovvi
 ovvia
+ovviai
 ovviamente
 ovviamo
 ovviando
@@ -155818,7 +155950,10 @@ ozonosfere
 ozonoterapia
 pabst
 pabulo
+paca
+pacano
 pacare
+pacarmi
 pacata
 pacatamente
 pacate
@@ -155879,6 +156014,7 @@ pachistana
 pachistane
 pachistani
 pachistano
+paci
 paciale
 paciali
 paciara
@@ -155966,6 +156102,7 @@ packet
 packfong
 packs
 packtong
+paco
 padana
 padane
 padani
@@ -156092,6 +156229,7 @@ pagaiato
 pagaiava
 pagaiavano
 pagaie
+pagaio
 pagamenti
 pagamento
 pagammo
@@ -157981,6 +158119,7 @@ paraguayana
 paraguayane
 paraguayani
 paraguayano
+parai
 parainfermiera
 parainfermiere
 parainfermieri
@@ -158142,6 +158281,7 @@ paranchi
 parancia
 paranco
 parando
+parane
 paranefrio
 paranefrite
 paraneve
@@ -158327,6 +158467,7 @@ parava
 paravalanghe
 paraventi
 paravento
+paravi
 parca
 parcare
 parcata
@@ -158614,6 +158755,7 @@ pariniana
 pariniane
 pariniani
 pariniano
+parino
 pario
 parioli
 pariolina
@@ -161481,6 +161623,7 @@ pennute
 pennuti
 pennuto
 penny
+peno
 penombra
 penombrata
 penombrate
@@ -161501,6 +161644,7 @@ pensaci
 pensai
 pensamenti
 pensamento
+pensami
 pensammo
 pensando
 pensandoci
@@ -161696,6 +161840,7 @@ pentatonici
 pentatonico
 pentavalente
 pentavalenti
+pente
 pentecontoro
 pentecostale
 pentecostali
@@ -162879,6 +163024,7 @@ permeatore
 permeatori
 permeava
 permeavano
+permei
 permessa
 permesse
 permessi
@@ -163625,6 +163771,7 @@ pesages
 pesai
 pesalatte
 pesalettere
+pesami
 pesammo
 pesan
 pesando
@@ -163811,6 +163958,7 @@ pesta
 pestaggi
 pestaggio
 pestai
+pestala
 pestammo
 pestando
 pestano
@@ -164127,6 +164275,7 @@ photokit
 phyla
 phylum
 physique
+pi
 pia
 piacci
 piaccia
@@ -165961,6 +166110,7 @@ pirati
 pirazolo
 pirazolone
 pire
+pire
 pireliografi
 pireliografo
 pireliometri
@@ -166308,6 +166458,7 @@ pistolotto
 pistone
 pistoni
 pistrice
+pita
 pitagora
 pitagorica
 pitagoriche
@@ -167617,6 +167768,8 @@ poker
 pokerista
 pokeriste
 pokeristi
+pola
+Pola
 polacca
 polacche
 polacchi
@@ -169341,6 +169494,7 @@ portandoselo
 portandosene
 portandosi
 portandovi
+portane
 portano
 portante
 portanti
@@ -169554,6 +169708,9 @@ posacavi
 posacenere
 posaferro
 posai
+posala
+posale
+posali
 posamine
 posammo
 posamolle
@@ -169563,6 +169720,7 @@ posandole
 posandoli
 posandolo
 posandosi
+posane
 posano
 posapiano
 posar
@@ -170200,6 +170358,9 @@ potage
 potages
 potagione
 potagioni
+potai
+potale
+potali
 potamologia
 potamologie
 potamotoca
@@ -183871,6 +184032,8 @@ raro
 rasa
 rasae
 rasai
+rasali
+rasalo
 rasammo
 rasando
 rasandosi
@@ -195261,6 +195424,7 @@ rigalleggiava
 rigalleggiavano
 rigalleggino
 rigalleggio
+rigalo
 rigame
 rigami
 rigammo
@@ -196082,6 +196246,7 @@ rimacinati
 rimacinato
 rimagliatrice
 rimagliatrici
+rimai
 rimalmezzo
 rimanda
 rimandabile
@@ -205227,6 +205392,7 @@ rodigino
 rodilegno
 rodimenti
 rodimento
+rodimi
 rodin
 rodio
 rodiota
@@ -206008,6 +206174,7 @@ rotazionali
 rotazione
 rotazioni
 rotea
+roteali
 roteando
 roteante
 roteanti
@@ -206015,6 +206182,7 @@ roteare
 rotearono
 roteasse
 roteassero
+roteasti
 roteato
 roteava
 roteavano
@@ -206124,6 +206292,7 @@ rotorico
 rotovia
 rotovie
 rotta
+rottama
 rottamaggio
 rottamai
 rottamaia
@@ -208749,6 +208918,7 @@ sambuchi
 sambuco
 samese
 samesi
+sami
 samia
 samie
 samii
@@ -209607,6 +209777,7 @@ sargi
 sargia
 sargo
 sargon
+sari
 sariga
 sarissa
 sarisse
@@ -211865,6 +212036,8 @@ sbramini
 sbramino
 sbrana
 sbranai
+sbranala
+sbranali
 sbranamenti
 sbranamento
 sbranammo
@@ -212873,6 +213046,7 @@ scalcato
 scalcheria
 scalcherie
 scalchi
+scalci
 scalcia
 scalciando
 scalciano
@@ -216660,6 +216834,7 @@ scierete
 sciero
 scifi
 scifo
+scii
 sciiamo
 sciino
 sciistica
@@ -220388,6 +220563,7 @@ scucchiaiava
 scucchiaiavano
 scucendo
 scuci
+scucii
 scuciono
 scucire
 scucirono
@@ -222785,6 +222961,7 @@ seminabili
 seminagione
 seminagioni
 seminai
+seminala
 seminale
 seminali
 seminammo
@@ -223776,6 +223953,7 @@ sergenti
 sergentina
 sergentine
 sergio
+seri
 seria
 serial
 seriale
@@ -223862,6 +224040,7 @@ serigrafiche
 serigrafici
 serigrafico
 serigrafie
+serii
 serimetri
 serimetro
 serio
@@ -226973,6 +227152,7 @@ sgabello
 sgabuzzini
 sgabuzzino
 sgama
+sgamai
 sgamando
 sgamano
 sgamare
@@ -227006,6 +227186,7 @@ sgambettavano
 sgambetti
 sgambetto
 sgambo
+sgamo
 sganascia
 sganasciando
 sganasciandosi
@@ -229074,6 +229255,7 @@ signorsi
 sii
 sikh
 sikorskij
+sila
 silaggio
 silana
 silane
@@ -230393,7 +230575,9 @@ sistolici
 sistolico
 sistri
 sistro
+sita
 sitar
+site
 siti
 sitibonda
 sitibonde
@@ -233875,6 +234059,7 @@ soia
 soigne
 soiree
 soirees
+sol
 sola
 solai
 solaio
@@ -240997,6 +241182,7 @@ spernacchino
 spernacchio
 spero
 sperona
+speronai
 speronamenti
 speronamento
 speronana
@@ -241527,6 +241713,7 @@ spiaggiava
 spiaggiavano
 spiaggio
 spiai
+spiami
 spiammo
 spiamo
 spiana
@@ -241561,6 +241748,7 @@ spianavate
 spianavi
 spianavo
 spiando
+spiane
 spianera
 spianerai
 spianeranno
@@ -243395,8 +243583,11 @@ sporulazioni
 sporule
 sposa
 sposai
+sposale
+sposali
 sposalizi
 sposalizio
+sposami
 sposammo
 sposando
 sposandoci
@@ -247211,6 +247402,7 @@ stigmatizzo
 stigme
 stigmi
 stila
+stilai
 stilando
 stilano
 stilare
@@ -247768,6 +247960,7 @@ stivaloni
 stivamento
 stivammo
 stivando
+stivane
 stivano
 stivare
 stivarono
@@ -252612,6 +252805,7 @@ sunne
 sunnismo
 sunnista
 sunnisti
+sunnita
 sunnominata
 sunnominate
 sunnominati
@@ -252733,6 +252927,8 @@ suonino
 suono
 suora
 suore
+suorina
+suorine
 suovetaurilia
 super
 supera
@@ -253293,6 +253489,7 @@ supreme
 supremi
 supremo
 suq
+sura
 surah
 suralimentazione
 surclassa
@@ -254756,6 +254953,7 @@ svezzino
 svezzo
 svia
 sviai
+sviale
 sviamenti
 sviamento
 sviammo
@@ -255823,6 +256021,7 @@ tackle
 tackles
 tacnodi
 tacnodo
+taco
 taconeo
 tacque
 tacquero
@@ -255895,6 +256094,7 @@ tagliafuoco
 tagliafuori
 tagliai
 taglialegna
+tagliali
 tagliamare
 tagliamento
 tagliammo
@@ -256034,6 +256234,7 @@ tagmemica
 tagmemiche
 tagmemici
 tagmemico
+tago
 taguan
 tahiti
 tahitiana
@@ -257246,11 +257447,13 @@ tassonomiste
 tassonomisti
 tasta
 tastai
+tastali
 tastammo
 tastando
 tastano
 tastar
 tastare
+tastarmi
 tastarono
 tastasse
 tastassero
@@ -258652,6 +258855,7 @@ temiate
 temibile
 temibili
 temine
+temino
 temistocle
 temo
 temoli
@@ -259268,6 +259472,7 @@ tentacolo
 tentai
 tentamenti
 tentamento
+tentami
 tentammo
 tentanda
 tentando
@@ -261244,6 +261449,7 @@ tifavate
 tifavi
 tifavo
 tifeo
+tifera
 tiferebbe
 tiferebbero
 tiferei
@@ -261252,6 +261458,7 @@ tifereste
 tiferesti
 tifernate
 tifernati
+tifi
 tifiamo
 tifiate
 tifica
@@ -261734,6 +261941,7 @@ tiptologie
 tiptop
 tipula
 tipule
+tir
 tira
 tirabaci
 tirabozze
@@ -262178,6 +262386,8 @@ toccabili
 toccaferro
 toccai
 toccalapis
+toccale
+toccali
 toccamani
 toccamano
 toccamenti
@@ -262669,6 +262879,7 @@ tonferanno
 tonfete
 tonfi
 tonfo
+tonga
 toni
 tonia
 tonica
@@ -269406,6 +269617,7 @@ tritasti
 tritata
 tritate
 tritati
+tritato
 tritatura
 tritature
 tritatutto
@@ -270608,6 +270820,7 @@ tulliane
 tulliani
 tulliano
 tullio
+tuma
 tumefa
 tumefaccia
 tumefacciamo
@@ -271555,6 +271768,8 @@ udire
 udiremo
 udirete
 udirla
+udirli
+udirlo
 udirmi
 udirne
 udiro
@@ -272422,6 +272637,7 @@ unipari
 uniparo
 unipolare
 unipolari
+unira
 unirai
 uniranno
 unire
@@ -272433,6 +272649,7 @@ uniremo
 unireste
 uniresti
 unirete
+uniro
 unirono
 unirsi
 unisca
@@ -272710,6 +272927,7 @@ urgi
 urgiamo
 urgo
 urgono
+uri
 urica
 uricemia
 uricemica
@@ -272738,6 +272956,7 @@ urlarono
 urlasse
 urlassero
 urlassimo
+urlaste
 urlasti
 urlata
 urlate
@@ -272753,6 +272972,7 @@ urlavano
 urlavate
 urlavi
 urlavo
+urlera
 urlerai
 urleranno
 urlerebbe
@@ -272809,6 +273029,10 @@ urotropina
 urotropine
 urss
 urta
+urtai
+urtala
+urtalo
+urtami
 urtammo
 urtano
 urtante
@@ -272869,6 +273093,9 @@ usa
 usabile
 usabili
 usai
+usala
+usale
+usalo
 usammo
 usando
 usano
@@ -272879,6 +273106,7 @@ usarla
 usarlo
 usarono
 usarsi
+usarti
 usasse
 usassero
 usassi
@@ -273037,21 +273265,58 @@ usufruttuaria
 usufruttuarie
 usufruttuario
 usura
+usura
 usurabile
 usurabili
 usurabilita
+usurai
 usurai
 usuraia
 usuraie
 usuraio
 usuramento
+usurammo
+usurando
+usurano
+usurante
+usurare
 usurare
 usurari
 usuraria
 usurarie
 usurario
+usurarono
+usurasse
+usurassero
+usurassi
+usurassimo
+usuraste
+usurasti
+usurate
+usurato
+usurava
+usuravamo
+usuravano
+usuravate
+usuravi
+usuravo
 usure
 usureggiare
+usurera
+usurerai
+usureranno
+usurerebbe
+usurerebbero
+usurerei
+usureremmo
+usureremo
+usurereste
+usureresti
+usurerete
+usurero
+usuri
+usuriamo
+usuro
 usurpa
 usurpai
 usurpammo
@@ -273206,8 +273471,10 @@ uzbeko
 uzzoli
 uzzolo
 va
+vaca
 vacabile
 vacabili
+vacai
 vacando
 vacante
 vacanti
@@ -273366,6 +273633,7 @@ vagabondavano
 vagabonde
 vagabondi
 vagabondo
+vagai
 vagale
 vagali
 vagammo
@@ -273448,6 +273716,7 @@ vaghi
 vaghiamo
 vaghiate
 vaghino
+vagi
 vagiamo
 vagiate
 vagile
@@ -273771,9 +274040,11 @@ valorose
 valorosi
 valoroso
 valpolicella
+valsa
 valse
 valsero
 valsesia
+valso
 valtellina
 valuta
 valutabile
@@ -274118,6 +274389,7 @@ vaporoso
 vaquero
 vaqueros
 vara
+varai
 varamento
 varammo
 varando
@@ -274569,6 +274841,8 @@ veemente
 veementi
 veemenza
 veemenze
+vegane
+vegani
 vegeta
 vegetai
 vegetale
@@ -275544,6 +275818,7 @@ vermicolare
 vermicolari
 vermicolazione
 vermiculite
+vermiculite
 vermiculiti
 vermiforme
 vermiformi
@@ -276014,6 +276289,7 @@ vestigia
 vestigiale
 vestigiali
 vestigio
+vestii
 vestimenta
 vestimenti
 vestimento
@@ -276701,6 +276977,7 @@ vietabile
 vietabili
 vietae
 vietai
+vietala
 vietammo
 vietando
 vietano
@@ -276969,6 +277246,7 @@ vinate
 vinati
 vinato
 vinavil
+vinca
 vincaia
 vincaie
 vincano
@@ -277239,6 +277517,7 @@ viraggi
 viraggio
 viragini
 virago
+virai
 virale
 virali
 viramenti
@@ -277957,6 +278236,7 @@ viziai
 viziammo
 viziamo
 viziando
+viziane
 viziano
 viziare
 viziarono
