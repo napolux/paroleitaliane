@@ -98920,7 +98920,6 @@ habilis
 habitat
 habitue
 habituee
-habituees
 habitues
 habitus
 hacienda
@@ -98945,7 +98944,6 @@ hallo
 halls
 hamada
 hamburger
-hamburgers
 hamilton
 hamiltoniana
 hamiltoniane
@@ -142454,8 +142452,6 @@ monrealesi
 monregalese
 monregalesi
 monroe
-mons
-monsieur
 monsignor
 monsignore
 monsignori
@@ -149153,7 +149149,6 @@ nyala
 nylon
 nyquist
 o
-oascar
 oasi
 oasistica
 oasistiche
@@ -150059,7 +150054,6 @@ ocellati
 ocellato
 ocelli
 ocello
-ocelot
 ocelotti
 ocelotto
 oche
@@ -152001,7 +151995,6 @@ onerose
 onerosi
 onerosita
 oneroso
-onest
 onesta
 onestamente
 onestare
@@ -152760,12 +152753,8 @@ optero
 opti
 optiamo
 optiate
-optical
 optimum
 optino
-option
-optional
-optionals
 opto
 optoelettronica
 optoelettroniche
@@ -152975,7 +152964,6 @@ ordalico
 ordalie
 orde
 ordendo
-order
 ordi
 ordiamo
 ordiate
@@ -161523,7 +161511,6 @@ penili
 penino
 peninsulare
 peninsulari
-penis
 penisola
 penisole
 penitente
@@ -163404,7 +163391,6 @@ persevererebbero
 perseveri
 perseverino
 persevero
-pershing
 persi
 persia
 persiana
@@ -164266,7 +164252,6 @@ pfennig
 pfennige
 pfui
 phaeton
-philosophes
 phon
 photo
 photofit
@@ -165196,7 +165181,6 @@ pienotte
 pienotti
 pienotto
 piera
-pierce
 pieri
 pieria
 pierie
@@ -166468,9 +166452,6 @@ pitagorismi
 pitagorismo
 pitale
 pitali
-pitch
-pitcher
-pitchers
 pitecantropi
 pitecantropo
 pitecoide
@@ -166826,7 +166807,6 @@ plaga
 plagale
 plagali
 plagato
-plage
 plaghe
 plagi
 plagia
@@ -179150,7 +179130,6 @@ purulento
 purulenza
 purulenze
 pus
-pusher
 pusillanime
 pusillanimi
 pusillanimita
@@ -182784,8 +182763,6 @@ ragutiera
 ragutiere
 rai
 raiare
-raid
-raider
 raidista
 raidisti
 raids
@@ -184605,7 +184582,6 @@ rateizzi
 rateizzino
 rateizzo
 rateo
-rates
 ratiera
 ratiere
 ratifica
@@ -185201,12 +185177,6 @@ razzolo
 razzumaglia
 re
 rea
-reader
-readership
-reading
-ready
-readymade
-reagan
 reaganiana
 reaganiane
 reaganiani
@@ -185909,12 +185879,8 @@ recordista
 recordisti
 recordman
 recordmen
-records
-recordwoman
-recordwomen
 recotti
 recotto
-recovery
 recreazione
 recrimina
 recriminabile
@@ -206340,8 +206306,6 @@ roulottista
 roulottisti
 roulottizzazione
 roulottopoli
-round
-rounds
 rousseau
 rousseauiana
 rousseauiane
@@ -234204,7 +234168,6 @@ soleggiava
 soleggiavano
 soleggio
 solei
-soleil
 solemmo
 solendo
 solenite
@@ -250217,7 +250180,6 @@ strino
 strinse
 strinsero
 strinsi
-strip
 strippa
 strippaggio
 strippando
@@ -257701,9 +257663,7 @@ tazzine
 te
 teacea
 teacee
-teaching
 team
-teams
 teandria
 teandrica
 teandriche
@@ -264443,8 +264403,6 @@ tracotanza
 tracotanze
 tractatus
 tradano
-trade
-trademark
 tradendo
 tradendosi
 tradere
@@ -264993,7 +264951,6 @@ trainavate
 trainavi
 trainavo
 traine
-trainer
 trainera
 trainerai
 traineranno
@@ -265006,14 +264963,12 @@ trainereste
 traineresti
 trainerete
 trainero
-trainers
 traini
 trainiamo
 trainiate
 training
 trainino
 traino
-trait
 traiti
 tralascera
 tralascerai
@@ -269453,7 +269408,6 @@ tripperie
 trippona
 trippone
 tripponi
-trips
 tripsina
 tripsine
 triptofano
@@ -270561,7 +270515,6 @@ tsigane
 tsigani
 tsigano
 tsunami
-ttero
 tu
 tua
 tuareg
@@ -271554,7 +271507,6 @@ tuzioristico
 tweed
 tweeter
 twill
-twirling
 twist
 twistore
 twistori
@@ -274741,8 +274693,6 @@ vecciule
 vecciuli
 vece
 veci
-vecia
-vecio
 veda
 vedano
 vede
@@ -278647,7 +278597,6 @@ volovelistica
 volovelistiche
 volovelistici
 volovelistico
-volpa
 volpacce
 volpacchiotta
 volpacchiotte
@@ -279279,8 +279228,6 @@ wolfram
 wolframi
 wolframio
 wolframite
-woman
-women
 woofer
 woolf
 workshop
@@ -279420,8 +279367,6 @@ yakusa
 yamatologia
 yamatologo
 yankee
-yankees
-yards
 yatang
 yawls
 yearling
