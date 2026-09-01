@@ -15,7 +15,17 @@ Apri una [issue](https://github.com/napolux/paroleitaliane/issues) descrivendo:
 2. Crea un branch descrittivo: `git checkout -b fix/parole-mancanti`
 3. Modifica i file nella cartella `paroleitaliane/`
 4. Verifica che i file siano in **UTF-8 senza BOM** e con terminazioni di riga **LF** (`\n`)
-5. Apri una Pull Request con una descrizione chiara
+5. **Prima di aprire la PR**, rigenera i file derivati con gli script della
+   cartella [`scripts/`](scripts/README.md):
+
+   ```bash
+   ./scripts/genera_parole_uniche.sh   # rigenera paroleitaliane/parole_uniche.txt
+   ./scripts/crea_zip.sh               # ricrea bruteforce.zip e paroleitaliane.zip
+   ```
+
+   In questo modo `parole_uniche.txt` e gli archivi ZIP restano allineati alle
+   tue modifiche. Consulta [`scripts/README.md`](scripts/README.md) per i dettagli.
+6. Apri una Pull Request con una descrizione chiara
 
 ### Regole per i file
 
