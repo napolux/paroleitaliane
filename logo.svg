@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180">
+  <defs>
+    <linearGradient id="it" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#009246"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#CE2B37"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="180" rx="16" fill="#1a1a2e"/>
+  <text x="300" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="url(#it)">parole italiane</text>
+  <text x="300" y="115" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#8892b0">📚 2.7M+ parole · 13 liste · open source</text>
+  <text x="300" y="150" text-anchor="middle" font-family="monospace" font-size="14" fill="#64ffda">àèéìòù — il dizionario digitale italiano</text>
+</svg>
