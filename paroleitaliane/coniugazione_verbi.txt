@@ -54064,6 +54064,13 @@ bypassiate
 bypassino
 bypasso
 bypassò
+c'è
+c'era
+c'erano
+c'eravamo
+c'eravate
+c'eri
+c'ero
 cabla
 cablai
 cablammo
@@ -59717,7 +59724,6 @@ cazzottiate
 cazzottino
 cazzotto
 cazzottò
-c'è
 ceda
 cedano
 cede
@@ -60532,12 +60538,10 @@ centuplichiate
 centuplichino
 centuplico
 centuplicò
-c'era
 cera
 cerai
 cerammo
 cerando
-c'erano
 cerano
 cerante
 cerare
@@ -60551,10 +60555,8 @@ cerasti
 cerate
 cerato
 cerava
-c'eravamo
 ceravamo
 ceravano
-c'eravate
 ceravate
 ceravi
 ceravo
@@ -60657,7 +60659,6 @@ cerereste
 cereresti
 cererete
 cererò
-c'eri
 ceri
 ceriamo
 ceriate
@@ -60703,7 +60704,6 @@ cerniate
 cerno
 cernono
 cernuto
-c'ero
 cero
 cerò
 certifica

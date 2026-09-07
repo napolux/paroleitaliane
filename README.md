@@ -11,26 +11,31 @@ recuperate da un vecchio hard disk, altre con la "fonte" indicata ove possibile 
 
 ## I file
 
-Tutti i file sono in **UTF-8 senza BOM**, con **una parola per riga** e terminatori di riga **LF**.
-Salvo dove indicato, le parole sono in minuscolo. L'ordinamento varia da file a file:
-alcuni sono ordinati alfabeticamente, altri conservano l'ordine originale della fonte.
+Tutti i file rispettano le stesse regole:
+
+- **UTF-8 senza BOM**, terminatori di riga **LF**, newline finale;
+- **una parola per riga**, nessuna riga vuota, nessun duplicato;
+- **ordinamento alfabetico con collation italiana** (`it_IT.UTF-8`): le lettere accentate
+  stanno accanto alla lettera base — `abbaccherà` si trova tra `abbaccheranno` e
+  `abbaccherai`, non in fondo dopo la `z` come accadrebbe ordinando byte per byte;
+- parole in minuscolo, salvo dove indicato nella tabella.
 
 | File | Righe | Dim. | Contenuto |
 | --- | ---: | ---: | --- |
 | [`400_parole_composte.txt`](paroleitaliane/400_parole_composte.txt) | 419 | 8 KB | Parole composte con trattino (`abat-jour`, `baby-sitter`) |
-| [`lista_badwords.txt`](paroleitaliane/lista_badwords.txt) | 453 | 8 KB | Parolacce e termini volgari, NSFW :D |
-| [`1000_parole_italiane_comuni.txt`](paroleitaliane/1000_parole_italiane_comuni.txt) | 1.159 | 12 KB | Le parole di uso più comune |
+| [`lista_badwords.txt`](paroleitaliane/lista_badwords.txt) | 454 | 8 KB | Parolacce e termini volgari, NSFW :D |
+| [`1000_parole_italiane_comuni.txt`](paroleitaliane/1000_parole_italiane_comuni.txt) | 1.160 | 12 KB | Le parole di uso più comune |
 | [`9000_nomi_propri.txt`](paroleitaliane/9000_nomi_propri.txt) | 8.912 | 72 KB | Nomi propri di persona |
 | [`lista_38000_cognomi.txt`](paroleitaliane/lista_38000_cognomi.txt) | 38.487 | 324 KB | Cognomi italiani (**con iniziale maiuscola**) |
-| [`60000_parole_italiane.txt`](paroleitaliane/60000_parole_italiane.txt) | 60.454 | 556 KB | Parole italiane comuni |
-| [`95000_parole_italiane_con_nomi_propri.txt`](paroleitaliane/95000_parole_italiane_con_nomi_propri.txt) | 95.192 | 1,0 MB | Parole italiane, più nomi propri e località |
-| [`110000_parole_italiane_con_nomi_propri.txt`](paroleitaliane/110000_parole_italiane_con_nomi_propri.txt) | 116.877 | 1,2 MB | Parole italiane, nomi propri (persone e città) e termini stranieri di uso comune, anche informatico |
+| [`60000_parole_italiane.txt`](paroleitaliane/60000_parole_italiane.txt) | 60.444 | 556 KB | Parole italiane comuni |
+| [`95000_parole_italiane_con_nomi_propri.txt`](paroleitaliane/95000_parole_italiane_con_nomi_propri.txt) | 95.053 | 1,0 MB | Parole italiane, più nomi propri e località |
+| [`110000_parole_italiane_con_nomi_propri.txt`](paroleitaliane/110000_parole_italiane_con_nomi_propri.txt) | 116.871 | 1,2 MB | Parole italiane, nomi propri (persone e città) e termini stranieri di uso comune, anche informatico |
 | [`lista_cognomi.txt`](paroleitaliane/lista_cognomi.txt) | 175.239 | 1,4 MB | Cognomi italiani e stranieri |
-| [`280000_parole_italiane.txt`](paroleitaliane/280000_parole_italiane.txt) | 279.894 | 2,9 MB | Parole italiane, incluse le forme flesse |
+| [`280000_parole_italiane.txt`](paroleitaliane/280000_parole_italiane.txt) | 279.894 | 3,0 MB | Parole italiane, incluse le forme flesse |
 | [`coniugazione_verbi.txt`](paroleitaliane/coniugazione_verbi.txt) | 334.953 | 3,8 MB | Coniugazioni di verbi italiani — estratto da [verb-data](https://github.com/ian-hamlin/verb-data), licenza [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | [`660000_parole_italiane.txt`](paroleitaliane/660000_parole_italiane.txt) | 661.569 | 7,3 MB | La lista più ampia di sole parole italiane — grazie a [scalaWords](https://github.com/pazqo/scalaWords) |
-| [`parole_uniche.txt`](paroleitaliane/parole_uniche.txt) | 969.763 | 11 MB | **Generato**: tutte le parole di tutti i file qui sopra, senza duplicati |
-| [`bruteforce.txt`](bruteforce/bruteforce.txt) | 1.072.988 | 7,3 MB | Wordlist per brute force (vedi sotto) |
+| [`parole_uniche.txt`](paroleitaliane/parole_uniche.txt) | 969.761 | 11 MB | **Generato**: tutte le parole di tutti i file qui sopra, senza duplicati |
+| [`bruteforce.txt`](bruteforce/bruteforce.txt) | 1.072.619 | 7,3 MB | Wordlist per brute force (vedi sotto) |
 
 ### `bruteforce.txt`
 
@@ -102,8 +107,8 @@ stanerebbe
 `95000_parole_italiane_con_nomi_propri.txt`
 
 ```
-volsero
 volse
+volsero
 volt
 ```
 
@@ -111,8 +116,8 @@ volt
 
 ```
 eva
-faq
-fsf
+evacua
+evacuai
 ```
 
 `lista_cognomi.txt`
@@ -171,6 +176,8 @@ Nella cartella [`scripts/`](scripts/) trovi due script in bash puro per rigenera
 ./scripts/crea_zip.sh               # ricrea i due archivi ZIP
 ```
 
+`genera_parole_uniche.sh` richiede la locale `it_IT.UTF-8` per ordinare con la collation
+italiana; se manca, lo script si ferma e te lo segnala.
 Dettagli e prerequisiti nel [README degli script](scripts/README.md).
 
 ## Come posso contribuire?

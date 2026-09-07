@@ -8,6 +8,13 @@ Funzionano su qualsiasi sistema **Linux** o **macOS** con i comandi standard
 
 - Una shell **bash**
 - Il comando **`zip`** (necessario solo per `crea_zip.sh`)
+- La locale **`it_IT.UTF-8`** (necessaria solo per `genera_parole_uniche.sh`)
+
+Su macOS la locale italiana è già installata. Su Linux, se manca, la installi con:
+
+```bash
+sudo locale-gen it_IT.UTF-8
+```
 
 Prima del primo utilizzo, rendi gli script eseguibili:
 
@@ -21,7 +28,13 @@ chmod +x scripts/*.sh
 
 Crea (o rigenera) il file `paroleitaliane/parole_uniche.txt`, che contiene
 **tutte le parole** presenti nei file `.txt` della cartella `paroleitaliane`,
-**senza duplicati** e in ordine alfabetico.
+**senza duplicati** e ordinate alfabeticamente con la **collation italiana**
+(`it_IT.UTF-8`): le lettere accentate stanno accanto alla lettera base, non in
+fondo dopo la `z`.
+
+I duplicati vengono rimossi con un confronto byte per byte e non con `sort -u`,
+perché con la collation italiana due righe diverse possono risultare "uguali"
+(es. `Ardigo` e `Ardigo’`) e una delle due andrebbe persa.
 
 Il file di output stesso (`parole_uniche.txt`) viene escluso dalla lettura,
 così da non reintrodurre dati vecchi ad ogni esecuzione.

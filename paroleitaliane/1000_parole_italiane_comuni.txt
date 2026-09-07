@@ -174,13 +174,13 @@ chiudere
 ci
 ciascuno
 cielo
+ciò
 cioè
 circa
-cittadino
 città
+cittadino
 civile
 civiltà
-ciò
 classe
 collina
 collo
@@ -431,6 +431,7 @@ genere
 gente
 gesto
 gettare
+già
 giallo
 giardino
 giocare
@@ -443,14 +444,13 @@ giovane
 giovanotto
 girare
 giro
+giù
 giudicare
 giudizio
 giugno
 giungere
 giustizia
 giusto
-già
-giù
 godere
 governo
 grado
@@ -518,6 +518,7 @@ isola
 istante
 istituto
 italiano
+là
 labbro
 lago
 lanciare
@@ -537,6 +538,7 @@ lettera
 letto
 levare
 li
+lì
 liberare
 libero
 libertà
@@ -555,8 +557,6 @@ lui
 luna
 lungo
 luogo
-là
-lì
 ma
 macchina
 madre
@@ -595,9 +595,9 @@ merito
 mese
 messa
 mestiere
+metà
 metro
 mettere
-metà
 mezzo
 mi
 migliore
@@ -635,6 +635,7 @@ nave
 nazionale
 nazione
 ne
+né
 neanche
 necessario
 necessità
@@ -662,7 +663,6 @@ nulla
 numero
 numeroso
 nuovo
-né
 o
 occasione
 occhio
@@ -737,10 +737,10 @@ pericolo
 pericoloso
 periodo
 permettere
+però
 persona
 personaggio
 personale
-però
 pesare
 peso
 pezzo
@@ -754,10 +754,10 @@ piazza
 piccolo
 piede
 pieno
-pietra
 pietà
-piuttosto
+pietra
 più
+piuttosto
 poco
 poesia
 poeta
@@ -967,6 +967,7 @@ settimana
 sforzo
 sguardo
 si
+sì
 sicurezza
 sicuro
 significare
@@ -1052,7 +1053,6 @@ superiore
 svegliare
 sviluppo
 svolgere
-sì
 tacere
 tagliare
 tale

@@ -32337,7 +32337,6 @@ parentesi
 parenti
 parere
 pareri
-pareri
 parerti
 parete
 pareti
@@ -34707,7 +34706,6 @@ precorse
 precorsi
 precorso
 pred
-pred
 preda
 predai
 predammo
@@ -35151,7 +35149,6 @@ prescrive
 prescrivi
 prescrivo
 prese
-present
 present
 presenta
 presentai
@@ -37355,7 +37352,6 @@ rantoli
 rantolò
 ranuncoli
 ranuncolo
-rap
 rap
 rapa
 rapace
@@ -42148,7 +42144,6 @@ sagrati
 sagrato
 sai
 sal
-sal
 sala
 salai
 salame
@@ -46331,7 +46326,6 @@ sfinivate
 sfinivi
 sfinivo
 sfior
-sfior
 sfiora
 sfiorai
 sfiorammo
@@ -47690,7 +47684,6 @@ smaliziata
 smaliziate
 smaliziati
 smaliziato
-smalt
 smalt
 smalta
 smaltai
@@ -49333,7 +49326,6 @@ spandono
 spanna
 spanne
 spanrsa
-spar
 spar
 spara
 sparai
@@ -55472,7 +55464,6 @@ tormenti
 tormentino
 tormentò
 torn
-torn
 torna
 tornai
 tornammo
@@ -60451,4 +60442,3 @@ zuppa
 zuppe
 zuppiera
 zuzzurellone
-
