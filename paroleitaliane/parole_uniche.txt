@@ -317999,6 +317999,8 @@ donatismo
 donatista
 donatiste
 donatisti
+donativa
+donative
 donativi
 donativo
 donato
@@ -881838,6 +881840,10 @@ suddeleghiamo
 suddeleghiate
 suddeleghino
 suddelego
+suddescritta
+suddescritte
+suddescritti
+suddescritto
 suddetta
 suddette
 suddetti
