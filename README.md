@@ -56,12 +56,16 @@ Nella radice del repository trovi anche [`paroleitaliane.zip`](paroleitaliane.zi
 <details>
 <summary><b>Estratti dai file</b></summary>
 
+Cinque parole consecutive prese da ciascun file.
+
 `400_parole_composte.txt`
 
 ```
 baby-dolls
 baby-sitter
 baby-sitters
+baby-sitting
+bas-bleu
 ```
 
 `lista_badwords.txt`
@@ -70,6 +74,8 @@ baby-sitters
 baldracca
 baldraccacce
 baldraccaccia
+baldracche
+baldraccona
 ```
 
 `1000_parole_italiane_comuni.txt`
@@ -78,6 +84,8 @@ baldraccaccia
 spazio
 speciale
 specie
+spegnere
+speranza
 ```
 
 `9000_nomi_propri.txt`
@@ -86,6 +94,8 @@ specie
 fernando
 fernella
 fernero
+fernice
+fernida
 ```
 
 `lista_38000_cognomi.txt`
@@ -94,6 +104,8 @@ fernero
 Agnelli
 Agnellini
 Agnello
+Agnelluti
+Agnellutti
 ```
 
 `60000_parole_italiane.txt`
@@ -102,6 +114,8 @@ Agnello
 stanerai
 staneranno
 stanerebbe
+stanerei
+staneremmo
 ```
 
 `95000_parole_italiane_con_nomi_propri.txt`
@@ -110,6 +124,8 @@ stanerebbe
 volse
 volsero
 volt
+voltabile
+voltafaccia
 ```
 
 `110000_parole_italiane_con_nomi_propri.txt`
@@ -118,6 +134,8 @@ volt
 eva
 evacua
 evacuai
+evacuammo
+evacuando
 ```
 
 `lista_cognomi.txt`
@@ -126,6 +144,8 @@ evacuai
 vinacciuoli
 vinadia
 vinagli
+vinago
+vinaj
 ```
 
 `280000_parole_italiane.txt`
@@ -134,6 +154,8 @@ vinagli
 roderebbe
 roderebbero
 roderei
+roderemmo
+roderemo
 ```
 
 `coniugazione_verbi.txt`
@@ -144,9 +166,6 @@ virai
 virammo
 virando
 virano
-virante
-virare
-virarono
 ```
 
 `660000_parole_italiane.txt`
@@ -155,6 +174,18 @@ virarono
 zurlavamo
 zurlavano
 zurlavate
+zurlavi
+zurlavo
+```
+
+`parole_uniche.txt`
+
+```
+perbacco
+perbellini
+perbene
+perbenismi
+perbenismo
 ```
 
 `bruteforce.txt`
@@ -163,6 +194,8 @@ zurlavate
 111105
 111106
 111107
+111108
+111109
 ```
 
 </details>
