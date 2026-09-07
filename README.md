@@ -18,7 +18,8 @@ Tutti i file rispettano le stesse regole:
 - **ordinamento alfabetico con collation italiana** (`it_IT.UTF-8`): le lettere accentate
   stanno accanto alla lettera base — `abbaccherà` si trova tra `abbaccheranno` e
   `abbaccherai`, non in fondo dopo la `z` come accadrebbe ordinando byte per byte;
-- parole in minuscolo, salvo dove indicato nella tabella.
+- parole in **minuscolo**. Fanno eccezione solo `bruteforce.txt`, dove le maiuscole
+  fanno parte delle password, e qualche nome proprio come `emTeX`.
 
 | File | Righe | Dim. | Contenuto |
 | --- | ---: | ---: | --- |
@@ -26,7 +27,7 @@ Tutti i file rispettano le stesse regole:
 | [`lista_badwords.txt`](paroleitaliane/lista_badwords.txt) | 454 | 8 KB | Parolacce e termini volgari, NSFW :D |
 | [`1000_parole_italiane_comuni.txt`](paroleitaliane/1000_parole_italiane_comuni.txt) | 1.160 | 12 KB | Le parole di uso più comune |
 | [`9000_nomi_propri.txt`](paroleitaliane/9000_nomi_propri.txt) | 8.912 | 72 KB | Nomi propri di persona |
-| [`lista_38000_cognomi.txt`](paroleitaliane/lista_38000_cognomi.txt) | 38.487 | 324 KB | Cognomi italiani (**con iniziale maiuscola**) |
+| [`lista_38000_cognomi.txt`](paroleitaliane/lista_38000_cognomi.txt) | 38.486 | 324 KB | Cognomi italiani |
 | [`60000_parole_italiane.txt`](paroleitaliane/60000_parole_italiane.txt) | 60.444 | 556 KB | Parole italiane comuni |
 | [`95000_parole_italiane_con_nomi_propri.txt`](paroleitaliane/95000_parole_italiane_con_nomi_propri.txt) | 95.053 | 1,0 MB | Parole italiane, più nomi propri e località |
 | [`110000_parole_italiane_con_nomi_propri.txt`](paroleitaliane/110000_parole_italiane_con_nomi_propri.txt) | 116.871 | 1,2 MB | Parole italiane, nomi propri (persone e città) e termini stranieri di uso comune, anche informatico |
@@ -34,7 +35,7 @@ Tutti i file rispettano le stesse regole:
 | [`280000_parole_italiane.txt`](paroleitaliane/280000_parole_italiane.txt) | 279.894 | 3,0 MB | Parole italiane, incluse le forme flesse |
 | [`coniugazione_verbi.txt`](paroleitaliane/coniugazione_verbi.txt) | 334.953 | 3,8 MB | Coniugazioni di verbi italiani — estratto da [verb-data](https://github.com/ian-hamlin/verb-data), licenza [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | [`660000_parole_italiane.txt`](paroleitaliane/660000_parole_italiane.txt) | 661.569 | 7,3 MB | La lista più ampia di sole parole italiane — grazie a [scalaWords](https://github.com/pazqo/scalaWords) |
-| [`parole_uniche.txt`](paroleitaliane/parole_uniche.txt) | 969.761 | 11 MB | **Generato**: tutte le parole di tutti i file qui sopra, senza duplicati |
+| [`parole_uniche.txt`](paroleitaliane/parole_uniche.txt) | 935.808 | 10 MB | **Generato**: tutte le parole di tutti i file qui sopra, senza duplicati |
 | [`bruteforce.txt`](bruteforce/bruteforce.txt) | 1.072.619 | 7,3 MB | Wordlist per brute force (vedi sotto) |
 
 ### `bruteforce.txt`
@@ -101,11 +102,11 @@ fernida
 `lista_38000_cognomi.txt`
 
 ```
-Agnelli
-Agnellini
-Agnello
-Agnelluti
-Agnellutti
+agnelli
+agnellini
+agnello
+agnelluti
+agnellutti
 ```
 
 `60000_parole_italiane.txt`
